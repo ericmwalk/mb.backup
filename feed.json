@@ -7,10 +7,113 @@
 	"items": [
 		
 			{
+				"id": "http://ericmwalk.micro.blog/2022/02/25/glad-the-sun.html",
+				
+				"content_html": "<p>Glad the sun was out today but still a good amount of snow (with hidden ice) to <a href=\"http://www.strava.com/activities/6736982367\">trudge</a> through.  🏃🏻‍♂️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Glad the sun was out today but still a good amount of snow (with hidden ice) to [trudge](http://www.strava.com/activities/6736982367) through.  🏃🏻‍♂️\n\n\n<img src=\"uploads/2022/2c0d5422f2.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-02-25T16:46:56-06:00",
+				"url": "https://ericmwalk.blog/2022/02/25/glad-the-sun.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2022/02/24/there-is-a.html",
+				
+				"content_html": "<p>There is a <a href=\"http://www.strava.com/activities/6732395158\">trail</a> right through that mound of snow. 🙄</p>\n<p>At this point I wasn’t going to turn around so I had to go over it. Also, more ice out there than I anticipated as well so it was long slow miles today. 🏃🏻‍♂️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "There is a [trail](http://www.strava.com/activities/6732395158) right through that mound of snow. 🙄\n\nAt this point I wasn’t going to turn around so I had to go over it. Also, more ice out there than I anticipated as well so it was long slow miles today. 🏃🏻‍♂️\n\n\n<img src=\"uploads/2022/d16c052a11.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-02-24T18:19:06-06:00",
+				"url": "https://ericmwalk.blog/2022/02/24/there-is-a.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2022/02/22/had-the-sidewalks.html",
+				
+				"content_html": "<p>Had the sidewalks to myself today. Next time I <a href=\"http://www.strava.com/activities/6722457505\">run</a> in a snow storm like this I am going to wear my ski goggles. Also, thankful for Yaktrax today for that hidden ice under the snow 🌨🏃🏻‍♂️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Had the sidewalks to myself today. Next time I [run](http://www.strava.com/activities/6722457505) in a snow storm like this I am going to wear my ski goggles. Also, thankful for Yaktrax today for that hidden ice under the snow 🌨🏃🏻‍♂️\n\n\n<img src=\"uploads/2022/7b4f73ab1b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-02-22T19:52:47-06:00",
+				"url": "https://ericmwalk.blog/2022/02/22/had-the-sidewalks.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2022/02/22/good-use-of.html",
+				"title": "Good use of time?",
+				"content_html": "<p>I spent more time that I like to admit thinking about using a Read it Later service I ran across called <a href=\"https://www.wallabag.it/en\">Wallabag</a> only to on a wim sign up for a trial subscription. However, I never got an email to log into it which was super frustrating and then I was about ready to just setup the service on my own server as that is an option. However, I wanted to trial their service and who know maybe I would have just paid for it as it wasn’t that expensive. Long story short, I realized not recieving the email was 100z5 my fault because when I moved a domain over to Porkbun I didn’t setup the email forwarding right 🤦‍♂️. After getting that fixed, I decided to try to login to Wallabag again and see what this Read it Later service was all about.</p>\n<p>Honestly, in the 2 min I used it and set up the Chrome Extension I had this feeling that I didn’t want it and probably would not use it anyways 😁. I think I realized again that anything I would stick in the <em>Read it Later</em> tool I would <strong>NEVER</strong> read later. It would just be a place of notes and I already have enough apps and tools that do that.</p>\n<p>The closest I have come to using a Read It Later service on a more frequent basis was when I piped in RSS feeds directly to them and that was where I would just go read everything. My only issue with that was it wasn’t easy to just clear it out and declare RSS bankruptcy (which I do from time to time). Also, it came back to what would I do after I read an article do I archive it or delete it? I never went back and looked at prior saved articles and part of that is if I really wanted to remember something or retain something from what I read I would probably put it in a notes app.</p>\n<p>So, after checking out another Read it Later service I am still back to not using a Read it Later service and I am ok with that. I did really like the name of the service though, in fact it could have been catchy&hellip; <strong>Wallabag.it</strong></p>\n",
+				"content_text": "I spent more time that I like to admit thinking about using a Read it Later service I ran across called [Wallabag](https://www.wallabag.it/en) only to on a wim sign up for a trial subscription. However, I never got an email to log into it which was super frustrating and then I was about ready to just setup the service on my own server as that is an option. However, I wanted to trial their service and who know maybe I would have just paid for it as it wasn’t that expensive. Long story short, I realized not recieving the email was 100z5 my fault because when I moved a domain over to Porkbun I didn’t setup the email forwarding right 🤦‍♂️. After getting that fixed, I decided to try to login to Wallabag again and see what this Read it Later service was all about.\n\nHonestly, in the 2 min I used it and set up the Chrome Extension I had this feeling that I didn’t want it and probably would not use it anyways 😁. I think I realized again that anything I would stick in the *Read it Later* tool I would **NEVER** read later. It would just be a place of notes and I already have enough apps and tools that do that. \n\nThe closest I have come to using a Read It Later service on a more frequent basis was when I piped in RSS feeds directly to them and that was where I would just go read everything. My only issue with that was it wasn’t easy to just clear it out and declare RSS bankruptcy (which I do from time to time). Also, it came back to what would I do after I read an article do I archive it or delete it? I never went back and looked at prior saved articles and part of that is if I really wanted to remember something or retain something from what I read I would probably put it in a notes app.\n\nSo, after checking out another Read it Later service I am still back to not using a Read it Later service and I am ok with that. I did really like the name of the service though, in fact it could have been catchy... **Wallabag.it** \n\n",
+				"date_published": "2022-02-22T08:18:35-06:00",
+				"url": "https://ericmwalk.blog/2022/02/22/good-use-of.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2022/02/21/well-this-is.html",
+				
+				"content_html": "<p>Well this is disappointing how different the Apple Watch tracked my run against my Garmin 🤔. I know the Garmin number is right too as I run this route pretty regularly. Even looking at the details of each I can’t tell where the Apple Watch might have gotten off.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2022/6dea133211.jpg\" alt=\"\"></p>\n",
+				"content_text": "Well this is disappointing how different the Apple Watch tracked my run against my Garmin 🤔. I know the Garmin number is right too as I run this route pretty regularly. Even looking at the details of each I can’t tell where the Apple Watch might have gotten off.\n\n![](https://ericmwalk.blog/uploads/2022/6dea133211.jpg)\n\n",
+				"date_published": "2022-02-21T18:49:22-06:00",
+				"url": "https://ericmwalk.blog/2022/02/21/well-this-is.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2022/02/21/lots-of-ice.html",
+				
+				"content_html": "<p>Lots of ice today after yesterday’s 43°F weather. Had to watch my step out there <a href=\"http://www.strava.com/activities/6718146463\">running</a> on the sidewalks specially.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Lots of ice today after yesterday’s 43°F weather. Had to watch my step out there [running](http://www.strava.com/activities/6718146463) on the sidewalks specially.\n\n\n<img src=\"https://ericmwalk.blog/uploads/2022/d77d2aec8b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-02-21T18:48:26-06:00",
+				"url": "https://ericmwalk.blog/2022/02/21/lots-of-ice.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2022/02/24/finished-reading-mercy.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781538719695\">Mercy (Atlee Pine Book 4)</a> by David Baldacci 📚 - Lot&rsquo;s of twists and turns in what I can only manage is the last of the series. However, it did do a good job of wrapping up the series and not leaving things open.</p>\n",
+				"content_text": "Finished reading: [Mercy (Atlee Pine Book 4)](https://micro.blog/books/9781538719695) by David Baldacci 📚 - Lot's of twists and turns in what I can only manage is the last of the series. However, it did do a good job of wrapping up the series and not leaving things open.\n",
+				"date_published": "2022-02-21T09:00:00-06:00",
+				"url": "https://ericmwalk.blog/2022/02/24/finished-reading-mercy.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2022/02/20/couldnt-pass-up.html",
+				
+				"content_html": "<p>Couldn’t pass up this amazing weather today and had to get outside for a <a href=\"http://www.strava.com/activities/6713942250\">long run</a> with my running partner. It was a short weather day at 43°F 😄🏃🏻‍♂️</p>\n",
+				"content_text": "Couldn’t pass up this amazing weather today and had to get outside for a [long run](http://www.strava.com/activities/6713942250) with my running partner. It was a short weather day at 43°F 😄🏃🏻‍♂️\n\n",
+				"date_published": "2022-02-20T17:40:00-06:00",
+				"url": "https://ericmwalk.blog/2022/02/20/couldnt-pass-up.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2022/02/20/tough-break-for.html",
+				
+				"content_html": "<p>Tough break for this girl and her team today. She got home and wanted to start practicing right away so fired some pucks at the tarp for a while 🏒</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Tough break for this girl and her team today. She got home and wanted to start practicing right away so fired some pucks at the tarp for a while 🏒\n\n\n<img src=\"https://ericmwalk.blog/uploads/2022/635f12382a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-02-20T17:38:44-06:00",
+				"url": "https://ericmwalk.blog/2022/02/20/tough-break-for.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2022/02/19/spent-a-lot.html",
+				
+				"content_html": "<p>Spent a lot of time at the ice rink today behind the camera taking pictures of this girl (#11) and her team. My wife found a great spot for me to stand and got the setting right so all I had to do was capture the shots 😄🏒📸</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Spent a lot of time at the ice rink today behind the camera taking pictures of this girl (#11) and her team. My wife found a great spot for me to stand and got the setting right so all I had to do was capture the shots 😄🏒📸  \n\n\n<img src=\"https://ericmwalk.blog/uploads/2022/304c8d0c36.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"https://ericmwalk.blog/uploads/2022/8179f18e3a.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"https://ericmwalk.blog/uploads/2022/588301e987.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"https://ericmwalk.blog/uploads/2022/38a3b60983.jpg\" width=\"600\" height=\"399\" alt=\"\" /><img src=\"https://ericmwalk.blog/uploads/2022/9a7f56f433.jpg\" width=\"600\" height=\"399\" alt=\"\" /><img src=\"https://ericmwalk.blog/uploads/2022/ff1aec42d8.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n",
+				"date_published": "2022-02-19T22:58:18-06:00",
+				"url": "https://ericmwalk.blog/2022/02/19/spent-a-lot.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2022/02/19/watched-king-richard.html",
+				
+				"content_html": "<p>Watched <a href=\"https://m.imdb.com/title/tt9620288/\">King Richard</a> tonight and I thought it was a very interesting movie. I didn’t know much about the background of Venus and Serena Williams but remembered watching them play. Would definitely recommend the movie as we watched with our 10 yo hockey player who also enjoyed it.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Watched [King Richard](https://m.imdb.com/title/tt9620288/) tonight and I thought it was a very interesting movie. I didn’t know much about the background of Venus and Serena Williams but remembered watching them play. Would definitely recommend the movie as we watched with our 10 yo hockey player who also enjoyed it.\n\n\n\n<img src=\"https://ericmwalk.blog/uploads/2022/94b60f1774.jpg\" width=\"399\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-02-19T22:46:53-06:00",
+				"url": "https://ericmwalk.blog/2022/02/19/watched-king-richard.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2022/02/18/poor-choice-of.html",
+				
+				"content_html": "<p>Poor choice of <a href=\"http://www.strava.com/activities/6703167550\">routes</a> today had me running into the wind for most of it (28mph from WNW) 🤷‍♂️ 🤦‍♂️🏃🏻‍♂️</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2022/523f1a8ea0.jpg\" alt=\"\"><br>\n<em>Not quite sure why they cut out so many trees here. Maybe they were dead and thinning it out 🤔</em></p>\n",
+				"content_text": "Poor choice of [routes](http://www.strava.com/activities/6703167550) today had me running into the wind for most of it (28mph from WNW) 🤷‍♂️ 🤦‍♂️🏃🏻‍♂️\n\n![](https://ericmwalk.blog/uploads/2022/523f1a8ea0.jpg)  \n*Not quite sure why they cut out so many trees here. Maybe they were dead and thinning it out 🤔*\n",
+				"date_published": "2022-02-18T23:14:00-06:00",
+				"url": "https://ericmwalk.blog/2022/02/18/poor-choice-of.html",
+				"tags": ["Running"]
+			},
+			{
 				"id": "http://ericmwalk.micro.blog/2022/02/17/had-to-escape.html",
 				
 				"content_html": "<p>Had to escape the house for a while today and decided to run a different <a href=\"http://www.strava.com/activities/6697721311\">route</a> on this cold day today (-1°F 🤷‍♂️) 🏃🏻‍♂️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Had to escape the house for a while today and decided to run a different [route](http://www.strava.com/activities/6697721311) on this cold day today (-1°F 🤷‍♂️) 🏃🏻‍♂️\n\n\n<img src=\"uploads/2022/49c020f4b0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Had to escape the house for a while today and decided to run a different [route](http://www.strava.com/activities/6697721311) on this cold day today (-1°F 🤷‍♂️) 🏃🏻‍♂️\n\n\n<img src=\"https://ericmwalk.blog/uploads/2022/49c020f4b0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-02-17T12:02:53-06:00",
 				"url": "https://ericmwalk.blog/2022/02/17/had-to-escape.html",
 				"tags": ["Running"]
@@ -19,7 +122,7 @@
 				"id": "http://ericmwalk.micro.blog/2022/02/16/well-i-have.html",
 				
 				"content_html": "<p>Well I have never seen this before… <strong>Tank Zamboni</strong></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Well I have never seen this before… **Tank Zamboni** \n\n\n<img src=\"uploads/2022/b7883170c3.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"content_text": "Well I have never seen this before… **Tank Zamboni** \n\n\n<img src=\"https://ericmwalk.blog/uploads/2022/b7883170c3.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
 				"date_published": "2022-02-16T22:10:46-06:00",
 				"url": "https://ericmwalk.blog/2022/02/16/well-i-have.html"
 			},
@@ -44,7 +147,7 @@
 				"id": "http://ericmwalk.micro.blog/2022/02/15/running-and-rescuing.html",
 				
 				"content_html": "<p>Running and <a href=\"https://ericmwalk.blog/2021/04/17/meet-stella.html\">rescuing</a> dogs is what I do 🐶🏃🏻‍♂️😁</p>\n<p>Just a normal <a href=\"http://www.strava.com/activities/6688606301\">run</a> until I had to help rescue this dog that escaped its owner. When I found the dog no one was in sight. After I finally got the dog to me the owner showed up from down the street. All is right again.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Running and [rescuing](https://ericmwalk.blog/2021/04/17/meet-stella.html) dogs is what I do 🐶🏃🏻‍♂️😁\n\nJust a normal [run](http://www.strava.com/activities/6688606301) until I had to help rescue this dog that escaped its owner. When I found the dog no one was in sight. After I finally got the dog to me the owner showed up from down the street. All is right again.\n\n\n\n<img src=\"uploads/2022/812682c16b.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "Running and [rescuing](https://ericmwalk.blog/2021/04/17/meet-stella.html) dogs is what I do 🐶🏃🏻‍♂️😁\n\nJust a normal [run](http://www.strava.com/activities/6688606301) until I had to help rescue this dog that escaped its owner. When I found the dog no one was in sight. After I finally got the dog to me the owner showed up from down the street. All is right again.\n\n\n\n<img src=\"https://ericmwalk.blog/uploads/2022/812682c16b.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2022-02-15T15:46:22-06:00",
 				"url": "https://ericmwalk.blog/2022/02/15/running-and-rescuing.html"
 			},
@@ -118,7 +221,7 @@
 				"id": "http://ericmwalk.micro.blog/2022/02/09/log-out-right.html",
 				
 				"content_html": "<p>Log out, right now via <a href=\"https://theoatmeal.com/comics/log_out\">The Oatmeal</a> - Or maybe don&rsquo;t 😄</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Log out, right now via [The Oatmeal](https://theoatmeal.com/comics/log_out) - Or maybe don't 😄\n\n<img src=\"uploads/2022/550ecd69a8.png\" width=\"460\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Log out, right now via [The Oatmeal](https://theoatmeal.com/comics/log_out) - Or maybe don't 😄\n\n<img src=\"https://ericmwalk.blog/uploads/2022/550ecd69a8.png\" width=\"460\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-09T14:12:00-06:00",
 				"url": "https://ericmwalk.blog/2022/02/09/log-out-right.html"
 			},
@@ -135,7 +238,7 @@
 				"id": "http://ericmwalk.micro.blog/2022/02/07/there-is-light.html",
 				
 				"content_html": "<p>There is <em>Light at the end of the tunnel</em>. Kept dragging my feet about <a href=\"https://www.strava.com/activities/6647142737\">running</a> today but glad I got out there as I think it helped get me out of todays funk. 🏃🏻‍♂️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "There is *Light at the end of the tunnel*. Kept dragging my feet about [running](https://www.strava.com/activities/6647142737) today but glad I got out there as I think it helped get me out of todays funk. 🏃🏻‍♂️\n\n\n<img src=\"uploads/2022/053e785392.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "There is *Light at the end of the tunnel*. Kept dragging my feet about [running](https://www.strava.com/activities/6647142737) today but glad I got out there as I think it helped get me out of todays funk. 🏃🏻‍♂️\n\n\n<img src=\"https://ericmwalk.blog/uploads/2022/053e785392.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-02-07T15:49:28-06:00",
 				"url": "https://ericmwalk.blog/2022/02/07/there-is-light.html"
 			},
