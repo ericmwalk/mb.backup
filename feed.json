@@ -7,10 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://ericmwalk.micro.blog/2022/04/03/i-appreciate-the.html",
+				
+				"content_html": "<p>I appreciate the sign someone left and I think it is a great idea 🏃🏻‍♂️🍻.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2022/c94880ca50.jpg\" alt=\"\"></p>\n<p>What I wasn’t expecting was the amount of snow that would be coming down for the last 2 miles of my <a href=\"http://www.strava.com/activities/6927491768\">run</a> 🌨</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2022/466b34916c.jpg\" alt=\"\"></p>\n",
+				"content_text": "I appreciate the sign someone left and I think it is a great idea 🏃🏻‍♂️🍻.  \n\n![](https://ericmwalk.blog/uploads/2022/c94880ca50.jpg)\n\nWhat I wasn’t expecting was the amount of snow that would be coming down for the last 2 miles of my [run](http://www.strava.com/activities/6927491768) 🌨\n\n![](https://ericmwalk.blog/uploads/2022/466b34916c.jpg)\n",
+				"date_published": "2022-04-03T18:42:03-05:00",
+				"url": "https://ericmwalk.blog/2022/04/03/i-appreciate-the.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2022/04/02/another-long-run.html",
+				
+				"content_html": "<p>Another <a href=\"http://www.strava.com/activities/6921816236\">long run</a> for the week and it was beautiful out today. A little chilly at the start and overcast but blue skies when we ended.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Another [long run](http://www.strava.com/activities/6921816236) for the week and it was beautiful out today. A little chilly at the start and overcast but blue skies when we ended.  \n\n\n\n<img src=\"uploads/2022/2ab84f4f8e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-04-02T23:17:30-05:00",
+				"url": "https://ericmwalk.blog/2022/04/02/another-long-run.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2022/04/01/well-i-have.html",
+				
+				"content_html": "<p>Well, I have spent more time than I would like to admit stumbling around GitHub today. However, I am happy to report that I moved an old PHP app I created out there and it is synced up to the hosting provider as well now 😁</p>\n",
+				"content_text": "Well, I have spent more time than I would like to admit stumbling around GitHub today. However, I am happy to report that I moved an old PHP app I created out there and it is synced up to the hosting provider as well now 😁\n",
+				"date_published": "2022-04-01T14:58:03-05:00",
+				"url": "https://ericmwalk.blog/2022/04/01/well-i-have.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2022/03/30/from-a-distance.html",
+				
+				"content_html": "<p>From a distance it just looks like light snow on the trees but up close you can see it is frozen drops.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2022/62f0ed55da.jpg\" alt=\"\"></p>\n<p>By the time I got <a href=\"http://www.strava.com/activities/6908546568\">out today</a> it was clear but that didn’t stop the pain in the top of my foot so I called it a little early today 🙄</p>\n",
+				"content_text": "From a distance it just looks like light snow on the trees but up close you can see it is frozen drops. \n\n![](https://ericmwalk.blog/uploads/2022/62f0ed55da.jpg)\n\nBy the time I got [out today](http://www.strava.com/activities/6908546568) it was clear but that didn’t stop the pain in the top of my foot so I called it a little early today 🙄\n",
+				"date_published": "2022-03-30T22:56:13-05:00",
+				"url": "https://ericmwalk.blog/2022/03/30/from-a-distance.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2022/03/28/wasnt-a-bad.html",
+				
+				"content_html": "<p>Wasn’t a bad day <a href=\"http://www.strava.com/activities/6897504447\">running</a> along this old rail trail. In fact I did a quick tour through Garfield.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2022/46eadf6708.jpg\" alt=\"\"></p>\n<p><img src=\"https://ericmwalk.blog/uploads/2022/1055ede914.jpg\" alt=\"\"></p>\n",
+				"content_text": "Wasn’t a bad day [running](http://www.strava.com/activities/6897504447) along this old rail trail. In fact I did a quick tour through Garfield.\n\n![](https://ericmwalk.blog/uploads/2022/46eadf6708.jpg)  \n\n![](https://ericmwalk.blog/uploads/2022/1055ede914.jpg)\n",
+				"date_published": "2022-03-28T17:19:25-05:00",
+				"url": "https://ericmwalk.blog/2022/03/28/wasnt-a-bad.html",
+				"tags": ["Running"]
+			},
+			{
 				"id": "http://ericmwalk.micro.blog/2022/03/27/to-think-a.html",
 				
 				"content_html": "<p>To think a year ago I ran this same <a href=\"http://www.strava.com/activities/6893543347\">route</a> and took this same picture but it was much warmer and no ice on the lake.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "To think a year ago I ran this same [route](http://www.strava.com/activities/6893543347) and took this same picture but it was much warmer and no ice on the lake.\n\n\n<img src=\"uploads/2022/1321660337.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "To think a year ago I ran this same [route](http://www.strava.com/activities/6893543347) and took this same picture but it was much warmer and no ice on the lake.\n\n\n<img src=\"https://ericmwalk.blog/uploads/2022/1321660337.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-03-27T22:05:58-05:00",
 				"url": "https://ericmwalk.blog/2022/03/27/to-think-a.html",
 				"tags": ["Running"]
@@ -19,7 +63,7 @@
 				"id": "http://ericmwalk.micro.blog/2022/03/25/come-to-find.html",
 				
 				"content_html": "<p>Come to find out later in my <a href=\"http://www.strava.com/activities/6881072644\">run</a> those dark clouds bad snow in them 🌨😆</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Come to find out later in my [run](http://www.strava.com/activities/6881072644) those dark clouds bad snow in them 🌨😆  \n\n<img src=\"uploads/2022/b0cc76b66d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Come to find out later in my [run](http://www.strava.com/activities/6881072644) those dark clouds bad snow in them 🌨😆  \n\n<img src=\"https://ericmwalk.blog/uploads/2022/b0cc76b66d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-03-25T18:13:20-05:00",
 				"url": "https://ericmwalk.blog/2022/03/25/come-to-find.html",
 				"tags": ["Running"]
@@ -45,7 +89,7 @@
 				"id": "http://ericmwalk.micro.blog/2022/03/23/the-snow-finally.html",
 				
 				"content_html": "<p>The snow finally stopped today and even melted by the time I could get <a href=\"http://www.strava.com/activities/6872538506\">out</a>. Maybe I will choose another route than get my feet soaked 😁</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The snow finally stopped today and even melted by the time I could get [out](http://www.strava.com/activities/6872538506). Maybe I will choose another route than get my feet soaked 😁\n\n\n\n<img src=\"uploads/2022/c5bbbc0f97.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "The snow finally stopped today and even melted by the time I could get [out](http://www.strava.com/activities/6872538506). Maybe I will choose another route than get my feet soaked 😁\n\n\n\n<img src=\"https://ericmwalk.blog/uploads/2022/c5bbbc0f97.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-03-23T20:34:00-05:00",
 				"url": "https://ericmwalk.blog/2022/03/23/the-snow-finally.html",
 				"tags": ["Running"]
@@ -1303,7 +1347,7 @@
 				"id": "http://ericmwalk.micro.blog/2021/12/10/got-a-run.html",
 				
 				"content_html": "<p>Got a run in before all of the snow fell today.. I do enjoy a good run while the snow is falling. Assuming I don’t hit some hidden ice 🏃🏻‍♂️🌨</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Got a run in before all of the snow fell today.. I do enjoy a good run while the snow is falling. Assuming I don’t hit some hidden ice 🏃🏻‍♂️🌨\n\n\n<img src=\"uploads/2021/71592d6f45.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Got a run in before all of the snow fell today.. I do enjoy a good run while the snow is falling. Assuming I don’t hit some hidden ice 🏃🏻‍♂️🌨\n\n\n<img src=\"https://ericmwalk.blog/uploads/2021/71592d6f45.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-12-10T23:22:40-05:00",
 				"url": "https://ericmwalk.blog/2021/12/10/got-a-run.html",
 				"tags": ["Running"]
@@ -4544,7 +4588,7 @@
 				"id": "http://ericmwalk.micro.blog/2020/09/17/time-spent.html",
 				"title": "Time Spent",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<!-- wp:paragraph -->\n<p>More than ever I am guessing people are (or maybe are not) noticing how they are spending their time or maybe not as various schedules have been disputed over the last 6 months. I know mine has as I have gone from working in an office every day to working at home daily now.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>I ran across this interesting article by Brad Feld titled \"<a rel=\"noreferrer noopener\" href=\"https://feld.com/archives/2020/09/are-you-spending-your-weeks-the-way-you-want-to.html\" target=\"_blank\">Are You Spending Your Weeks The Way You Want To</a>? Reading it gave me pause to think myself how I have been spending my time not only in this short 6-month window but over the past 39 years of my life. If this sparks some interest some further reading is the original article that Feld references which is published on Wait but Why titled \"<a href=\"https://waitbutwhy.com/2014/05/life-weeks.html\" target=\"_blank\" rel=\"noreferrer noopener\">Life in Weeks</a>\".</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Personally, all the question Feld asked is really the questions I have been searching for over the last couple of months and maybe years at that. I am going to definitely spend some more time thinking through this. In addition, the original article dives in a little bit more and provides more food for thought.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"align\":\"center\",\"id\":51123512,\"sizeSlug\":\"large\"} -->\n<div class=\"wp-block-image\"><figure class=\"aligncenter size-large\"><img src=\"uploads/2021/ff752b88f0.jpg\" alt=\"\" class=\"wp-image-51123512\"/></figure></div>\n<!-- /wp:image -->\n",
+				"content_text": "<!-- wp:paragraph -->\n<p>More than ever I am guessing people are (or maybe are not) noticing how they are spending their time or maybe not as various schedules have been disputed over the last 6 months. I know mine has as I have gone from working in an office every day to working at home daily now.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>I ran across this interesting article by Brad Feld titled \"<a rel=\"noreferrer noopener\" href=\"https://feld.com/archives/2020/09/are-you-spending-your-weeks-the-way-you-want-to.html\" target=\"_blank\">Are You Spending Your Weeks The Way You Want To</a>? Reading it gave me pause to think myself how I have been spending my time not only in this short 6-month window but over the past 39 years of my life. If this sparks some interest some further reading is the original article that Feld references which is published on Wait but Why titled \"<a href=\"https://waitbutwhy.com/2014/05/life-weeks.html\" target=\"_blank\" rel=\"noreferrer noopener\">Life in Weeks</a>\".</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Personally, all the question Feld asked is really the questions I have been searching for over the last couple of months and maybe years at that. I am going to definitely spend some more time thinking through this. In addition, the original article dives in a little bit more and provides more food for thought.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"align\":\"center\",\"id\":51123512,\"sizeSlug\":\"large\"} -->\n<div class=\"wp-block-image\"><figure class=\"aligncenter size-large\"><img src=\"https://ericmwalk.blog/uploads/2021/ff752b88f0.jpg\" alt=\"\" class=\"wp-image-51123512\"/></figure></div>\n<!-- /wp:image -->\n",
 				"date_published": "2020-09-17T11:19:06-05:00",
 				"url": "https://ericmwalk.blog/2020/09/17/time-spent.html"
 			},
@@ -4561,7 +4605,7 @@
 				"id": "http://ericmwalk.micro.blog/2020/05/28/veil-by-eliot.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<!-- wp:paragraph -->\n<p><a href=\"https://www.amazon.com/Veil-Eliot-Peper-ebook/dp/B085PSTJNC/?tag=stthink-20\">Veil</a> by Eliot Peper (<a href=\"https://twitter.com/eliotpeper\">@EliotPeper</a>) was just released a week ago and I really can’t say enough good things about it. If you are looking for a great book then look no further as Eliot has produced another great page-turner after not long ago finishing his most recent sequels.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"align\":\"center\",\"id\":51123504,\"sizeSlug\":\"large\"} -->\n<div class=\"wp-block-image\"><figure class=\"aligncenter size-large\"><a href=\"https://www.amazon.com/Veil-Eliot-Peper-ebook/dp/B085PSTJNC/?tag=stthink-20\"><img src=\"uploads/2021/11f75ef022.jpg\" alt=\"\" class=\"wp-image-51123504\" title=\"\"/></a><figcaption><em>The book was released on May 20th, 2020, but I was lucky enough to get an advanced copy from my good friend Eliot himself. However, I enjoyed the book so much that once it was released I purchased another copy as well for my collection.</em></figcaption></figure></div>\n<!-- /wp:image -->\n\n<!-- wp:paragraph -->\n<p>Unlike some of Eliot’s other books, I actually felt like this one started a little slower but that was a good thing. As with a lot of good books, it built you up getting to know the characters and backgrounds. Speaking of, the main character, Zia León seems like your normal humanitarian that leads various aid missions to help areas in need. However, what makes Zia unique is she comes with sass and attitude that fits her well in order to get the job done.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>As the first part of the story goes I was trying at times to see how all the pieces were going to fit together. Honestly, it took me a little while to start putting the pieces together, and then all of a sudden a kidnapping happened and I could not put this book down. Not only does the story speed up but more is revealed along the way that made it even more of a page-turner. I soon found out that the adventure was just beginning for Zia.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Eliot does it again by looking into the near future and laying out what might happened due to various social/global issues that are relevant in today’s world. With his ability to research those relevant topics, expand on them to plausible future events and outcomes all while crafting other drama into the story always amazes me. Don’t get me wrong there is more to the story than just social events as friendships are tested, betrayal unfolds, and stubborn relationships rear their ugly heads. Everything centers around Zia and she must deal with them all along the way.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3>Final Thoughts</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>The one thing I appreciate about Elito’s books is the way he sometimes weaves things from other books into the mix. I might have only caught one referring to an open-sourced software architecture 😃 but I am sure there were more. Additionally, he finds ways to weave current locations and eating establishments that again makes the futuristic feel of this book that much closer to home.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>I have really been enjoying Eliot’s near future books as the concepts and issues are not unrealistic to see come to fruition. Not to mention he always seems to be writing about topics that are big and bold and not just ones that change over the course of a year.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>This is again one of those books I really can't recommend enough. In a time where politics seems to be guiding best practices for how we deal with climate issues, this book takes you to the near future in the path we could be on.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>To make sure you don't miss out on his next books be sure to follow him on twitter (<a href=\"https://twitter.com/eliotpeper\">@EliotPeper</a>) and subscribe to his newsletter from his website (http://www.eliotpeper.com/).</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><i>As I mentioned I have read some of Eliot's books before and wrote about them so if you are interested </i>to check<i> out some of his other books go for it as you won't be disappointed! Here are a couple: </i><a href=\"https://ericmwalk.blog/2017/06/23/true-blue-a.html\">True Blue (A Short Story)</a>, <a href=\"https://upnorth.blog/2018/04/bandwidth-by-eliot-peper/\">Bandwidth</a>, <a href=\"https://upnorth.blog/2018/10/borderless-by-eliot-peper/\">Borderless</a>, and <a href=\"https://upnorth.blog/2019/05/breach-by-eliot-peper/\">Breach</a>.</p>\n<!-- /wp:paragraph -->\n",
+				"content_text": "<!-- wp:paragraph -->\n<p><a href=\"https://www.amazon.com/Veil-Eliot-Peper-ebook/dp/B085PSTJNC/?tag=stthink-20\">Veil</a> by Eliot Peper (<a href=\"https://twitter.com/eliotpeper\">@EliotPeper</a>) was just released a week ago and I really can’t say enough good things about it. If you are looking for a great book then look no further as Eliot has produced another great page-turner after not long ago finishing his most recent sequels.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"align\":\"center\",\"id\":51123504,\"sizeSlug\":\"large\"} -->\n<div class=\"wp-block-image\"><figure class=\"aligncenter size-large\"><a href=\"https://www.amazon.com/Veil-Eliot-Peper-ebook/dp/B085PSTJNC/?tag=stthink-20\"><img src=\"https://ericmwalk.blog/uploads/2021/11f75ef022.jpg\" alt=\"\" class=\"wp-image-51123504\" title=\"\"/></a><figcaption><em>The book was released on May 20th, 2020, but I was lucky enough to get an advanced copy from my good friend Eliot himself. However, I enjoyed the book so much that once it was released I purchased another copy as well for my collection.</em></figcaption></figure></div>\n<!-- /wp:image -->\n\n<!-- wp:paragraph -->\n<p>Unlike some of Eliot’s other books, I actually felt like this one started a little slower but that was a good thing. As with a lot of good books, it built you up getting to know the characters and backgrounds. Speaking of, the main character, Zia León seems like your normal humanitarian that leads various aid missions to help areas in need. However, what makes Zia unique is she comes with sass and attitude that fits her well in order to get the job done.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>As the first part of the story goes I was trying at times to see how all the pieces were going to fit together. Honestly, it took me a little while to start putting the pieces together, and then all of a sudden a kidnapping happened and I could not put this book down. Not only does the story speed up but more is revealed along the way that made it even more of a page-turner. I soon found out that the adventure was just beginning for Zia.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Eliot does it again by looking into the near future and laying out what might happened due to various social/global issues that are relevant in today’s world. With his ability to research those relevant topics, expand on them to plausible future events and outcomes all while crafting other drama into the story always amazes me. Don’t get me wrong there is more to the story than just social events as friendships are tested, betrayal unfolds, and stubborn relationships rear their ugly heads. Everything centers around Zia and she must deal with them all along the way.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3>Final Thoughts</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>The one thing I appreciate about Elito’s books is the way he sometimes weaves things from other books into the mix. I might have only caught one referring to an open-sourced software architecture 😃 but I am sure there were more. Additionally, he finds ways to weave current locations and eating establishments that again makes the futuristic feel of this book that much closer to home.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>I have really been enjoying Eliot’s near future books as the concepts and issues are not unrealistic to see come to fruition. Not to mention he always seems to be writing about topics that are big and bold and not just ones that change over the course of a year.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>This is again one of those books I really can't recommend enough. In a time where politics seems to be guiding best practices for how we deal with climate issues, this book takes you to the near future in the path we could be on.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>To make sure you don't miss out on his next books be sure to follow him on twitter (<a href=\"https://twitter.com/eliotpeper\">@EliotPeper</a>) and subscribe to his newsletter from his website (http://www.eliotpeper.com/).</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><i>As I mentioned I have read some of Eliot's books before and wrote about them so if you are interested </i>to check<i> out some of his other books go for it as you won't be disappointed! Here are a couple: </i><a href=\"https://ericmwalk.blog/2017/06/23/true-blue-a.html\">True Blue (A Short Story)</a>, <a href=\"https://upnorth.blog/2018/04/bandwidth-by-eliot-peper/\">Bandwidth</a>, <a href=\"https://upnorth.blog/2018/10/borderless-by-eliot-peper/\">Borderless</a>, and <a href=\"https://upnorth.blog/2019/05/breach-by-eliot-peper/\">Breach</a>.</p>\n<!-- /wp:paragraph -->\n",
 				"date_published": "2020-05-28T08:57:00-05:00",
 				"url": "https://ericmwalk.blog/2020/05/28/veil-by-eliot.html",
 				"tags": ["books"]
@@ -4683,7 +4727,7 @@
 				"id": "http://ericmwalk.micro.blog/2020/03/24/thirtynine.html",
 				"title": "Thirty-Nine",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p>Previously: <!-- raw HTML omitted -->35<!-- raw HTML omitted -->, <!-- raw HTML omitted -->36<!-- raw HTML omitted -->, <!-- raw HTML omitted -->37<!-- raw HTML omitted -->, <!-- raw HTML omitted -->38<!-- raw HTML omitted --> ..</p>\n",
-				"content_text": "<!-- wp:paragraph -->\n<p>It seems strange trying to look back at the last year when there is so much noise clouding the past couple of days/weeks/months.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>I am sure this will be shorter than some of the previous years as I feel like I have a little bit of a mental block. In fact, I was thinking about what I was going to write on the morning of what I deemed 6.2 Birthday miles but I didn’t come up with much. That is not to say that nothing has happened over the past year. Last year I wanted to focus on Embracing things more and trying to cut out things that didn't bring myself or my family joy. Overall, I feel like we kept moving in the right direction. We all continued to focus on things that brought us joy and in some cases started to let go of others.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"align\":\"center\",\"id\":51123494,\"sizeSlug\":\"large\"} -->\n<div class=\"wp-block-image\"><figure class=\"aligncenter size-large\"><img src=\"uploads/2021/0d05269170.jpg\" alt=\"\" class=\"wp-image-51123494\"/><figcaption>One last hike in before the storm rolled in and we had to leave Sedona (Airport Loop Trail, May 2019, Sedona, Arizona)</figcaption></figure></div>\n<!-- /wp:image -->\n\n<!-- wp:paragraph -->\n<p>One of the things as a family we did was a last-minute trip to Arizona last May. We were not planning it at the beginning of the year but as my wife and I started to talk about it it just seemed like a great time to go visit family and also be together as a family. The week turned out great as we spent half the time with our Arizona family and then the other half in Sedona exploring all the trails. In fact, what was only going to be a one night stay we extended it to two as everyone was having so much fun.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"align\":\"center\",\"id\":51123037,\"sizeSlug\":\"large\"} -->\n<div class=\"wp-block-image\"><figure class=\"aligncenter size-large\"><img src=\"uploads/2021/43159fdf0e.jpg\" alt=\"\" class=\"wp-image-51123037\"/><figcaption>Running along the Skywalker trail in the early morning hours (May 2019, Skywalker Trail, Sedona, AZ)</figcaption></figure></div>\n<!-- /wp:image -->\n\n<!-- wp:paragraph -->\n<p>I had a couple overseas work trips this past year and on these travels, I tried my hardest to embrace the surroundings and explore more. While traveling to China I made a point to see the Great Wall and I am happy that I braved the adventure as I found myself alone on the wall as I got there so early in the morning (thanks jet lag). Not all of my work trips had such a spectacular sight to see, however, I made the most of almost wherever I went mostly because my early morning or late afternoon runs would lead me to some interesting overlook or park.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"align\":\"center\",\"id\":51123118,\"sizeSlug\":\"large\"} -->\n<div class=\"wp-block-image\"><figure class=\"aligncenter size-large\"><img src=\"uploads/2021/51700aafea.jpg\" alt=\"\" class=\"wp-image-51123118\"/><figcaption>Looking towards Tower 23 in the far distance at the Mutianyu Great Wall before the steep climb to come with no one in sight. (May 2019, Mutianyu Great Wall, Beijing China)</figcaption></figure></div>\n<!-- /wp:image -->\n\n<!-- wp:paragraph -->\n<p>Speaking of running, over the past year I continued on with my running and eventually hit a goal that formulated in my mind as the year went on. In October I had hit a mark of running a <a href=\"https://upnorth.blog/2019/09/5k-a-day/\">5K a day for 365 days</a>. The timing of that seemed to be about perfect as I am looking back at the last 5 months since I don't think I could have kept it up. However, my running goals have been focused more on distance now and not the consistency of every day running. Some other benefits of my odd running achievement were that I embraced the unknown and talked about my running adventure on a podcast called <a href=\"https://upnorth.blog/2020/02/off-the-couch-podcast/\">Off the Couch</a>. It was something new to me and when they reached out I figured why not.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>With everything that is going on in the world right now and the focus on physically distancing us and the bans on travel in place as well. I think continuing with the theme of <b>Embracing</b> seems fitting. We are in a very interesting time where my wife and I are both working from home and we have all of the kids with us every day for what might be the end of this school year. In addition, with no after school activities or playdates with friends, this is a great time to be together as a family and do things you always feel you never have time for. My wife and I were just commenting the other day how many weekends or nights do we really have nothing going on. So we are going to embrace this time together as a family and hope we all don't want to kill each other in the end 😄.</p>\n<!-- /wp:paragraph -->\n\nPreviously: <a href=\"https://ericmwalk.blog/2016/03/24/thirtyfive.html\">35</a>, <a href=\"https://ericmwalk.blog/2017/03/24/thirtysix.html\">36</a>, <a href=\"https://ericmwalk.blog/2018/03/24/thirtyseven.html\">37</a>, <a href=\"https://ericmwalk.blog/2019/03/24/thirtyeight.html\">38</a> ..\n",
+				"content_text": "<!-- wp:paragraph -->\n<p>It seems strange trying to look back at the last year when there is so much noise clouding the past couple of days/weeks/months.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>I am sure this will be shorter than some of the previous years as I feel like I have a little bit of a mental block. In fact, I was thinking about what I was going to write on the morning of what I deemed 6.2 Birthday miles but I didn’t come up with much. That is not to say that nothing has happened over the past year. Last year I wanted to focus on Embracing things more and trying to cut out things that didn't bring myself or my family joy. Overall, I feel like we kept moving in the right direction. We all continued to focus on things that brought us joy and in some cases started to let go of others.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"align\":\"center\",\"id\":51123494,\"sizeSlug\":\"large\"} -->\n<div class=\"wp-block-image\"><figure class=\"aligncenter size-large\"><img src=\"https://ericmwalk.blog/uploads/2021/0d05269170.jpg\" alt=\"\" class=\"wp-image-51123494\"/><figcaption>One last hike in before the storm rolled in and we had to leave Sedona (Airport Loop Trail, May 2019, Sedona, Arizona)</figcaption></figure></div>\n<!-- /wp:image -->\n\n<!-- wp:paragraph -->\n<p>One of the things as a family we did was a last-minute trip to Arizona last May. We were not planning it at the beginning of the year but as my wife and I started to talk about it it just seemed like a great time to go visit family and also be together as a family. The week turned out great as we spent half the time with our Arizona family and then the other half in Sedona exploring all the trails. In fact, what was only going to be a one night stay we extended it to two as everyone was having so much fun.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"align\":\"center\",\"id\":51123037,\"sizeSlug\":\"large\"} -->\n<div class=\"wp-block-image\"><figure class=\"aligncenter size-large\"><img src=\"https://ericmwalk.blog/uploads/2021/43159fdf0e.jpg\" alt=\"\" class=\"wp-image-51123037\"/><figcaption>Running along the Skywalker trail in the early morning hours (May 2019, Skywalker Trail, Sedona, AZ)</figcaption></figure></div>\n<!-- /wp:image -->\n\n<!-- wp:paragraph -->\n<p>I had a couple overseas work trips this past year and on these travels, I tried my hardest to embrace the surroundings and explore more. While traveling to China I made a point to see the Great Wall and I am happy that I braved the adventure as I found myself alone on the wall as I got there so early in the morning (thanks jet lag). Not all of my work trips had such a spectacular sight to see, however, I made the most of almost wherever I went mostly because my early morning or late afternoon runs would lead me to some interesting overlook or park.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"align\":\"center\",\"id\":51123118,\"sizeSlug\":\"large\"} -->\n<div class=\"wp-block-image\"><figure class=\"aligncenter size-large\"><img src=\"https://ericmwalk.blog/uploads/2021/51700aafea.jpg\" alt=\"\" class=\"wp-image-51123118\"/><figcaption>Looking towards Tower 23 in the far distance at the Mutianyu Great Wall before the steep climb to come with no one in sight. (May 2019, Mutianyu Great Wall, Beijing China)</figcaption></figure></div>\n<!-- /wp:image -->\n\n<!-- wp:paragraph -->\n<p>Speaking of running, over the past year I continued on with my running and eventually hit a goal that formulated in my mind as the year went on. In October I had hit a mark of running a <a href=\"https://upnorth.blog/2019/09/5k-a-day/\">5K a day for 365 days</a>. The timing of that seemed to be about perfect as I am looking back at the last 5 months since I don't think I could have kept it up. However, my running goals have been focused more on distance now and not the consistency of every day running. Some other benefits of my odd running achievement were that I embraced the unknown and talked about my running adventure on a podcast called <a href=\"https://upnorth.blog/2020/02/off-the-couch-podcast/\">Off the Couch</a>. It was something new to me and when they reached out I figured why not.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>With everything that is going on in the world right now and the focus on physically distancing us and the bans on travel in place as well. I think continuing with the theme of <b>Embracing</b> seems fitting. We are in a very interesting time where my wife and I are both working from home and we have all of the kids with us every day for what might be the end of this school year. In addition, with no after school activities or playdates with friends, this is a great time to be together as a family and do things you always feel you never have time for. My wife and I were just commenting the other day how many weekends or nights do we really have nothing going on. So we are going to embrace this time together as a family and hope we all don't want to kill each other in the end 😄.</p>\n<!-- /wp:paragraph -->\n\nPreviously: <a href=\"https://ericmwalk.blog/2016/03/24/thirtyfive.html\">35</a>, <a href=\"https://ericmwalk.blog/2017/03/24/thirtysix.html\">36</a>, <a href=\"https://ericmwalk.blog/2018/03/24/thirtyseven.html\">37</a>, <a href=\"https://ericmwalk.blog/2019/03/24/thirtyeight.html\">38</a> ..\n",
 				"date_published": "2020-03-24T08:16:00-05:00",
 				"url": "https://ericmwalk.blog/2020/03/24/thirtynine.html"
 			},
@@ -7941,8 +7985,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/10/17/keeping-your-focus.html",
 				"title": "Keeping your Focus",
-				"content_html": "<p>Becoming more focused requires an even greater skill at keeping your focus.</p>\n<!-- raw HTML omitted -->\n<p>As I have been trying to write more, I have realized that sometimes when I am about to call an article (or topic) good and close my document for the day&hellip; Another idea pops into my head and I then start writing out words and thoughts about that topic. In fact, it is happening right now as this is the third blank document that I have started writing today and each topic is different but related.</p>\n<p>I always find it interesting when and how ideas come and go. There will be times when I just sit and stare at a blank screen wondering what I could write. I have a whole bunch of ideas but they don&rsquo;t interest me at that specific time. Then there are other times where I am writing away and going to call it good for that topic only to jump over and start a new topic because I am in the zone.</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Now to flip the discussion<!-- raw HTML omitted -->… <!-- raw HTML omitted -->Is it a bad thing to write about different topics and have a lot of them going at the same time?<!-- raw HTML omitted --></p>\n<p>I would say I fall into this camp and I am not sure if it is a good thing or not. The only downside I can see right now is that I write a little bit about each of the topics I am working on and never fully finish any of them. Because I keep jumping around from one to the other adding a sentence here or there or just rereading my thoughts.</p>\n<p>On the other hand, when I get to a point of not knowing what to write, I have some drafts already started that I might be able to just pick right back up where I left off and hopefully complete it.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted -->What do you do in order to keep focused on your current writing or the drafts you have going?<!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Becoming more focused requires an even greater skill at keeping your focus.\n\n<img class=\"alignnone size-full wp-image-51119619\" src=\"http://stillthinking.brebs.net/wp-content/uploads/2016/04/home-office-336377_1920.jpg\" alt=\"home-office-336377_1920\" width=\"1920\" height=\"1280\" />\n\nAs I have been trying to write more, I have realized that sometimes when I am about to call an article (or topic) good and close my document for the day... Another idea pops into my head and I then start writing out words and thoughts about that topic. In fact, it is happening right now as this is the third blank document that I have started writing today and each topic is different but related.\n\nI always find it interesting when and how ideas come and go. There will be times when I just sit and stare at a blank screen wondering what I could write. I have a whole bunch of ideas but they don't interest me at that specific time. Then there are other times where I am writing away and going to call it good for that topic only to jump over and start a new topic because I am in the zone.\n<blockquote><i>\"Everyone should write a blog, every day, even if no one reads it. There’s countless reasons why it’s a good idea and I can’t think of one reason it’s a bad idea.\" - <a href=\"http://sethgodin.typepad.com/\">Seth Godin</a> on the <a href=\"https://unmistakablecreative.com/what-to-do-when-it-s-your-turn-with-seth-godin\">Unmistakable Creative Podcast</a></i></blockquote>\nTo that point, I couldn't agree more when people say to <b>just write every day</b>. Just let the words flow out on-screen (or paper) even if it is something you will never publish. The worst thing that happens is that you spent some time writing. The upside, however, is that you just crushed it and wrote a whole bunch of amazing content.\n\n<i>Now to flip the discussion</i>… <b>Is it a bad thing to write about different topics and have a lot of them going at the same time?</b>\n\nI would say I fall into this camp and I am not sure if it is a good thing or not. The only downside I can see right now is that I write a little bit about each of the topics I am working on and never fully finish any of them. Because I keep jumping around from one to the other adding a sentence here or there or just rereading my thoughts.\n\nOn the other hand, when I get to a point of not knowing what to write, I have some drafts already started that I might be able to just pick right back up where I left off and hopefully complete it.\n\n<i><b>What do you do in order to keep focused on your current writing or the drafts you have going?</b></i>\n",
+				"content_html": "<p>Becoming more focused requires an even greater skill at keeping your focus.</p>\n<!-- raw HTML omitted -->\n<p>As I have been trying to write more, I have realized that sometimes when I am about to call an article (or topic) good and close my document for the day&hellip; Another idea pops into my head and I then start writing out words and thoughts about that topic. In fact, it is happening right now as this is the third blank document that I have started writing today and each topic is different but related.</p>\n<p>I always find it interesting when and how ideas come and go. There will be times when I just sit and stare at a blank screen wondering what I could write. I have a whole bunch of ideas but they don&rsquo;t interest me at that specific time. Then there are other times where I am writing away and going to call it good for that topic only to jump over and start a new topic because I am in the zone.</p>\n<blockquote>\n<p>&ldquo;Everyone should write a blog, every day, even if no one reads it. There’s countless reasons why it’s a good idea and I can’t think of one reason it’s a bad idea.&rdquo; - <!-- raw HTML omitted -->Seth Godin<!-- raw HTML omitted --> on the <!-- raw HTML omitted -->Unmistakable Creative Podcast</p>\n</blockquote>\n<p>To that point, I couldn&rsquo;t agree more when people say to <strong>just write every day</strong>. Just let the words flow out on-screen (or paper) even if it is something you will never publish. The worst thing that happens is that you spent some time writing. The upside, however, is that you just crushed it and wrote a whole bunch of amazing content.</p>\n<p><em>Now to flip the discussion</em>… <strong>Is it a bad thing to write about different topics and have a lot of them going at the same time?</strong></p>\n<p>I would say I fall into this camp and I am not sure if it is a good thing or not. The only downside I can see right now is that I write a little bit about each of the topics I am working on and never fully finish any of them. Because I keep jumping around from one to the other adding a sentence here or there or just rereading my thoughts.</p>\n<p>On the other hand, when I get to a point of not knowing what to write, I have some drafts already started that I might be able to just pick right back up where I left off and hopefully complete it.</p>\n<p><em><strong>What do you do in order to keep focused on your current writing or the drafts you have going?</strong></em></p>\n",
+				"content_text": "Becoming more focused requires an even greater skill at keeping your focus.\n\n<img src=\"uploads/2022/50621cf824.jpg\" alt=\"Home office 336377 1920\" title=\"home-office-336377_1920.jpg\" border=\"0\" width=\"600\" height=\"400\" />  \n\nAs I have been trying to write more, I have realized that sometimes when I am about to call an article (or topic) good and close my document for the day... Another idea pops into my head and I then start writing out words and thoughts about that topic. In fact, it is happening right now as this is the third blank document that I have started writing today and each topic is different but related.\n\nI always find it interesting when and how ideas come and go. There will be times when I just sit and stare at a blank screen wondering what I could write. I have a whole bunch of ideas but they don't interest me at that specific time. Then there are other times where I am writing away and going to call it good for that topic only to jump over and start a new topic because I am in the zone.\n\n>\"Everyone should write a blog, every day, even if no one reads it. There’s countless reasons why it’s a good idea and I can’t think of one reason it’s a bad idea.\" - <a href=\"http://sethgodin.typepad.com/\">Seth Godin</a> on the <a href=\"https://unmistakablecreative.com/what-to-do-when-it-s-your-turn-with-seth-godin\">Unmistakable Creative Podcast  \n\nTo that point, I couldn't agree more when people say to **just write every day**. Just let the words flow out on-screen (or paper) even if it is something you will never publish. The worst thing that happens is that you spent some time writing. The upside, however, is that you just crushed it and wrote a whole bunch of amazing content.\n\n*Now to flip the discussion*… **Is it a bad thing to write about different topics and have a lot of them going at the same time?**\n\nI would say I fall into this camp and I am not sure if it is a good thing or not. The only downside I can see right now is that I write a little bit about each of the topics I am working on and never fully finish any of them. Because I keep jumping around from one to the other adding a sentence here or there or just rereading my thoughts.\n\nOn the other hand, when I get to a point of not knowing what to write, I have some drafts already started that I might be able to just pick right back up where I left off and hopefully complete it.\n\n***What do you do in order to keep focused on your current writing or the drafts you have going?***\n",
 				"date_published": "2017-10-17T16:58:21-05:00",
 				"url": "https://ericmwalk.blog/2017/10/17/keeping-your-focus.html",
 				"tags": ["Blogging"]
@@ -7958,8 +8002,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/10/11/wordless-wednesday.html",
 				"title": "Wordless Wednesday 10/11",
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<!-- wp:image {\"id\":51122012,\"align\":\"none\",\"className\":\"size-full wp-image-51122012\"} -->\n<figure class=\"wp-block-image alignnone size-full wp-image-51122012\"><img src=\"http://stillthinking.brebs.net/wp-content/uploads/2017/10/watermark11570488012599653271.png\" alt=\"watermark11570488012599653271.png\" class=\"wp-image-51122012\"/><figcaption><em>Peaceful view of the night sky from the light of the moon on an evening walk (October 2016)</em></figcaption></figure>\n<!-- /wp:image -->\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2022/1af0ec9734.jpg\" alt=\"Watermark11570488012599653271\" title=\"watermark11570488012599653271.jpeg\" border=\"0\" width=\"600\" height=\"600\" />  \n*Peaceful view of the night sky from the light of the moon on an evening walk (October 2016)*\n",
 				"date_published": "2017-10-11T22:26:49-05:00",
 				"url": "https://ericmwalk.blog/2017/10/11/wordless-wednesday.html",
 				"tags": ["Photos","Wordless Wednesday"]
@@ -7967,19 +8011,11 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/10/10/encouragement.html",
 				"title": "Encouragement",
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<!-- wp:paragraph -->\n<p>Sometimes things happen (<a href=\"https://upnorth.blog/2017/06/crash-asphalt-1-eric-0/\">Crash!</a>) and it is something that you don't or aren't really sure if someone is going to tell you to try again. Or give you that extra encouragement/voice you need to get back up and try it again. After that post, I wasn't up to what I had hoped for motivation as I struggled to motivate myself in the least.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>My instincts were telling me to continue to plug away at this injury slowly and that it was for some reason important to overcome this so I could get out and run like normal. In July I tried again to just get out and run but honestly, I had even less motivation to do that as I blamed my upcoming family vacation and the extra work I needed to do prior to vacation as my crutch.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Then we were finally during the middle of our family trip to the East Coast, and something deep inside me had me throw in my running shoes. Thankfully I did as after nine days into the trip, our final day in Boston before we headed up to Maine, I laced up my shoes to hit the streets. For some reason, I was up really early and figured now is the time to get out and just run around the neighborhood and see the sights of this city I don't live in.</p>\n<!-- /wp:paragraph -->\n\n<img src=\"https://ericmwalk.blog/uploads/2021/1f38c5343f.jpg\" width=\"600\" height=\"598\" alt=\"\" />\n<img src=\"https://ericmwalk.blog/uploads/2021/19ccad9bfe.png\" width=\"600\" height=\"598\" alt=\"\" />\n\n<!-- /wp:gallery -->\n\n<!-- wp:paragraph -->\n<p>I am really glad I did! I was able to see the places I had seen the day before but with no one else in sight. In fact, it was just so peaceful out there if it wasn't that I wanted to get back to the hotel at a specific time I am not sure where I might have ended up.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>That one run though helped start me on the path of getting out of my funk. In fact, it kind of reminded me that that is what helps me stay grounded. As I reflect back I was remembering the video I saw that I was going to post around the time of my Crash and was hoping to at a later point in time but completely forgot as I never really got out of that funk.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>My example was getting me back to running and I will even say today I am finally feeling 100% back to normal running which is what I have been waiting to say for a long time. Everyone always has something to be down on, depressed about, or are just mopy about something. The challenge is trying to find something that works for you to get out of your current funk or mood.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><p><em><strong>I have never gone on a run or a bike ride or anything outside and thought back to myself I shouldn't have done that, that was really dumb to go on a run. Never! It's always a good thing. - Ryan Van Duzer</strong></em></p></blockquote>\n<!-- /wp:quote -->\n\n<!-- wp:paragraph -->\n<p>The video I have included below by <a href=\"https://www.duzertv.com/\">Ryan Van Duzer</a> (<a href=\"https://twitter.com/duzer\">@duzer</a>) is what I had watched right before my Crash! and there is some really good nuggets of insight and motivation that he offers while running in the hills of Colorado to get out of his own funk.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>I can relate to his methods of remembering there is a whole lot of good things in life. Also, for me, one of the best ways for me to do that when things are stressful at work, home, or just something hard that I need to overcome, is that I just love getting out there to run. It clears my head and gives me a good start or end to the day.</p>\n<!-- /wp:paragraph -->\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/JiaHl8AJPII\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n<!-- wp:paragraph -->\n<p>via <a href=\"https://www.youtube.com/watch?v=JiaHl8AJPII\">Running Out of a Funk - YouTube</a></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><em><strong>Now it is your turn, what do you do in order to get out of a funk or slump? Leave it in the comments below.</strong></em></p>\n<!-- /wp:paragraph -->\n",
+				"content_html": "<p>Sometimes things happen (<!-- raw HTML omitted -->Crash!<!-- raw HTML omitted -->) and it is something that you don&rsquo;t or aren&rsquo;t really sure if someone is going to tell you to try again. Or give you that extra encouragement/voice you need to get back up and try it again. After that post, I wasn&rsquo;t up to what I had hoped for motivation as I struggled to motivate myself in the least.</p>\n<p>My instincts were telling me to continue to plug away at this injury slowly and that it was for some reason important to overcome this so I could get out and run like normal. In July I tried again to just get out and run but honestly, I had even less motivation to do that as I blamed my upcoming family vacation and the extra work I needed to do prior to vacation as my crutch.</p>\n<p>Then we were finally during the middle of our family trip to the East Coast, and something deep inside me had me throw in my running shoes. Thankfully I did as after nine days into the trip, our final day in Boston before we headed up to Maine, I laced up my shoes to hit the streets. For some reason, I was up really early and figured now is the time to get out and just run around the neighborhood and see the sights of this city I don&rsquo;t live in.</p>\n<!-- raw HTML omitted -->\n<p>I am really glad I did! I was able to see the places I had seen the day before but with no one else in sight. In fact, it was just so peaceful out there if it wasn&rsquo;t that I wanted to get back to the hotel at a specific time I am not sure where I might have ended up.</p>\n<p>That one run though helped start me on the path of getting out of my funk. In fact, it kind of reminded me that that is what helps me stay grounded. As I reflect back I was remembering the video I saw that I was going to post around the time of my Crash and was hoping to at a later point in time but completely forgot as I never really got out of that funk.</p>\n<p>My example was getting me back to running and I will even say today I am finally feeling 100% back to normal running which is what I have been waiting to say for a long time. Everyone always has something to be down on, depressed about, or are just mopey about something. The challenge is trying to find something that works for you to get out of your current funk or mood.</p>\n<blockquote>\n<p>I have never gone on a run or a bike ride or anything outside and thought back to myself I shouldn&rsquo;t have done that, that was really dumb to go on a run. Never! It&rsquo;s always a good thing. - Ryan Van Duzer</p>\n</blockquote>\n<p>The video I have included below by <!-- raw HTML omitted -->Ryan Van Duzer<!-- raw HTML omitted --> (<!-- raw HTML omitted -->@duzer<!-- raw HTML omitted -->) is what I had watched right before my Crash! and there is some really good nuggets of insight and motivation that he offers while running in the hills of Colorado to get out of his own funk.</p>\n<p>I can relate to his methods of remembering there is a whole lot of good things in life. Also, for me, one of the best ways for me to do that when things are stressful at work, home, or just something hard that I need to overcome, is that I just love getting out there to run. It clears my head and gives me a good start or end to the day.</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted --><!-- raw HTML omitted -->Now it is your turn, what do you do in order to get out of a funk or slump? Leave it in the comments below.<!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Sometimes things happen (<a href=\"https://ericmwalk.blog/2017/06/09/crash-asphalt-eric.html\">Crash!</a>) and it is something that you don't or aren't really sure if someone is going to tell you to try again. Or give you that extra encouragement/voice you need to get back up and try it again. After that post, I wasn't up to what I had hoped for motivation as I struggled to motivate myself in the least.  \n\nMy instincts were telling me to continue to plug away at this injury slowly and that it was for some reason important to overcome this so I could get out and run like normal. In July I tried again to just get out and run but honestly, I had even less motivation to do that as I blamed my upcoming family vacation and the extra work I needed to do prior to vacation as my crutch.  \n\nThen we were finally during the middle of our family trip to the East Coast, and something deep inside me had me throw in my running shoes. Thankfully I did as after nine days into the trip, our final day in Boston before we headed up to Maine, I laced up my shoes to hit the streets. For some reason, I was up really early and figured now is the time to get out and just run around the neighborhood and see the sights of this city I don't live in.\n\n<img src=\"uploads/2021/1f38c5343f.jpg\" width=\"600\" height=\"598\" alt=\"\" />\n<img src=\"uploads/2021/19ccad9bfe.png\" width=\"600\" height=\"598\" alt=\"\" />  \n\nI am really glad I did! I was able to see the places I had seen the day before but with no one else in sight. In fact, it was just so peaceful out there if it wasn't that I wanted to get back to the hotel at a specific time I am not sure where I might have ended up.  \n\nThat one run though helped start me on the path of getting out of my funk. In fact, it kind of reminded me that that is what helps me stay grounded. As I reflect back I was remembering the video I saw that I was going to post around the time of my Crash and was hoping to at a later point in time but completely forgot as I never really got out of that funk.  \n\nMy example was getting me back to running and I will even say today I am finally feeling 100% back to normal running which is what I have been waiting to say for a long time. Everyone always has something to be down on, depressed about, or are just mopey about something. The challenge is trying to find something that works for you to get out of your current funk or mood.  \n\n>I have never gone on a run or a bike ride or anything outside and thought back to myself I shouldn't have done that, that was really dumb to go on a run. Never! It's always a good thing. - Ryan Van Duzer  \n\nThe video I have included below by <a href=\"https://www.duzertv.com/\">Ryan Van Duzer</a> (<a href=\"https://twitter.com/duzer\">@duzer</a>) is what I had watched right before my Crash! and there is some really good nuggets of insight and motivation that he offers while running in the hills of Colorado to get out of his own funk.  \n\nI can relate to his methods of remembering there is a whole lot of good things in life. Also, for me, one of the best ways for me to do that when things are stressful at work, home, or just something hard that I need to overcome, is that I just love getting out there to run. It clears my head and gives me a good start or end to the day.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/JiaHl8AJPII\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>  \n*via <a href=\"https://www.youtube.com/watch?v=JiaHl8AJPII\">Running Out of a Funk - YouTube</a>*\n\n<em><strong>Now it is your turn, what do you do in order to get out of a funk or slump? Leave it in the comments below.</strong></em>\n",
 				"date_published": "2017-10-10T11:12:00-05:00",
 				"url": "https://ericmwalk.blog/2017/10/10/encouragement.html",
 				"tags": ["Running"]
-			},
-			{
-				"id": "http://ericmwalk.micro.blog/2017/10/10/061401.html",
-				
-				"content_html": "<p>Guess shorts and a t-shirt might not have been the best choice for my morning run #running</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Guess shorts and a t-shirt might not have been the best choice for my morning run #running\n\n<img src=\"https://ericmwalk.blog/uploads/2022/abed0c6e28.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-10-10T07:14:01-05:00",
-				"url": "https://ericmwalk.blog/2017/10/10/061401.html"
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2017/10/10/guess-shorts-and.html",
@@ -7992,27 +8028,27 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/10/06/who-said-kindergarten.html",
 				
-				"content_html": "<p>Who said kindergarten soccer games don&rsquo;t need a cheerleader&hellip; ð»</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Who said kindergarten soccer games don't need a cheerleader... ð»\n\n<img src=\"https://ericmwalk.blog/uploads/2022/efc39b1801.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Who said kindergarten soccer games don&rsquo;t need a cheerleader&hellip; 👻</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Who said kindergarten soccer games don't need a cheerleader... 👻\n\n<img src=\"uploads/2022/efc39b1801.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-10-06T23:03:36-05:00",
 				"url": "https://ericmwalk.blog/2017/10/06/who-said-kindergarten.html"
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2017/10/05/fall-clean-up.html",
 				"title": "Fall Clean up and Clean out",
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<!-- wp:paragraph -->\n<p>Fall is definitely that time of year when things need to be cleaned up. You need to head out to the garage and start putting summer stuff away and bring out the winter stuff (wait not yet.. please not winter yet..). Honestly, though this is the perfect time of year to start decluttering. My wife and I did this last year and pretty much downsized our bedroom to 1 dresser (total) and a closet that is only 8x4. Needless to say, we got rid of a lot of stuff and it was the best thing to do.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":4} -->\n<h4>Our Approach</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>We honestly didn't have a specific approach in mind as well have just cleaned rooms from time to time over the 8 years we have lived here and as kids grew up and changed rooms we would then clean that room. More specifically, we would just move the junk to another room. So we finally realized that with 3 kids and all the stuff they have we obviously needed to make some changes and we felt that our room was the best one as it was a space we could control. So instead of doing lots of spaces or things at once we just focused all our efforts on that one room. It did help that once we got started we had the goal in mind of getting rid of one dresser in order to feel like we had more space in our bedroom and it didn't feel like everything was stacked on top of each other.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:gallery {\"ids\":[51121880,51121881],\"columns\":2,\"linkTo\":\"attachment\"} -->\n<ul class=\"wp-block-gallery columns-2 is-cropped\"><li class=\"blocks-gallery-item\"><figure><a href=\"https://stillthinking.me/fall-clean-up-and-clean-out/img_6438/\"><img src=\"https://stillthinking.me/wp-content/uploads/2017/10/img_6438-1024x768.jpg\" alt=\"\" data-id=\"51121880\" data-link=\"https://stillthinking.me/fall-clean-up-and-clean-out/img_6438/\" class=\"wp-image-51121880\"/></a><figcaption>Bedroom Before - Honestly I can't believe we let it get this bad</figcaption></figure></li><li class=\"blocks-gallery-item\"><figure><a href=\"https://stillthinking.me/fall-clean-up-and-clean-out/img_6441/\"><img src=\"https://stillthinking.me/wp-content/uploads/2017/10/img_6441-1024x768.jpg\" alt=\"\" data-id=\"51121881\" data-link=\"https://stillthinking.me/fall-clean-up-and-clean-out/img_6441/\" class=\"wp-image-51121881\"/></a><figcaption>Bedroom After - Now that is more like it. Almost has a calming effect.</figcaption></figure></li></ul>\n<!-- /wp:gallery -->\n\n<!-- wp:paragraph -->\n<p>A year later and we have still been working on the other rooms of our house but it is something that takes time. Decluttering your house is not an easy feat unless you are just moving from college and haven't acquired anything. We got derailed this past year with the kitchen remodel but in a way that helped us declutter all of those rooms affected. The one thing if you move from room to room like my wife and I are doing you need to make sure you don't just go dump things back in a room you have already cleared out. However, that is one of the hardest things so when you get down to only a couple rooms left (like we are now) it gets harder and harder to get it to what you want. However, I am looking forward to the challenge this fall again as the seasons are changing.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>If this is something that interest you and you have been wanting to get rid of a lot of stuff I would suggest that you check out what Anthony Ongaro is doing over at <a href=\"http://breakthetwitch.com\">Break The Twitch</a>. In fact, the video below is a good way to get started with the 6 most Popular Methods.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:core-embed/youtube {\"url\":\"[www.youtube.com/watch](https://www.youtube.com/watch?v=aeK8Y2W-z6M)\",\"type\":\"video\",\"providerNameSlug\":\"youtube\",\"className\":\"wp-embed-aspect-16-9 wp-has-aspect-ratio\"} -->\n<figure class=\"wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n[www.youtube.com/watch](https://www.youtube.com/watch?v=aeK8Y2W-z6M)\n</div></figure>\n<!-- /wp:core-embed/youtube -->\n\n<!-- wp:paragraph -->\n<p>via <a href=\"http://www.breakthetwitch.com/decluttering-methods/\">6 Popular Minimalist Decluttering Methods</a> on Break the Twitch.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Another good resource and guide is <a href=\"https://groomandstyle.com/art-tidying-up-complete-guide-decluttered-life/\">\"The Art of Tidying Up: A Complete Guide to a Decluttered Life\"</a> by Rebecca Moses</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"id\":51122870,\"align\":\"center\",\"width\":576,\"height\":296,\"linkDestination\":\"custom\"} -->\n<div class=\"wp-block-image\"><figure class=\"aligncenter is-resized\"><a href=\"https://groomandstyle.com/art-tidying-up-complete-guide-decluttered-life/?msID=6383c94e-8826-4d52-8347-8fdd0d939afd\"><img src=\"https://i1.wp.com/stillthinking.me/wp-content/uploads/2019/03/the-art-of-tidying-up-1024x525.jpg?fit=768%2C394&amp;ssl=1\" alt=\"\" class=\"wp-image-51122870\" width=\"576\" height=\"296\"/></a></figure></div>\n<!-- /wp:image -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"/>\n<!-- /wp:separator -->\n\n<!-- wp:paragraph -->\n<p><i><b>Do you use Fall or a change in seasons as a good time to clean up or clean out around the house? If so what is your best method of doing so or how do you approach it?</b></i></p>\n<!-- /wp:paragraph -->\n",
+				"content_html": "<p>Fall is definitely that time of year when things need to be cleaned up. You need to head out to the garage and start putting summer stuff away and bring out the winter stuff (wait not yet.. please not winter yet..). Honestly, though this is the perfect time of year to start decluttering. My wife and I did this last year and pretty much downsized our bedroom to 1 dresser (total) and a closet that is only 8x4. Needless to say, we got rid of a lot of stuff and it was the best thing to do.</p>\n<p>####Our Approach</p>\n<p>We honestly didn&rsquo;t have a specific approach in mind as well have just cleaned rooms from time to time over the 8 years we have lived here and as kids grew up and changed rooms we would then clean that room. More specifically, we would just move the junk to another room. So we finally realized that with 3 kids and all the stuff they have we obviously needed to make some changes and we felt that our room was the best one as it was a space we could control. So instead of doing lots of spaces or things at once we just focused all our efforts on that one room. It did help that once we got started we had the goal in mind of getting rid of one dresser in order to feel like we had more space in our bedroom and it didn&rsquo;t feel like everything was stacked on top of each other.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p>A year later and we have still been working on the other rooms of our house but it is something that takes time. Decluttering your house is not an easy feat unless you are just moving from college and haven&rsquo;t acquired anything. We got derailed this past year with the kitchen remodel but in a way that helped us declutter all of those rooms affected. The one thing if you move from room to room like my wife and I are doing you need to make sure you don&rsquo;t just go dump things back in a room you have already cleared out. However, that is one of the hardest things so when you get down to only a couple rooms left (like we are now) it gets harder and harder to get it to what you want. However, I am looking forward to the challenge this fall again as the seasons are changing.</p>\n<p>If this is something that interest you and you have been wanting to get rid of a lot of stuff I would suggest that you check out what Anthony Ongaro is doing over at <!-- raw HTML omitted -->Break The Twitch<!-- raw HTML omitted -->. In fact, the video below is a good way to get started with the 6 most Popular Methods.</p>\n<!-- raw HTML omitted -->\n<p>Another good resource and guide is <!-- raw HTML omitted -->&ldquo;The Art of Tidying Up: A Complete Guide to a Decluttered Life&rdquo;<!-- raw HTML omitted --> by Rebecca Moses</p>\n<!-- raw HTML omitted -->\n<p><em><strong>Do you use Fall or a change in seasons as a good time to clean up or clean out around the house? If so what is your best method of doing so or how do you approach it?</strong></em></p>\n",
+				"content_text": "Fall is definitely that time of year when things need to be cleaned up. You need to head out to the garage and start putting summer stuff away and bring out the winter stuff (wait not yet.. please not winter yet..). Honestly, though this is the perfect time of year to start decluttering. My wife and I did this last year and pretty much downsized our bedroom to 1 dresser (total) and a closet that is only 8x4. Needless to say, we got rid of a lot of stuff and it was the best thing to do.\n\n####Our Approach\n\nWe honestly didn't have a specific approach in mind as well have just cleaned rooms from time to time over the 8 years we have lived here and as kids grew up and changed rooms we would then clean that room. More specifically, we would just move the junk to another room. So we finally realized that with 3 kids and all the stuff they have we obviously needed to make some changes and we felt that our room was the best one as it was a space we could control. So instead of doing lots of spaces or things at once we just focused all our efforts on that one room. It did help that once we got started we had the goal in mind of getting rid of one dresser in order to feel like we had more space in our bedroom and it didn't feel like everything was stacked on top of each other.  \n\n\n\n<img src=\"https://ericmwalk.blog/uploads/2022/d0fc0a5caa.jpg\" alt=\"Img 6438\" title=\"img_6438.jpeg\" border=\"0\" width=\"600\" height=\"450\" />  \n*Bedroom Before - Honestly I can't believe we let it get this bad*\n\n<img src=\"https://ericmwalk.blog/uploads/2022/adf86f9c5f.jpg\" alt=\"Img 6441\" title=\"img_6441.jpeg\" border=\"0\" width=\"600\" height=\"450\" />  \n*Bedroom After - Now that is more like it. Almost has a calming effect.*  \n\nA year later and we have still been working on the other rooms of our house but it is something that takes time. Decluttering your house is not an easy feat unless you are just moving from college and haven't acquired anything. We got derailed this past year with the kitchen remodel but in a way that helped us declutter all of those rooms affected. The one thing if you move from room to room like my wife and I are doing you need to make sure you don't just go dump things back in a room you have already cleared out. However, that is one of the hardest things so when you get down to only a couple rooms left (like we are now) it gets harder and harder to get it to what you want. However, I am looking forward to the challenge this fall again as the seasons are changing.  \n\nIf this is something that interest you and you have been wanting to get rid of a lot of stuff I would suggest that you check out what Anthony Ongaro is doing over at <a href=\"http://breakthetwitch.com\">Break The Twitch</a>. In fact, the video below is a good way to get started with the 6 most Popular Methods.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/aeK8Y2W-z6M\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>  \n*via <a href=\"http://www.breakthetwitch.com/decluttering-methods/\">6 Popular Minimalist Decluttering Methods</a> on Break the Twitch.*\n\nAnother good resource and guide is <a href=\"https://groomandstyle.com/art-tidying-up-complete-guide-decluttered-life/\">\"The Art of Tidying Up: A Complete Guide to a Decluttered Life\"</a> by Rebecca Moses\n\n<img src=\"https://ericmwalk.blog/uploads/2022/0dc5054d08.jpg\" alt=\"The art of tidying up 1024x525\" title=\"the-art-of-tidying-up-1024x525.jpeg\" border=\"0\" width=\"599\" height=\"307\" />  \n\n***Do you use Fall or a change in seasons as a good time to clean up or clean out around the house? If so what is your best method of doing so or how do you approach it?***\n",
 				"date_published": "2017-10-05T11:01:33-05:00",
 				"url": "https://ericmwalk.blog/2017/10/05/fall-clean-up.html"
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2017/10/04/wordless-wednesday.html",
 				"title": "Wordless Wednesday 10/04",
-				"content_html": "<p>[caption id=&ldquo;attachment_51121860&rdquo; align=&ldquo;alignnone&rdquo; width=&ldquo;2448&rdquo;]<!-- raw HTML omitted --> Morning sunrise after days of rain (October 2017)[/caption]</p>\n",
-				"content_text": "[caption id=\"attachment_51121860\" align=\"alignnone\" width=\"2448\"]<img class=\"alignnone size-full wp-image-51121860\" src=\"http://stillthinking.brebs.net/wp-content/uploads/2017/10/img_24322394374365332720460.jpg\" alt=\"img_24322394374365332720460.jpg\" width=\"2448\" height=\"2448\" /> Morning sunrise after days of rain (October 2017)[/caption]\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"https://ericmwalk.blog/uploads/2022/4219c6bc1d.jpg\" alt=\"IMG 2432\" title=\"IMG_2432.jpeg\" border=\"0\" width=\"600\" height=\"600\" />  \n*Morning sunrise after days of rain (October 2017)*\n",
 				"date_published": "2017-10-04T07:20:11-05:00",
 				"url": "https://ericmwalk.blog/2017/10/04/wordless-wednesday.html",
-				"tags": ["Running"]
+				"tags": ["Running","Wordless Wednesday"]
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2017/10/03/slowing-down-to.html",
@@ -8025,11 +8061,11 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/09/27/wordless-wednesday.html",
 				"title": "Wordless Wednesday 09/27",
-				"content_html": "<p>[caption id=&ldquo;attachment_51121785&rdquo; align=&ldquo;alignnone&rdquo; width=&ldquo;840&rdquo;]<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --> View from the top of a Mountain (August 2017, Estes Cone, Estes Park, CO)[/caption]</p>\n",
-				"content_text": "[caption id=\"attachment_51121785\" align=\"alignnone\" width=\"840\"]<a href=\"http://stillthinking.brebs.net/wp-content/uploads/2017/09/wp-image-1212405953661443678.png\"><img class=\"size-large wp-image-51121785\" src=\"http://stillthinking.brebs.net/wp-content/uploads/2017/09/wp-image-1212405953661443678.png?w=840\" alt=\"\" width=\"840\" height=\"630\" /></a> View from the top of a Mountain (August 2017, Estes Cone, Estes Park, CO)[/caption]\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"https://ericmwalk.blog/uploads/2022/1b17a14f48.jpg\" alt=\"IMG 0819 01\" title=\"IMG_0819-01.jpeg\" border=\"0\" width=\"600\" height=\"450\" />  \n*View from the top of a Mountain (August 2017, Estes Cone, Estes Park, CO)*\n",
 				"date_published": "2017-09-27T07:15:31-05:00",
 				"url": "https://ericmwalk.blog/2017/09/27/wordless-wednesday.html",
-				"tags": ["Photos","Wordless Wednesday"]
+				"tags": ["Travel","Photos","Wordless Wednesday","Exploring"]
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2017/09/23/was-a-year.html",
@@ -8042,16 +8078,16 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/09/23/boo-running-around.html",
 				
-				"content_html": "<p>Boo running around the empty soccer field at soccer last night..</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Boo running around the empty soccer field at soccer last night..\n\n<img src=\"https://ericmwalk.blog/uploads/2022/d3c7467de0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Boo running around the empty soccer field at soccer last night.. 👻</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Boo running around the empty soccer field at soccer last night.. 👻\n\n<img src=\"uploads/2022/d3c7467de0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-09-23T10:40:06-05:00",
 				"url": "https://ericmwalk.blog/2017/09/23/boo-running-around.html"
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2017/09/20/wordless-wednesday.html",
 				"title": "Wordless Wednesday 09/20",
-				"content_html": "<p>[caption id=&quot;&quot; align=&ldquo;alignnone&rdquo; width=&ldquo;1080&rdquo;]<!-- raw HTML omitted --> Crashing waves into the rocks (August 2017, Popham Beach, Phippsburg, ME)[/caption]</p>\n<p> </p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted -->Blogging Meetup - #WordlessWednesday<!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "[caption id=\"\" align=\"alignnone\" width=\"1080\"]<img src=\"http://stillthinking.brebs.net/wp-content/uploads/2017/09/wp-image-8993105190170931891.png\" alt=\"\" width=\"1080\" height=\"1080\" /> Crashing waves into the rocks (August 2017, Popham Beach, Phippsburg, ME)[/caption]\n\n&nbsp;\n\n<em><a href=\"https://bloggingmeetup.com/2017/09/20/its-wednesday/\">Blogging Meetup - #WordlessWednesday</a></em>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p><em><!-- raw HTML omitted -->Blogging Meetup - #WordlessWednesday<!-- raw HTML omitted --></em></p>\n",
+				"content_text": "<img src=\"https://ericmwalk.blog/uploads/2022/415981f861.jpg\" border=\"0\" width=\"600\" height=\"600\" />\n  *Crashing waves into the rocks (August 2017, Popham Beach, Phippsburg, ME)*  \n\n*<a href=\"https://bloggingmeetup.com/2017/09/20/its-wednesday/\">Blogging Meetup - #WordlessWednesday</a>*\n",
 				"date_published": "2017-09-20T11:21:59-05:00",
 				"url": "https://ericmwalk.blog/2017/09/20/wordless-wednesday.html",
 				"tags": ["Photos","Wordless Wednesday"]
@@ -8059,16 +8095,16 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/09/19/money-on-my.html",
 				"title": "Money on my Mind",
-				"content_html": "<p>Money has been on my mind for a post lately, in fact, you could say I think about it all the time. <!-- raw HTML omitted -->(With my mind on my money and my money on my mind. - Snoop Dogg)<!-- raw HTML omitted -->.  So when the Blogging Meetup prompt of the day was “<!-- raw HTML omitted -->Money<!-- raw HTML omitted -->”, I knew this was the sign I had been waiting for.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>You can&rsquo;t blame me and I wouldn&rsquo;t blame you either if it was on your mind. In fact, it is probably one of the reasons why you wake up in the morning when you do and go-to-bed when you do as well. For me it is why I wake up when I do, ok not entirely as I wake up earlier to run, but if it wasn&rsquo;t my next thing to do at a similar time each day would I need the alarm?</p>\n<p>My profession keeps my mind on money too as it is what we are known to help protect with safeguarded controls. Also, like most companies mine is no different where a part of year-end bonus are tied to financial performance and metrics (money).</p>\n<p>Personally, I am sure I am like a lot of people that in their own way have certain struggles with money. It might be big challenges to overcome or could be something small but in the end, each person would probably say if only we had <!-- raw HTML omitted -->more!<!-- raw HTML omitted --> Then everything would work out and all would be right in the world.</p>\n<p>I don&rsquo;t think so :) … I don&rsquo;t buy that response as I know I have said it before, so don&rsquo;t worry you are not alone.</p>\n<p>Now I would love to say I have all of the answers and that here are the 5 things you can do to turn this around and never think about money again… but that isn&rsquo;t possible as I think no matter what situation you are in you still think about it to a degree but each person is looking at it from a different perspective.</p>\n<p>The bigger question is probably <!-- raw HTML omitted -->what are people&rsquo;s relationship with money?<!-- raw HTML omitted --></p>\n<p>Now I know that sounds like a really big question and well it is. It is really what drives you to do what you do, or live like you do every day. Another way to think of it would be what is your end goal with the wealth you have accumulated or might accumulate? You could be one of the fortunate ones at the end of your journey and figure it all out but I am going to guess that is only a small number of people. I would take a guess that most people are on that road right now and it might not always be clear what direction you are going.</p>\n<p>This is where my journey starts/started not long ago was that I realized I had not fully defined my relationship with money in my head. In fact, it was also that I didn&rsquo;t have any short-term goals attached to a larger one. I was just doing what the system told me when I left college. I got a good job and put money away for retirement.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted -->So my question for you to think about is, what is YOUR relationship with money?<!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>That is all I have for today but let&rsquo;s keep this conversation going in the near future. I was kind of thinking once I started to write this might end up being a couple of posts in which I hope to build on them going forward and incorporate feedback from you.</p>\n<p> </p>\n",
-				"content_text": "Money has been on my mind for a post lately, in fact, you could say I think about it all the time. <i>(With my mind on my money and my money on my mind. - Snoop Dogg)</i>.  So when the Blogging Meetup prompt of the day was “<a href=\"https://bloggingmeetup.com/2017/09/19/tuesday-prompt/\">Money</a>”, I knew this was the sign I had been waiting for.\n\n<a href=\"http://stillthinking.brebs.net/wp-content/uploads/2017/09/money.jpg\"><img class=\"alignnone size-full wp-image-51121758\" src=\"http://stillthinking.brebs.net/wp-content/uploads/2017/09/money.jpg\" alt=\"\" width=\"434\" height=\"269\" /></a>\n\nYou can't blame me and I wouldn't blame you either if it was on your mind. In fact, it is probably one of the reasons why you wake up in the morning when you do and go-to-bed when you do as well. For me it is why I wake up when I do, ok not entirely as I wake up earlier to run, but if it wasn't my next thing to do at a similar time each day would I need the alarm?\n\nMy profession keeps my mind on money too as it is what we are known to help protect with safeguarded controls. Also, like most companies mine is no different where a part of year-end bonus are tied to financial performance and metrics (money).\n\nPersonally, I am sure I am like a lot of people that in their own way have certain struggles with money. It might be big challenges to overcome or could be something small but in the end, each person would probably say if only we had <b>more!</b> Then everything would work out and all would be right in the world.\n\nI don't think so :) … I don't buy that response as I know I have said it before, so don't worry you are not alone.\n\nNow I would love to say I have all of the answers and that here are the 5 things you can do to turn this around and never think about money again… but that isn't possible as I think no matter what situation you are in you still think about it to a degree but each person is looking at it from a different perspective.\n\nThe bigger question is probably <b>what are people's relationship with money?</b>\n\nNow I know that sounds like a really big question and well it is. It is really what drives you to do what you do, or live like you do every day. Another way to think of it would be what is your end goal with the wealth you have accumulated or might accumulate? You could be one of the fortunate ones at the end of your journey and figure it all out but I am going to guess that is only a small number of people. I would take a guess that most people are on that road right now and it might not always be clear what direction you are going.\n\nThis is where my journey starts/started not long ago was that I realized I had not fully defined my relationship with money in my head. In fact, it was also that I didn't have any short-term goals attached to a larger one. I was just doing what the system told me when I left college. I got a good job and put money away for retirement.\n\n<i><b>So my question for you to think about is, what is YOUR relationship with money?</b></i>\n\nThat is all I have for today but let's keep this conversation going in the near future. I was kind of thinking once I started to write this might end up being a couple of posts in which I hope to build on them going forward and incorporate feedback from you.\n\n&nbsp;\n",
+				"content_html": "<p>Money has been on my mind for a post lately, in fact, you could say I think about it all the time. <!-- raw HTML omitted -->(With my mind on my money and my money on my mind. - Snoop Dogg)<!-- raw HTML omitted -->.  So when the Blogging Meetup prompt of the day was “<!-- raw HTML omitted -->Money<!-- raw HTML omitted -->”, I knew this was the sign I had been waiting for.</p>\n<!-- raw HTML omitted -->\n<p>You can&rsquo;t blame me and I wouldn&rsquo;t blame you either if it was on your mind. In fact, it is probably one of the reasons why you wake up in the morning when you do and go-to-bed when you do as well. For me it is why I wake up when I do, ok not entirely as I wake up earlier to run, but if it wasn&rsquo;t my next thing to do at a similar time each day would I need the alarm?</p>\n<p>My profession keeps my mind on money too as it is what we are known to help protect with safeguarded controls. Also, like most companies mine is no different where a part of year-end bonus are tied to financial performance and metrics (money).</p>\n<p>Personally, I am sure I am like a lot of people that in their own way have certain struggles with money. It might be big challenges to overcome or could be something small but in the end, each person would probably say if only we had <!-- raw HTML omitted -->more!<!-- raw HTML omitted --> Then everything would work out and all would be right in the world.</p>\n<p>I don&rsquo;t think so :) … I don&rsquo;t buy that response as I know I have said it before, so don&rsquo;t worry you are not alone.</p>\n<p>Now I would love to say I have all of the answers and that here are the 5 things you can do to turn this around and never think about money again… but that isn&rsquo;t possible as I think no matter what situation you are in you still think about it to a degree but each person is looking at it from a different perspective.</p>\n<p>The bigger question is probably <!-- raw HTML omitted -->what are people&rsquo;s relationship with money?<!-- raw HTML omitted --></p>\n<p>Now I know that sounds like a really big question and well it is. It is really what drives you to do what you do, or live like you do every day. Another way to think of it would be what is your end goal with the wealth you have accumulated or might accumulate? You could be one of the fortunate ones at the end of your journey and figure it all out but I am going to guess that is only a small number of people. I would take a guess that most people are on that road right now and it might not always be clear what direction you are going.</p>\n<p>This is where my journey starts/started not long ago was that I realized I had not fully defined my relationship with money in my head. In fact, it was also that I didn&rsquo;t have any short-term goals attached to a larger one. I was just doing what the system told me when I left college. I got a good job and put money away for retirement.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted -->So my question for you to think about is, what is YOUR relationship with money?<!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>That is all I have for today but let&rsquo;s keep this conversation going in the near future. I was kind of thinking once I started to write this might end up being a couple of posts in which I hope to build on them going forward and incorporate feedback from you.</p>\n",
+				"content_text": "Money has been on my mind for a post lately, in fact, you could say I think about it all the time. <i>(With my mind on my money and my money on my mind. - Snoop Dogg)</i>.  So when the Blogging Meetup prompt of the day was “<a href=\"https://bloggingmeetup.com/2017/09/19/tuesday-prompt/\">Money</a>”, I knew this was the sign I had been waiting for.\n\n\n<img src=\"https://ericmwalk.blog/uploads/2022/e74c6700c5.jpg\" alt=\"Money\" title=\"money.jpeg\" border=\"0\" width=\"434\" height=\"269\" />  \n\nYou can't blame me and I wouldn't blame you either if it was on your mind. In fact, it is probably one of the reasons why you wake up in the morning when you do and go-to-bed when you do as well. For me it is why I wake up when I do, ok not entirely as I wake up earlier to run, but if it wasn't my next thing to do at a similar time each day would I need the alarm?\n\nMy profession keeps my mind on money too as it is what we are known to help protect with safeguarded controls. Also, like most companies mine is no different where a part of year-end bonus are tied to financial performance and metrics (money).\n\nPersonally, I am sure I am like a lot of people that in their own way have certain struggles with money. It might be big challenges to overcome or could be something small but in the end, each person would probably say if only we had <b>more!</b> Then everything would work out and all would be right in the world.\n\nI don't think so :) … I don't buy that response as I know I have said it before, so don't worry you are not alone.\n\nNow I would love to say I have all of the answers and that here are the 5 things you can do to turn this around and never think about money again… but that isn't possible as I think no matter what situation you are in you still think about it to a degree but each person is looking at it from a different perspective.\n\nThe bigger question is probably <b>what are people's relationship with money?</b>\n\nNow I know that sounds like a really big question and well it is. It is really what drives you to do what you do, or live like you do every day. Another way to think of it would be what is your end goal with the wealth you have accumulated or might accumulate? You could be one of the fortunate ones at the end of your journey and figure it all out but I am going to guess that is only a small number of people. I would take a guess that most people are on that road right now and it might not always be clear what direction you are going.\n\nThis is where my journey starts/started not long ago was that I realized I had not fully defined my relationship with money in my head. In fact, it was also that I didn't have any short-term goals attached to a larger one. I was just doing what the system told me when I left college. I got a good job and put money away for retirement.\n\n<i><b>So my question for you to think about is, what is YOUR relationship with money?</b></i>\n\nThat is all I have for today but let's keep this conversation going in the near future. I was kind of thinking once I started to write this might end up being a couple of posts in which I hope to build on them going forward and incorporate feedback from you.\n",
 				"date_published": "2017-09-19T23:04:14-05:00",
 				"url": "https://ericmwalk.blog/2017/09/19/money-on-my.html"
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2017/09/16/repost-thegretchenboo-grocery.html",
 				
-				"content_html": "<p>#Repost @thegretchenboo\nã»ã»ã»\nGrocery Shopping Boo&hellip; ðð» #facesofboo #groceryshopping #groceryshoppingwithkids #excitedkid #fruitsandveggies</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "#Repost @thegretchenboo\nã»ã»ã»\nGrocery Shopping Boo... ðð» #facesofboo #groceryshopping #groceryshoppingwithkids #excitedkid #fruitsandveggies\n\n<img src=\"https://ericmwalk.blog/uploads/2022/70e60c4718.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Grocery Shopping Boo&hellip; 🛒👻 #facesofboo</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Grocery Shopping Boo... 🛒👻 #facesofboo\n\n<img src=\"https://ericmwalk.blog/uploads/2022/70e60c4718.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-09-16T20:41:26-05:00",
 				"url": "https://ericmwalk.blog/2017/09/16/repost-thegretchenboo-grocery.html"
 			},
@@ -8089,58 +8125,10 @@
 				"url": "https://ericmwalk.blog/2017/09/10/relaxing-sundays-sometimes.html"
 			},
 			{
-				"id": "http://ericmwalk.micro.blog/2017/09/09/171006.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/11a472d42b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-09-09T18:10:06-05:00",
-				"url": "https://ericmwalk.blog/2017/09/09/171006.html"
-			},
-			{
-				"id": "http://ericmwalk.micro.blog/2017/09/09/171004.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/f63f338527.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-09-09T18:10:04-05:00",
-				"url": "https://ericmwalk.blog/2017/09/09/171004.html"
-			},
-			{
-				"id": "http://ericmwalk.micro.blog/2017/09/09/171003.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/c015fad4c4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-09-09T18:10:03-05:00",
-				"url": "https://ericmwalk.blog/2017/09/09/171003.html"
-			},
-			{
-				"id": "http://ericmwalk.micro.blog/2017/09/09/171002.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/1e89a59227.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-09-09T18:10:02-05:00",
-				"url": "https://ericmwalk.blog/2017/09/09/171002.html"
-			},
-			{
-				"id": "http://ericmwalk.micro.blog/2017/09/09/171000.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/4871703de5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-09-09T18:10:00-05:00",
-				"url": "https://ericmwalk.blog/2017/09/09/171000.html"
-			},
-			{
-				"id": "http://ericmwalk.micro.blog/2017/09/09/170958.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/59626b72d4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-09-09T18:09:58-05:00",
-				"url": "https://ericmwalk.blog/2017/09/09/170958.html"
-			},
-			{
 				"id": "http://ericmwalk.micro.blog/2017/09/09/170957.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/bb9f7bd4ad.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Beautiful afternoon for a Bike ride&hellip; 🚴</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "Beautiful afternoon for a Bike ride... 🚴\n\n<img src=\"https://ericmwalk.blog/uploads/2022/bb9f7bd4ad.jpg\" width=\"600\" height=\"600\" alt=\"\" />  \n\n<img src=\"https://ericmwalk.blog/uploads/2022/59626b72d4.jpg\" width=\"600\" height=\"600\" alt=\"\" />  \n\n<img src=\"https://ericmwalk.blog/uploads/2022/4871703de5.jpg\" width=\"600\" height=\"600\" alt=\"\" />  \n\n<img src=\"https://ericmwalk.blog/uploads/2022/1e89a59227.jpg\" width=\"600\" height=\"600\" alt=\"\" />  \n\n<img src=\"https://ericmwalk.blog/uploads/2022/c015fad4c4.jpg\" width=\"600\" height=\"600\" alt=\"\" />  \n\n<img src=\"https://ericmwalk.blog/uploads/2022/f63f338527.jpg\" width=\"600\" height=\"600\" alt=\"\" />  \n\n<img src=\"https://ericmwalk.blog/uploads/2022/11a472d42b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-09-09T18:09:57-05:00",
 				"url": "https://ericmwalk.blog/2017/09/09/170957.html"
 			},
@@ -8163,8 +8151,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/08/25/early-morning-flying.html",
 				
-				"content_html": "<p>Early morning flying&hellip; See you soon DEN ð©ï¸</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Early morning flying... See you soon DEN ð©ï¸\n\n<img src=\"https://ericmwalk.blog/uploads/2022/8d71be45a9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Early morning flying&hellip; See you soon DEN 🛩️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Early morning flying... See you soon DEN 🛩️ \n\n<img src=\"https://ericmwalk.blog/uploads/2022/8d71be45a9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-08-25T07:02:26-05:00",
 				"url": "https://ericmwalk.blog/2017/08/25/early-morning-flying.html"
 			},
@@ -8193,26 +8181,18 @@
 				"url": "https://ericmwalk.blog/2017/08/12/blue-skys-and.html"
 			},
 			{
-				"id": "http://ericmwalk.micro.blog/2017/08/11/195025.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/3e0711a5ad.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-08-11T20:50:25-05:00",
-				"url": "https://ericmwalk.blog/2017/08/11/195025.html"
-			},
-			{
 				"id": "http://ericmwalk.micro.blog/2017/08/11/195024.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/b6c4a13792.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Nice evening for kayak around the cove with my trusty guide&hellip;</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "Nice evening for kayak around the cove with my trusty guide...\n\n<img src=\"https://ericmwalk.blog/uploads/2022/b6c4a13792.jpg\" width=\"600\" height=\"600\" alt=\"\" />  \n\n<img src=\"https://ericmwalk.blog/uploads/2022/3e0711a5ad.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-08-11T20:50:24-05:00",
 				"url": "https://ericmwalk.blog/2017/08/11/195024.html"
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2017/08/10/reposting-thegretchenboo-lobster.html",
 				
-				"content_html": "<p>Reposting @thegretchenboo: â \n&hellip;â \n&ldquo;Lobster Lady Boo&hellip; ð¦ð» @luckycatchcruises&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Reposting @thegretchenboo: â \n...â \n\"Lobster Lady Boo... ð¦ð» @luckycatchcruises\"\n\n<img src=\"https://ericmwalk.blog/uploads/2022/f57f154e12.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Lobster Lady Boo&hellip; 🦂👻</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Lobster Lady Boo... 🦂👻 \n\n<img src=\"https://ericmwalk.blog/uploads/2022/f57f154e12.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-08-10T21:23:54-05:00",
 				"url": "https://ericmwalk.blog/2017/08/10/reposting-thegretchenboo-lobster.html"
 			},
@@ -8233,58 +8213,50 @@
 				"url": "https://ericmwalk.blog/2017/08/09/i-really-do.html"
 			},
 			{
-				"id": "http://ericmwalk.micro.blog/2017/08/05/060947.html",
+				"id": "http://ericmwalk.micro.blog/2017/08/06/our-view-for.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/31ad59cdc9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-08-05T07:09:47-05:00",
-				"url": "https://ericmwalk.blog/2017/08/05/060947.html"
-			},
-			{
-				"id": "http://ericmwalk.micro.blog/2017/08/05/060946.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/cf5bd97601.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-08-05T07:09:46-05:00",
-				"url": "https://ericmwalk.blog/2017/08/05/060946.html"
+				"content_html": "<p>Our view for the next week.. We finally made it to Maine. #MN2Maine</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Our view for the next week.. We finally made it to Maine. #MN2Maine\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://ericmwalk.blog/uploads/2022/11f6bc22a7.mov\" poster=\"https://ericmwalk.blog/uploads/2022/f8480d75ba.png\" preload=\"none\" width=\"400\" height=\"400\" alt=\"\"></video>\n",
+				"date_published": "2017-08-06T16:00:00-05:00",
+				"url": "https://ericmwalk.blog/2017/08/06/our-view-for.html"
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2017/08/05/060945.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/ab534662d7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Running through the streets and along the harbor of Boston is not a bad way to start the day&hellip; #running</p>\n<p>However, the streets in some places are more like running on boulders.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "Running through the streets and along the harbor of Boston is not a bad way to start the day... #running  \n\nHowever, the streets in some places are more like running on boulders.\n\n<img src=\"https://ericmwalk.blog/uploads/2022/ab534662d7.jpg\" width=\"600\" height=\"600\" alt=\"\" />  \n\n<img src=\"https://ericmwalk.blog/uploads/2022/cf5bd97601.jpg\" width=\"600\" height=\"600\" alt=\"\" />  \n\n<img src=\"https://ericmwalk.blog/uploads/2022/31ad59cdc9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-08-05T07:09:45-05:00",
 				"url": "https://ericmwalk.blog/2017/08/05/060945.html"
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2017/08/04/trolly-boo-facesofboo.html",
 				
-				"content_html": "<p>Trolly Boo&hellip; ðð» #facesofboo #MN2Maine @BostonTours</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Trolly Boo... ðð» #facesofboo #MN2Maine @BostonTours\n\n<img src=\"https://ericmwalk.blog/uploads/2022/9aeb8be2f4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Trolly Boo&hellip; 🚎👻  #facesofboo #MN2Maine @BostonTours</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Trolly Boo... 🚎👻  #facesofboo #MN2Maine @BostonTours\n\n<img src=\"https://ericmwalk.blog/uploads/2022/9aeb8be2f4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-08-04T14:47:40-05:00",
 				"url": "https://ericmwalk.blog/2017/08/04/trolly-boo-facesofboo.html"
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2017/08/04/freedom-trail-boo.html",
 				
-				"content_html": "<p>Freedom Trail Boo&hellip; ð¶ââï¸ð» #facesofboo #MN2Maine #FreedomTrail</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Freedom Trail Boo... ð¶ââï¸ð» #facesofboo #MN2Maine #FreedomTrail\n\n<img src=\"https://ericmwalk.blog/uploads/2022/adab04e9b9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Freedom Trail Boo&hellip; 🚶‍♀️👻 #facesofboo #MN2Maine #FreedomTrail</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Freedom Trail Boo... 🚶‍♀️👻 #facesofboo #MN2Maine #FreedomTrail\n\n<img src=\"https://ericmwalk.blog/uploads/2022/adab04e9b9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-08-04T14:39:15-05:00",
 				"url": "https://ericmwalk.blog/2017/08/04/freedom-trail-boo.html"
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2017/08/03/lorax-boo-who.html",
 				
-				"content_html": "<p>Lorax Boo who speaks for the trees.. ð³ð» #seussinspringfield #MN2Maine #facesofboo</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Lorax Boo who speaks for the trees.. ð³ð» #seussinspringfield #MN2Maine #facesofboo\n\n<img src=\"https://ericmwalk.blog/uploads/2022/bf0e2c628d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Lorax Boo who speaks for the trees.. 🌳👻 #seussinspringfield #MN2Maine #facesofboo</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Lorax Boo who speaks for the trees.. 🌳👻 #seussinspringfield #MN2Maine #facesofboo\n\n<img src=\"https://ericmwalk.blog/uploads/2022/bf0e2c628d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-08-03T15:50:40-05:00",
 				"url": "https://ericmwalk.blog/2017/08/03/lorax-boo-who.html"
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2017/08/03/wahlburgers-boo-mnmaine.html",
 				
-				"content_html": "<p>Wahlburgers Boo.. ðð» #MN2Maine #facesofboo @aprilgottwalker @mojitosandmunchkins #MyWifeMadeMeStopAtAnotherOne</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Wahlburgers Boo.. ðð» #MN2Maine #facesofboo @aprilgottwalker @mojitosandmunchkins #MyWifeMadeMeStopAtAnotherOne\n\n<img src=\"https://ericmwalk.blog/uploads/2022/c05091167c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Wahlburgers Boo.. 🍔👻  #MN2Maine #facesofboo</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Wahlburgers Boo.. 🍔👻  #MN2Maine #facesofboo\n\n<img src=\"https://ericmwalk.blog/uploads/2022/c05091167c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-08-03T12:50:11-05:00",
 				"url": "https://ericmwalk.blog/2017/08/03/wahlburgers-boo-mnmaine.html"
 			},
@@ -8299,8 +8271,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/08/03/niagara-falls-boo.html",
 				
-				"content_html": "<p>Niagara Falls Boo.. ð¦ð» #niagarafalls #MN2Maine</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Niagara Falls Boo.. ð¦ð» #niagarafalls #MN2Maine\n\n<img src=\"https://ericmwalk.blog/uploads/2022/9f6afd2413.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Niagara Falls Boo.. 💦👻  #niagarafalls #MN2Maine</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Niagara Falls Boo.. 💦👻  #niagarafalls #MN2Maine\n\n<img src=\"https://ericmwalk.blog/uploads/2022/9f6afd2413.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2017-08-03T06:07:40-05:00",
 				"url": "https://ericmwalk.blog/2017/08/03/niagara-falls-boo.html"
 			},
@@ -8315,16 +8287,16 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/08/01/stanley-cup-boo.html",
 				
-				"content_html": "<p>Stanley Cup Boo&hellip; ðð» @thehockeyhalloffame #mn2maine #stanleycup</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Stanley Cup Boo... ðð» @thehockeyhalloffame #mn2maine #stanleycup\n\n<img src=\"https://ericmwalk.blog/uploads/2022/7c72fd70cb.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Stanley Cup Boo&hellip; 🏒👻 @thehockeyhalloffame #mn2maine #stanleycup</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Stanley Cup Boo... 🏒👻 @thehockeyhalloffame #mn2maine #stanleycup\n\n<img src=\"https://ericmwalk.blog/uploads/2022/7c72fd70cb.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-08-01T22:48:24-05:00",
 				"url": "https://ericmwalk.blog/2017/08/01/stanley-cup-boo.html"
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2017/08/01/bumblebee-boo.html",
 				
-				"content_html": "<p>Bumblebee Boo.. ð»</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Bumblebee Boo.. ð»\n\n<img src=\"https://ericmwalk.blog/uploads/2022/57d3bdba91.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Bumblebee Boo.. 👻</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Bumblebee Boo.. 👻\n\n<img src=\"https://ericmwalk.blog/uploads/2022/57d3bdba91.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-08-01T15:30:00-05:00",
 				"url": "https://ericmwalk.blog/2017/08/01/bumblebee-boo.html"
 			},
@@ -8339,16 +8311,16 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/07/30/underwater-rockstar-boo.html",
 				
-				"content_html": "<p>Underwater Rockstar Boo&hellip;. ð¤ð¶ð»</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Underwater Rockstar Boo.... ð¤ð¶ð»\n\n<img src=\"https://ericmwalk.blog/uploads/2022/f5a84c6415.jpg\" width=\"504\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Underwater Rockstar Boo&hellip;. 🎤🎶👻</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Underwater Rockstar Boo.... 🎤🎶👻\n\n<img src=\"https://ericmwalk.blog/uploads/2022/f5a84c6415.jpg\" width=\"504\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-07-30T22:37:22-05:00",
 				"url": "https://ericmwalk.blog/2017/07/30/underwater-rockstar-boo.html"
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2017/07/25/not-sure-if.html",
 				
-				"content_html": "<p>Not sure if this picture does it justice but the campers got some heavy rain for a couple min early this morning.. Let&rsquo;s hope Uncle Aaron&rsquo;s tent doesn&rsquo;t leak ð§ï¸âºð¦ #backyardcamping</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Not sure if this picture does it justice but the campers got some heavy rain for a couple min early this morning.. Let's hope Uncle Aaron's tent doesn't leak ð§ï¸âºð¦ #backyardcamping\n\n<img src=\"https://ericmwalk.blog/uploads/2022/5968eeec98.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Not sure if this picture does it justice but the campers got some heavy rain for a couple min early this morning.. Let&rsquo;s hope Uncle Aaron&rsquo;s tent doesn&rsquo;t leak 🌧️⛺💦 #backyardcamping</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Not sure if this picture does it justice but the campers got some heavy rain for a couple min early this morning.. Let's hope Uncle Aaron's tent doesn't leak 🌧️⛺💦 #backyardcamping\n\n<img src=\"https://ericmwalk.blog/uploads/2022/5968eeec98.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-07-25T08:28:32-05:00",
 				"url": "https://ericmwalk.blog/2017/07/25/not-sure-if.html"
 			},
@@ -8363,8 +8335,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/07/23/relaxing-morning-today.html",
 				
-				"content_html": "<p>Relaxing morning today on the deck while the rest of the house is asleep. B is reading while I enjoy the quiet outside with coffee ðµ</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Relaxing morning today on the deck while the rest of the house is asleep. B is reading while I enjoy the quiet outside with coffee ðµ\n\n<img src=\"https://ericmwalk.blog/uploads/2022/f98b275c73.jpg\" width=\"600\" height=\"595\" alt=\"\" />\n",
+				"content_html": "<p>Relaxing morning today on the deck while the rest of the house is asleep. B is reading while I enjoy the quiet outside with coffee 🍵</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Relaxing morning today on the deck while the rest of the house is asleep. B is reading while I enjoy the quiet outside with coffee 🍵\n\n<img src=\"https://ericmwalk.blog/uploads/2022/f98b275c73.jpg\" width=\"600\" height=\"595\" alt=\"\" />\n",
 				"date_published": "2017-07-23T08:23:49-05:00",
 				"url": "https://ericmwalk.blog/2017/07/23/relaxing-morning-today.html"
 			},
@@ -8393,38 +8365,6 @@
 				"url": "https://ericmwalk.blog/2017/07/15/free-spirit-boo.html"
 			},
 			{
-				"id": "http://ericmwalk.micro.blog/2017/07/04/164849.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/c4876009df.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-07-04T17:48:49-05:00",
-				"url": "https://ericmwalk.blog/2017/07/04/164849.html"
-			},
-			{
-				"id": "http://ericmwalk.micro.blog/2017/07/04/164847.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/bc333e7da8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-07-04T17:48:47-05:00",
-				"url": "https://ericmwalk.blog/2017/07/04/164847.html"
-			},
-			{
-				"id": "http://ericmwalk.micro.blog/2017/07/04/164846.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/0d5dd5ccca.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-07-04T17:48:46-05:00",
-				"url": "https://ericmwalk.blog/2017/07/04/164846.html"
-			},
-			{
-				"id": "http://ericmwalk.micro.blog/2017/07/04/164844.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/8ff1f3f762.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-07-04T17:48:44-05:00",
-				"url": "https://ericmwalk.blog/2017/07/04/164844.html"
-			},
-			{
 				"id": "http://ericmwalk.micro.blog/2017/07/04/164843.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -8439,78 +8379,6 @@
 				"content_text": "Beautiful morning to get out early and run around the lake #running #sunrise\n\n<img src=\"https://ericmwalk.blog/uploads/2022/d652159f89.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-07-03T10:31:37-05:00",
 				"url": "https://ericmwalk.blog/2017/07/03/beautiful-morning-to.html"
-			},
-			{
-				"id": "http://ericmwalk.micro.blog/2017/07/02/143607.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/09b79c6214.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-07-02T15:36:07-05:00",
-				"url": "https://ericmwalk.blog/2017/07/02/143607.html"
-			},
-			{
-				"id": "http://ericmwalk.micro.blog/2017/07/02/143606.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/2ed1264415.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-07-02T15:36:06-05:00",
-				"url": "https://ericmwalk.blog/2017/07/02/143606.html"
-			},
-			{
-				"id": "http://ericmwalk.micro.blog/2017/07/02/143604.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/1d5b46b334.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-07-02T15:36:04-05:00",
-				"url": "https://ericmwalk.blog/2017/07/02/143604.html"
-			},
-			{
-				"id": "http://ericmwalk.micro.blog/2017/07/02/143603.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/288b27620d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-07-02T15:36:03-05:00",
-				"url": "https://ericmwalk.blog/2017/07/02/143603.html"
-			},
-			{
-				"id": "http://ericmwalk.micro.blog/2017/07/02/143602.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/ba3b15eb26.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-07-02T15:36:02-05:00",
-				"url": "https://ericmwalk.blog/2017/07/02/143602.html"
-			},
-			{
-				"id": "http://ericmwalk.micro.blog/2017/07/02/143601.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/ac69fafcd8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-07-02T15:36:01-05:00",
-				"url": "https://ericmwalk.blog/2017/07/02/143601.html"
-			},
-			{
-				"id": "http://ericmwalk.micro.blog/2017/07/02/143600.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/f5ca63d19b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-07-02T15:36:00-05:00",
-				"url": "https://ericmwalk.blog/2017/07/02/143600.html"
-			},
-			{
-				"id": "http://ericmwalk.micro.blog/2017/07/02/143559.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/cfd7d7d59a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-07-02T15:35:59-05:00",
-				"url": "https://ericmwalk.blog/2017/07/02/143559.html"
-			},
-			{
-				"id": "http://ericmwalk.micro.blog/2017/07/02/143557.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/0326c45482.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-07-02T15:35:57-05:00",
-				"url": "https://ericmwalk.blog/2017/07/02/143557.html"
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2017/07/02/143556.html",
@@ -8590,16 +8458,17 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/06/11/detour-on-our.html",
 				
-				"content_html": "<p>Detour on our way back home today\n.\n#littlebrownchurch #wandering #iowa #intentionallywandering</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Detour on our way back home today\n.\n#littlebrownchurch #wandering #iowa #intentionallywandering\n\n<img src=\"https://ericmwalk.blog/uploads/2022/7a6019e936.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Detour on our way back home today</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Detour on our way back home today\n\n<img src=\"https://ericmwalk.blog/uploads/2022/7a6019e936.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-06-11T15:39:19-05:00",
-				"url": "https://ericmwalk.blog/2017/06/11/detour-on-our.html"
+				"url": "https://ericmwalk.blog/2017/06/11/detour-on-our.html",
+				"tags": ["Exploring"]
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2017/06/09/crash-asphalt-eric.html",
 				"title": "Crash! Asphalt 1 - Eric 0",
-				"content_html": "<p>I had a great post for you a couple of weeks back I was in a slump about running and getting motivated to get out and run every morning.  I was thinking now that I am back at it 100% and fully motivated it would be a great time to share but then this happened this morning:</p>\n<p>[caption id=&ldquo;attachment_51121693&rdquo; align=&ldquo;alignnone&rdquo; width=&ldquo;2046&rdquo;]<!-- raw HTML omitted --> Sometimes the ground wins[/caption]</p>\n<p>That picture was taken well after the run, a painful shower, and three bandage changes later.  Though that wasn&rsquo;t it as I really twisted my ankle and have a couple bruised ribs (or that is what the doctor told me).  Also, my iPhone took a good fall on the pavement as I normally run with it and that was the arm that broke the rest of my fall.  Overall, nothing major was broken or damaged but I am a little slower moving today.</p>\n<p>You might be wondering how this happened and I wish it was a much more glamorous story.  I was running along like normal on the sidewalk but on a rougher part of asphalt and my foot must have hit a dip wrong and my ankle twisted bad and there was no coming back from that.  I broke my fall with my hand for the most part that was under my chest.  I quickly rolled over into the grass and said some choice words to the sky as I knew my iPhone was on my arm that broke the fall.  I got up quickly as well and noticed a lady stopped in her vehicle asking if I was ok.  I said I was all good and started to jog off.  After two blocks and I knew I was dripping blood from my hand and knees I decided to stop and just walk the remainder of the way home as I also knew my ankle was tender but probably not broken.  On the walk home I realized I had a lot of pain in my chest as well which ultimately is probably bruised or cracked rib.</p>\n<!-- raw HTML omitted -->\n<p>Sooo&hellip; stay tuned and I will still post it (probably Monday) as I might need some more motivation after I get all healed up.</p>\n",
-				"content_text": "I had a great post for you a couple of weeks back I was in a slump about running and getting motivated to get out and run every morning.  I was thinking now that I am back at it 100% and fully motivated it would be a great time to share but then this happened this morning:\n\n[caption id=\"attachment_51121693\" align=\"alignnone\" width=\"2046\"]<img class=\"wp-image-51121693 size-full\" src=\"https://stillthinking.me/wp-content/uploads/2017/06/61d18b17-f5da-408b-9a71-a0e0f450cbae.jpg\" alt=\"61d18b17-f5da-408b-9a71-a0e0f450cbae\" width=\"2046\" height=\"1535\" /> Sometimes the ground wins[/caption]\n\nThat picture was taken well after the run, a painful shower, and three bandage changes later.  Though that wasn't it as I really twisted my ankle and have a couple bruised ribs (or that is what the doctor told me).  Also, my iPhone took a good fall on the pavement as I normally run with it and that was the arm that broke the rest of my fall.  Overall, nothing major was broken or damaged but I am a little slower moving today.\n\nYou might be wondering how this happened and I wish it was a much more glamorous story.  I was running along like normal on the sidewalk but on a rougher part of asphalt and my foot must have hit a dip wrong and my ankle twisted bad and there was no coming back from that.  I broke my fall with my hand for the most part that was under my chest.  I quickly rolled over into the grass and said some choice words to the sky as I knew my iPhone was on my arm that broke the fall.  I got up quickly as well and noticed a lady stopped in her vehicle asking if I was ok.  I said I was all good and started to jog off.  After two blocks and I knew I was dripping blood from my hand and knees I decided to stop and just walk the remainder of the way home as I also knew my ankle was tender but probably not broken.  On the walk home I realized I had a lot of pain in my chest as well which ultimately is probably bruised or cracked rib.\n\n<img class=\"size-full wp-image-51121704 alignnone\" src=\"http://stillthinking.brebs.net/wp-content/uploads/2017/06/img_1810.jpg\" alt=\"img_1810\" width=\"1024\" height=\"512\" />\n\nSooo... stay tuned and I will still post it (probably Monday) as I might need some more motivation after I get all healed up.\n",
+				"content_html": "<p>I had a great post for you a couple of weeks back I was in a slump about running and getting motivated to get out and run every morning.  I was thinking now that I am back at it 100% and fully motivated it would be a great time to share but then this happened this morning:</p>\n<!-- raw HTML omitted -->\n<p>That picture was taken well after the run, a painful shower, and three bandage changes later.  Though that wasn&rsquo;t it as I really twisted my ankle and have a couple bruised ribs (or that is what the doctor told me).  Also, my iPhone took a good fall on the pavement as I normally run with it and that was the arm that broke the rest of my fall.  Overall, nothing major was broken or damaged but I am a little slower moving today.</p>\n<p>You might be wondering how this happened and I wish it was a much more glamorous story.  I was running along like normal on the sidewalk but on a rougher part of asphalt and my foot must have hit a dip wrong and my ankle twisted bad and there was no coming back from that.  I broke my fall with my hand for the most part that was under my chest.  I quickly rolled over into the grass and said some choice words to the sky as I knew my iPhone was on my arm that broke the fall.  I got up quickly as well and noticed a lady stopped in her vehicle asking if I was ok.  I said I was all good and started to jog off.  After two blocks and I knew I was dripping blood from my hand and knees I decided to stop and just walk the remainder of the way home as I also knew my ankle was tender but probably not broken.  On the walk home I realized I had a lot of pain in my chest as well which ultimately is probably bruised or cracked rib.</p>\n<!-- raw HTML omitted -->\n<p>Sooo&hellip; stay tuned and I will still post it (probably Monday) as I might need some more motivation after I get all healed up.</p>\n",
+				"content_text": "I had a great post for you a couple of weeks back I was in a slump about running and getting motivated to get out and run every morning.  I was thinking now that I am back at it 100% and fully motivated it would be a great time to share but then this happened this morning:\n\n<img src=\"https://ericmwalk.blog/uploads/2022/6113485441.jpg\" width=\"600\" height=\"600\" alt=\"\" />  \n*Sometimes the ground wins*\n\nThat picture was taken well after the run, a painful shower, and three bandage changes later.  Though that wasn't it as I really twisted my ankle and have a couple bruised ribs (or that is what the doctor told me).  Also, my iPhone took a good fall on the pavement as I normally run with it and that was the arm that broke the rest of my fall.  Overall, nothing major was broken or damaged but I am a little slower moving today.\n\nYou might be wondering how this happened and I wish it was a much more glamorous story.  I was running along like normal on the sidewalk but on a rougher part of asphalt and my foot must have hit a dip wrong and my ankle twisted bad and there was no coming back from that.  I broke my fall with my hand for the most part that was under my chest.  I quickly rolled over into the grass and said some choice words to the sky as I knew my iPhone was on my arm that broke the fall.  I got up quickly as well and noticed a lady stopped in her vehicle asking if I was ok.  I said I was all good and started to jog off.  After two blocks and I knew I was dripping blood from my hand and knees I decided to stop and just walk the remainder of the way home as I also knew my ankle was tender but probably not broken.  On the walk home I realized I had a lot of pain in my chest as well which ultimately is probably bruised or cracked rib.\n\n<img src=\"https://ericmwalk.blog/uploads/2022/4ab7fa5fc5.jpg\" border=\"0\" width=\"600\" height=\"300\" />  \n\nSooo... stay tuned and I will still post it (probably Monday) as I might need some more motivation after I get all healed up.\n",
 				"date_published": "2017-06-09T16:14:48-05:00",
 				"url": "https://ericmwalk.blog/2017/06/09/crash-asphalt-eric.html",
 				"tags": ["Running","Quotes"]
@@ -8607,41 +8476,26 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/06/08/todays-score-asphalt.html",
 				
-				"content_html": "<p>âªToday&rsquo;s score: Asphalt 1 - Eric 0. Guess that is what I get for #running this morning. Why couldn&rsquo;t it have been grass ðâ¬\n.\nNow let&rsquo;s just hope my ankle and ribs are only bruised / sore and nothing else.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "âªToday's score: Asphalt 1 - Eric 0. Guess that is what I get for #running this morning. Why couldn't it have been grass ðâ¬\n.\nNow let's just hope my ankle and ribs are only bruised / sore and nothing else.\n\n<img src=\"https://ericmwalk.blog/uploads/2022/6113485441.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Today&rsquo;s score: Asphalt 1 - Eric 0. Guess that is what I get for #running this morning. Why couldn&rsquo;t it have been grass 😒</p>\n<p>Now let&rsquo;s just hope my ankle and ribs are only bruised / sore and nothing else.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today's score: Asphalt 1 - Eric 0. Guess that is what I get for #running this morning. Why couldn't it have been grass 😒  \n\nNow let's just hope my ankle and ribs are only bruised / sore and nothing else.\n\n<img src=\"https://ericmwalk.blog/uploads/2022/6113485441.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-06-08T10:22:30-05:00",
-				"url": "https://ericmwalk.blog/2017/06/08/todays-score-asphalt.html"
+				"url": "https://ericmwalk.blog/2017/06/08/todays-score-asphalt.html",
+				"tags": ["Running"]
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2017/06/07/wordless-wednesday.html",
 				"title": "Wordless Wednesday 06/07",
-				"content_html": "<p>[caption width=&ldquo;2448&rdquo; id=&ldquo;attachment_51121661&rdquo; align=&ldquo;alignnone&rdquo;]<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->    Watching the powerful rushing water pour over the cliff of the Horseshoe Falls (June 2017, Niagara Falls, Ontario, Canada)[/caption]</p>\n<p>[caption width=&ldquo;3264&rdquo; id=&ldquo;attachment_51121662&rdquo; align=&ldquo;alignnone&rdquo;]<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --> Front facing view of the Horseshoe Falls (June 2017, Niagara Falls, Ontario, Canada)[/caption]</p>\n",
-				"content_text": "[caption width=\"2448\" id=\"attachment_51121661\" align=\"alignnone\"]<a href=\"http://stillthinking.brebs.net/wp-content/uploads/2017/06/img_1790.jpg\"><img width=\"2448\" height=\"2448\" alt=\"\" src=\"http://stillthinking.brebs.net/wp-content/uploads/2017/06/img_1790.jpg\" title=\"\" class=\"size-full wp-image-51121661\"></a>    Watching the powerful rushing water pour over the cliff of the Horseshoe Falls (June 2017, Niagara Falls, Ontario, Canada)[/caption]\n\n[caption width=\"3264\" id=\"attachment_51121662\" align=\"alignnone\"]<a href=\"http://stillthinking.brebs.net/wp-content/uploads/2017/06/img_1789.jpg\"><img width=\"3264\" height=\"2448\" alt=\"\" src=\"http://stillthinking.brebs.net/wp-content/uploads/2017/06/img_1789.jpg\" title=\"\" class=\"size-full wp-image-51121662\"></a> Front facing view of the Horseshoe Falls (June 2017, Niagara Falls, Ontario, Canada)[/caption]\n",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"https://ericmwalk.blog/uploads/2022/c998d7cd86.jpg\" width=\"600\" height=\"600\" alt=\"\" />  \n*Watching the powerful rushing water pour over the cliff of the Horseshoe Falls (June 2017, Niagara Falls, Ontario, Canada)*\n\n\n<img src=\"https://ericmwalk.blog/uploads/2022/97b505911a.jpg\" alt=\"Img 1789\" title=\"img_1789.jpeg\" border=\"0\" width=\"600\" height=\"450\" />  \n*Front facing view of the Horseshoe Falls (June 2017, Niagara Falls, Ontario, Canada)*\n",
 				"date_published": "2017-06-07T23:56:37-05:00",
 				"url": "https://ericmwalk.blog/2017/06/07/wordless-wednesday.html",
 				"tags": ["Photos","Wordless Wednesday"]
 			},
 			{
-				"id": "http://ericmwalk.micro.blog/2017/06/02/063446.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/5b195757a8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-06-02T07:34:46-05:00",
-				"url": "https://ericmwalk.blog/2017/06/02/063446.html"
-			},
-			{
-				"id": "http://ericmwalk.micro.blog/2017/06/02/063427.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/c998d7cd86.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-06-02T07:34:27-05:00",
-				"url": "https://ericmwalk.blog/2017/06/02/063427.html"
-			},
-			{
 				"id": "http://ericmwalk.micro.blog/2017/06/02/063413.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/5dc4adc6f1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Finally made a quick detour yesterday to see Niagara Falls after work</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "Finally made a quick detour yesterday to see Niagara Falls after work\n\n<img src=\"https://ericmwalk.blog/uploads/2022/5dc4adc6f1.jpg\" width=\"600\" height=\"600\" alt=\"\" />  \n\n<img src=\"https://ericmwalk.blog/uploads/2022/c998d7cd86.jpg\" width=\"600\" height=\"600\" alt=\"\" />  \n\n<img src=\"https://ericmwalk.blog/uploads/2022/5b195757a8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-06-02T07:34:13-05:00",
 				"url": "https://ericmwalk.blog/2017/06/02/063413.html"
 			},
@@ -8656,8 +8510,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/05/31/wordless-wednesday.html",
 				"title": "Wordless Wednesday 05/30",
-				"content_html": "<p>[caption id=&ldquo;attachment_51121654&rdquo; align=&ldquo;alignnone&rdquo; width=&ldquo;2273&rdquo;]<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --> Sunset over fluffy white clouds (Flying from MSP to BUF, May 2017)[/caption]</p>\n",
-				"content_text": "[caption id=\"attachment_51121654\" align=\"alignnone\" width=\"2273\"]<a href=\"http://stillthinking.brebs.net/wp-content/uploads/2017/05/img_1626.jpg\"><img class=\"size-full wp-image-51121654\" title=\"\" src=\"http://stillthinking.brebs.net/wp-content/uploads/2017/05/img_1626.jpg\" alt=\"\" width=\"2273\" height=\"2273\" /></a> Sunset over fluffy white clouds (Flying from MSP to BUF, May 2017)[/caption]\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"https://ericmwalk.blog/uploads/2022/a4080aeed0.jpg\" width=\"600\" height=\"600\" alt=\"\" />  \n*Sunset over fluffy white clouds (Flying from MSP to BUF, May 2017)*\n",
 				"date_published": "2017-05-31T01:05:13-05:00",
 				"url": "https://ericmwalk.blog/2017/05/31/wordless-wednesday.html",
 				"tags": ["Travel","Photos","Wordless Wednesday"]
@@ -8665,16 +8519,16 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/05/30/sunset-over-fluffy.html",
 				
-				"content_html": "<p>Sunset over fluffy white clouds ð«#sunset #clouds #flying</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sunset over fluffy white clouds ð«#sunset #clouds #flying\n\n<img src=\"https://ericmwalk.blog/uploads/2022/a4080aeed0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Sunset over fluffy white clouds 🛫 #sunset #clouds #flying</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sunset over fluffy white clouds 🛫 #sunset #clouds #flying\n\n<img src=\"https://ericmwalk.blog/uploads/2022/a4080aeed0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-05-30T21:03:31-05:00",
 				"url": "https://ericmwalk.blog/2017/05/30/sunset-over-fluffy.html"
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2017/05/29/grocery-shopping-boo.html",
 				
-				"content_html": "<p>Grocery Shopping Boo&hellip;ð» #FacesofBoo</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Grocery Shopping Boo...ð» #FacesofBoo\n\n<img src=\"https://ericmwalk.blog/uploads/2022/8361e52a05.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Grocery Shopping Boo&hellip;👻 #FacesofBoo</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Grocery Shopping Boo...👻 #FacesofBoo \n\n<img src=\"https://ericmwalk.blog/uploads/2022/8361e52a05.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-05-29T22:43:37-05:00",
 				"url": "https://ericmwalk.blog/2017/05/29/grocery-shopping-boo.html"
 			},
@@ -8705,8 +8559,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/05/19/family-favorite-boo.html",
 				
-				"content_html": "<p>Family Favorite Boo&hellip; ð» #FacesofBoo #nailedit</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Family Favorite Boo... ð» #FacesofBoo #nailedit\n\n<img src=\"https://ericmwalk.blog/uploads/2022/0cc6bbfb89.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Family Favorite Boo&hellip; 👻 #FacesofBoo #nailedit</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Family Favorite Boo... 👻 #FacesofBoo #nailedit\n\n<img src=\"https://ericmwalk.blog/uploads/2022/0cc6bbfb89.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-05-19T17:08:36-05:00",
 				"url": "https://ericmwalk.blog/2017/05/19/family-favorite-boo.html"
 			},
@@ -8721,8 +8575,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/05/17/wordless-wednesday.html",
 				"title": "Wordless Wednesday 05/17",
-				"content_html": "<p>[caption id=&ldquo;attachment_51121637&rdquo; align=&ldquo;alignnone&rdquo; width=&ldquo;6173&rdquo;]<!-- raw HTML omitted --> <!-- raw HTML omitted -->Progress&hellip; Sometimes slower than you hope but glad it is still on track. (Kitchen Remodel Day 31, May 2017)<!-- raw HTML omitted -->[/caption]</p>\n<p><!-- raw HTML omitted -->Kitchen Remodel Day 1<!-- raw HTML omitted --></p>\n",
-				"content_text": "[caption id=\"attachment_51121637\" align=\"alignnone\" width=\"6173\"]<img class=\"alignnone size-full wp-image-51121637\" src=\"http://stillthinking.brebs.net/wp-content/uploads/2017/05/9b3b179e-074c-4dde-8c98-ba4fa92223ea.jpg\" alt=\"9b3b179e-074c-4dde-8c98-ba4fa92223ea\" width=\"6173\" height=\"2186\" /> <em>Progress... Sometimes slower than you hope but glad it is still on track. (Kitchen Remodel Day 31, May 2017)</em>[/caption]\n\n<a href=\"http://stillthinking.me/2017/04/19/wordless-wednesday-0419/\">Kitchen Remodel Day 1</a>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Kitchen Remodel Day 1<!-- raw HTML omitted --></p>\n",
+				"content_text": "\n<img src=\"https://ericmwalk.blog/uploads/2022/7b22e73399.jpg\"  border=\"0\" width=\"599\" height=\"212\" />  \n*Progress... Sometimes slower than you hope but glad it is still on track. (Kitchen Remodel Day 31, May 2017)</em>*\n\n<a href=\"https://ericmwalk.blog/2017/04/19/wordless-wednesday.html\">Kitchen Remodel Day 1</a>\n",
 				"date_published": "2017-05-17T17:27:59-05:00",
 				"url": "https://ericmwalk.blog/2017/05/17/wordless-wednesday.html",
 				"tags": ["Photos","Wordless Wednesday"]
@@ -8730,8 +8584,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/05/14/happy-mothers-day.html",
 				
-				"content_html": "<p>Happy Mother&rsquo;s Day to the mom of my kids. I am thankful everyday for all you do for our family and I know it isn&rsquo;t easy. However, it has been fun so far, right? ð¤£</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Happy Mother's Day to the mom of my kids. I am thankful everyday for all you do for our family and I know it isn't easy. However, it has been fun so far, right? ð¤£\n\n<img src=\"https://ericmwalk.blog/uploads/2022/aa7a18bae5.jpg\" width=\"559\" height=\"559\" alt=\"\" />\n",
+				"content_html": "<p>Happy Mother&rsquo;s Day to the mom of my kids. I am thankful everyday for all you do for our family and I know it isn&rsquo;t easy. However, it has been fun so far, right? 🤣</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Happy Mother's Day to the mom of my kids. I am thankful everyday for all you do for our family and I know it isn't easy. However, it has been fun so far, right? 🤣\n\n<img src=\"https://ericmwalk.blog/uploads/2022/aa7a18bae5.jpg\" width=\"559\" height=\"559\" alt=\"\" />\n",
 				"date_published": "2017-05-14T21:24:16-05:00",
 				"url": "https://ericmwalk.blog/2017/05/14/happy-mothers-day.html"
 			},
@@ -8746,8 +8600,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/05/10/graduate-boo-facesofboo.html",
 				
-				"content_html": "<p>Graduate Boo ð»&hellip; #FacesofBoo</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Graduate Boo ð»... #FacesofBoo\n\n<img src=\"https://ericmwalk.blog/uploads/2022/9e8566dbb4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Graduate Boo 👻&hellip; #FacesofBoo</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Graduate Boo 👻... #FacesofBoo\n\n<img src=\"https://ericmwalk.blog/uploads/2022/9e8566dbb4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-05-10T20:24:23-05:00",
 				"url": "https://ericmwalk.blog/2017/05/10/graduate-boo-facesofboo.html"
 			},
@@ -8762,8 +8616,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/05/08/net-neutrality-really.html",
 				"title": "Net Neutrality... Really Again?",
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<!-- wp:core-embed/youtube {\"url\":\"[youtu.be/92vuuZt7w...](https://youtu.be/92vuuZt7wak)\",\"type\":\"video\",\"providerNameSlug\":\"youtube\",\"className\":\"wp-embed-aspect-16-9 wp-has-aspect-ratio\"} -->\n<figure class=\"wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n[youtu.be/92vuuZt7w...](https://youtu.be/92vuuZt7wak)\n</div></figure>\n<!-- /wp:core-embed/youtube -->\n\n<!-- wp:paragraph -->\n<p>via <a href=\"https://www.youtube.com/watch?v=92vuuZt7wak&amp;t=1s\">Net Neutrality II: Last Week Tonight with John Oliver (HBO) - YouTube</a></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Another great/ timely video on Last Week Tonight with John Oliver talking again about Net Neutrality. &nbsp;Wait, what? Didn't he already make one of these?</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Yes, you are correct and I included it below for you to watch again, but it is still serious. &nbsp;Equal access to online information is once again under serious threat by trying to come at it a different direction. So make sure you follow the instructions that he gave at the end of the video and voice your displeasure to the FCC by visiting <a href=\"http://gofccyourself.com\">www.gofccyourself.com</a> and clicking \"express\" to file your comment.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:core-embed/youtube {\"url\":\"https://youtu.be/fpbOEoRrHyU\",\"type\":\"video\",\"providerNameSlug\":\"youtube\",\"className\":\"wp-embed-aspect-16-9 wp-has-aspect-ratio\"} -->\n<figure class=\"wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\nhttps://youtu.be/fpbOEoRrHyU\n</div></figure>\n<!-- /wp:core-embed/youtube -->\n\n<!-- wp:paragraph -->\n<p>via <a href=\"https://youtu.be/fpbOEoRrHyU\">Net Neutrality: Last Week Tonight with John Oliver (HBO) - YouTube</a></p>\n<!-- /wp:paragraph -->\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Another great/ timely video on Last Week Tonight with John Oliver talking again about Net Neutrality.  Wait, what? Didn&rsquo;t he already make one of these?</p>\n<p>Yes, you are correct and I included it below for you to watch again, but it is still serious.  Equal access to online information is once again under serious threat by trying to come at it a different direction. So make sure you follow the instructions that he gave at the end of the video and voice your displeasure to the FCC by visiting <!-- raw HTML omitted --><a href=\"http://www.gofccyourself.com\">www.gofccyourself.com</a><!-- raw HTML omitted --> and clicking &ldquo;express&rdquo; to file your comment.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/92vuuZt7wak\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>  \n*via <a href=\"https://www.youtube.com/watch?v=92vuuZt7wak&amp;t=1s\">Net Neutrality II: Last Week Tonight with John Oliver (HBO) - YouTube</a>*  \n\nAnother great/ timely video on Last Week Tonight with John Oliver talking again about Net Neutrality. &nbsp;Wait, what? Didn't he already make one of these?  \n\nYes, you are correct and I included it below for you to watch again, but it is still serious. &nbsp;Equal access to online information is once again under serious threat by trying to come at it a different direction. So make sure you follow the instructions that he gave at the end of the video and voice your displeasure to the FCC by visiting <a href=\"http://gofccyourself.com\">www.gofccyourself.com</a> and clicking \"express\" to file your comment.  \n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/fpbOEoRrHyU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>  \n*via <a href=\"https://youtu.be/fpbOEoRrHyU\">Net Neutrality: Last Week Tonight with John Oliver (HBO) - YouTube</a>*\n",
 				"date_published": "2017-05-08T13:38:25-05:00",
 				"url": "https://ericmwalk.blog/2017/05/08/net-neutrality-really.html",
 				"tags": ["video"]
@@ -8771,8 +8625,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/05/03/wordless-wednesday.html",
 				"title": "Wordless Wednesday 05/03",
-				"content_html": "<p>[caption id=&ldquo;attachment_51121592&rdquo; align=&ldquo;alignnone&rdquo; width=&ldquo;2048&rdquo;]<!-- raw HTML omitted --> <!-- raw HTML omitted -->The only path to reach East Quoddy Light is at low tide so you can walk out there, but be careful (July 2004, Campobello Island, NB, CA)<!-- raw HTML omitted -->[/caption]</p>\n<p>One of my favorite Light Houses to visit mostly because the hike out to the Light House has to be timed just right and you don&rsquo;t want to get stuck on one of the islands along the way.  Not to mention you can find lots of animals during that low tide that would otherwise be under sometimes 22 ft of water.</p>\n<p>[gallery ids=&ldquo;51121591,51121590,51121589&rdquo; type=&ldquo;rectangular&rdquo;]</p>\n<p><!-- raw HTML omitted -->Danger!<!-- raw HTML omitted --></p>\n",
-				"content_text": "[caption id=\"attachment_51121592\" align=\"alignnone\" width=\"2048\"]<img class=\"alignnone size-full wp-image-51121592\" src=\"http://stillthinking.brebs.net/wp-content/uploads/2017/05/img_0907-1.jpg\" alt=\"img_0907-1\" width=\"2048\" height=\"1366\" /> <em>The only path to reach East Quoddy Light is at low tide so you can walk out there, but be careful (July 2004, Campobello Island, NB, CA)</em>[/caption]\n\nOne of my favorite Light Houses to visit mostly because the hike out to the Light House has to be timed just right and you don't want to get stuck on one of the islands along the way.  Not to mention you can find lots of animals during that low tide that would otherwise be under sometimes 22 ft of water.\n\n[gallery ids=\"51121591,51121590,51121589\" type=\"rectangular\"]\n\n<a href=\"https://dailypost.wordpress.com/photo-challenges/danger/\" target=\"_blank\" rel=\"noopener noreferrer\">Danger!</a>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>One of my favorite Light Houses to visit mostly because the hike out to the Light House has to be timed just right and you don&rsquo;t want to get stuck on one of the islands along the way.  Not to mention you can find lots of animals during that low tide that would otherwise be under sometimes 22 ft of water.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"https://ericmwalk.blog/uploads/2022/6c5388451b.jpg\" alt=\"108 0821\" title=\"108_0821.JPG\" border=\"0\" width=\"600\" height=\"450\" />  \n*The only path to reach East Quoddy Light is at low tide so you can walk out there, but be careful (July 2004, Campobello Island, NB, CA)*\n\nOne of my favorite Light Houses to visit mostly because the hike out to the Light House has to be timed just right and you don't want to get stuck on one of the islands along the way.  Not to mention you can find lots of animals during that low tide that would otherwise be under sometimes 22 ft of water.\n\n\n<img src=\"https://ericmwalk.blog/uploads/2022/9154fa491c.jpg\" alt=\"IMG 0908\" title=\"IMG_0908.JPG\" border=\"0\" width=\"600\" height=\"450\" />  \n*East Quoddy Light as the locals call it or Head Harbor Light Station as found on most maps (July 2004, Campobello Island, NB, CA)*\n\n\n<img src=\"https://ericmwalk.blog/uploads/2022/768d70d79c.jpg\" alt=\"FullSizeRender  1\" title=\"FullSizeRender (1).jpg\" border=\"0\" width=\"600\" height=\"600\" />  \n*Starfish the size of your hand with a good sized Sea Urchin (July 2004, East Quoddy Light, Campobello Island, NB, CA)*\n\n<img src=\"https://ericmwalk.blog/uploads/2022/14a2b2f5be.jpg\" alt=\"FullSizeRender\" title=\"FullSizeRender.jpg\" border=\"0\" width=\"600\" height=\"600\" />  \n\n<p>\n<a href=\"https://dailypost.wordpress.com/photo-challenges/danger/\" target=\"_blank\" rel=\"noopener noreferrer\">Danger!</a>\n",
 				"date_published": "2017-05-03T19:19:44-05:00",
 				"url": "https://ericmwalk.blog/2017/05/03/wordless-wednesday.html",
 				"tags": ["Travel","Photos","Wordless Wednesday"]
@@ -8794,26 +8648,10 @@
 				"url": "https://ericmwalk.blog/2017/04/24/monday-morning-trails.html"
 			},
 			{
-				"id": "http://ericmwalk.micro.blog/2017/04/23/115930.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/5cc0d0b4ad.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-04-23T12:59:30-05:00",
-				"url": "https://ericmwalk.blog/2017/04/23/115930.html"
-			},
-			{
-				"id": "http://ericmwalk.micro.blog/2017/04/23/115929.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/1c1b34bdcb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-04-23T12:59:29-05:00",
-				"url": "https://ericmwalk.blog/2017/04/23/115929.html"
-			},
-			{
 				"id": "http://ericmwalk.micro.blog/2017/04/23/115924.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/1af836acb1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Couldn&rsquo;t have been more proud yesterday watching B run his first 400m dash. He went out strong and finished 2nd. When he finished he told me he was going to die, and I told him that means you ran it right. 😀</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "Couldn't have been more proud yesterday watching B run his first 400m dash. He went out strong and finished 2nd. When he finished he told me he was going to die, and I told him that means you ran it right. 😀\n\n<img src=\"https://ericmwalk.blog/uploads/2022/1af836acb1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n<img src=\"https://ericmwalk.blog/uploads/2022/1c1b34bdcb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n<img src=\"https://ericmwalk.blog/uploads/2022/5cc0d0b4ad.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-04-23T12:59:24-05:00",
 				"url": "https://ericmwalk.blog/2017/04/23/115924.html"
 			},
@@ -8828,8 +8666,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/04/19/wordless-wednesday.html",
 				"title": "Wordless Wednesday 04/19",
-				"content_html": "<p>[caption id=&ldquo;attachment_51121586&rdquo; align=&ldquo;alignnone&rdquo; width=&ldquo;840&rdquo;]<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --> Kitchen Remodel Day 1 Demolition (April 2017)[/caption]</p>\n",
-				"content_text": "[caption id=\"attachment_51121586\" align=\"alignnone\" width=\"840\"]<a href=\"http://stillthinking.brebs.net/wp-content/uploads/2017/04/2017-04-19.jpg\"><img class=\"size-large wp-image-51121586\" src=\"http://stillthinking.brebs.net/wp-content/uploads/2017/04/2017-04-19.jpg?w=840\" alt=\"\" width=\"840\" height=\"630\" /></a> Kitchen Remodel Day 1 Demolition (April 2017)[/caption]\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"https://ericmwalk.blog/uploads/2022/85054baa51.jpg\" alt=\"2017 04 19\" title=\"2017-04-19.jpeg\" border=\"0\" width=\"600\" height=\"450\" />  \n*Kitchen Remodel Day 1 Demolition (April 2017)*\n",
 				"date_published": "2017-04-19T10:00:46-05:00",
 				"url": "https://ericmwalk.blog/2017/04/19/wordless-wednesday.html",
 				"tags": ["Photos","Wordless Wednesday"]
@@ -8863,24 +8701,24 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/04/11/swinging-boo-enjoying.html",
 				
-				"content_html": "<p>Swinging Boo ð» enjoying the great weather that came back.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Swinging Boo ð» enjoying the great weather that came back.\n\n<img src=\"https://ericmwalk.blog/uploads/2022/af4e0aea77.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Swinging Boo 👻 enjoying the great weather that came back.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Swinging Boo 👻 enjoying the great weather that came back.\n\n<img src=\"https://ericmwalk.blog/uploads/2022/af4e0aea77.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-04-11T19:24:16-05:00",
 				"url": "https://ericmwalk.blog/2017/04/11/swinging-boo-enjoying.html"
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2017/04/11/these-two-are.html",
 				
-				"content_html": "<p>These two are looking sharp in this picture ð #NationalPetDay</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "These two are looking sharp in this picture ð #NationalPetDay\n\n<img src=\"https://ericmwalk.blog/uploads/2022/fcdb25387f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>These two are looking sharp in this picture 😀    #NationalPetDay</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "These two are looking sharp in this picture 😀    #NationalPetDay\n\n<img src=\"https://ericmwalk.blog/uploads/2022/fcdb25387f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-04-11T18:46:34-05:00",
 				"url": "https://ericmwalk.blog/2017/04/11/these-two-are.html"
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2017/04/05/wordless-wednesday.html",
 				"title": "Wordless Wednesday 04/05",
-				"content_html": "<p>[caption width=&ldquo;1375&rdquo; id=&ldquo;attachment_51121565&rdquo; align=&ldquo;alignnone&rdquo;]<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --> Intriguing rock creations from long ago carved by the mighty Colorado River (June 2015, South Rim of the Grand Canyon, Arizona)[/caption]</p>\n",
-				"content_text": "[caption width=\"1375\" id=\"attachment_51121565\" align=\"alignnone\"]<a href=\"http://stillthinking.brebs.net/wp-content/uploads/2017/04/img_0413.png\"><img width=\"1375\" height=\"2048\" alt=\"\" src=\"http://stillthinking.brebs.net/wp-content/uploads/2017/04/img_0413.png\" title=\"\" class=\"size-full wp-image-51121565\"></a> Intriguing rock creations from long ago carved by the mighty Colorado River (June 2015, South Rim of the Grand Canyon, Arizona)[/caption]\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"https://ericmwalk.blog/uploads/2022/ee0a3417cc.jpg\" alt=\"IMG 0412\" title=\"IMG_0412.JPG\" border=\"0\" width=\"403\" height=\"600\" />  \n*Intriguing rock creations from long ago carved by the mighty Colorado River (June 2015, South Rim of the Grand Canyon, Arizona)*\n",
 				"date_published": "2017-04-05T22:42:33-05:00",
 				"url": "https://ericmwalk.blog/2017/04/05/wordless-wednesday.html",
 				"tags": ["Photos","Wordless Wednesday"]
@@ -8888,8 +8726,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/04/04/nothing-like-breaking.html",
 				
-				"content_html": "<p>Nothing like breaking in my new pair of @ASICSamerica shoes on a long run in warm foggy weather yesterday morning</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Nothing like breaking in my new pair of @ASICSamerica shoes on a long run in warm foggy weather yesterday morning\n\n<img src=\"https://ericmwalk.blog/uploads/2022/85a0a841b5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Nothing like breaking in my new pair of ASICS shoes on a long run in warm foggy weather yesterday morning</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Nothing like breaking in my new pair of ASICS shoes on a long run in warm foggy weather yesterday morning\n\n<img src=\"https://ericmwalk.blog/uploads/2022/85a0a841b5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-04-04T17:00:50-05:00",
 				"url": "https://ericmwalk.blog/2017/04/04/nothing-like-breaking.html"
 			},
@@ -8946,41 +8784,25 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/03/07/wordless-wednesday.html",
 				"title": "Wordless Wednesday 03/08",
-				"content_html": "<p>[caption id=&ldquo;attachment_51121477&rdquo; align=&ldquo;alignnone&rdquo; width=&ldquo;2329&rdquo;]<!-- raw HTML omitted --> <!-- raw HTML omitted -->Shadows taking a walk in the afternoon sun (March 2017, Eden Prairie, MN)<!-- raw HTML omitted -->[/caption]</p>\n",
-				"content_text": "[caption id=\"attachment_51121477\" align=\"alignnone\" width=\"2329\"]<img class=\"alignnone size-full wp-image-51121477\" src=\"http://stillthinking.brebs.net/wp-content/uploads/2017/03/img_0545.jpg\" alt=\"img_0545\" width=\"2329\" height=\"2329\" /> <em>Shadows taking a walk in the afternoon sun (March 2017, Eden Prairie, MN)</em>[/caption]\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"https://ericmwalk.blog/uploads/2022/77df92c6fa.jpg\" alt=\"IMG 0544\" title=\"IMG_0544.JPG\" border=\"0\" width=\"600\" height=\"600\" />  \n*Shadows taking a walk in the afternoon sun (March 2017, Eden Prairie, MN)*\n",
 				"date_published": "2017-03-07T22:53:27-05:00",
 				"url": "https://ericmwalk.blog/2017/03/07/wordless-wednesday.html",
 				"tags": ["Photos","Wordless Wednesday"]
 			},
 			{
-				"id": "http://ericmwalk.micro.blog/2017/03/07/213250.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/c254bc36d3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-03-07T22:32:50-05:00",
-				"url": "https://ericmwalk.blog/2017/03/07/213250.html"
-			},
-			{
 				"id": "http://ericmwalk.micro.blog/2017/03/07/213249.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/48a640bbd1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The whole family was excited to see the Timberwolves play last night until&hellip;. the game was canceled.. Wait, last time I checked weather shouldn&rsquo;t effect indoor basketball 🤔</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "The whole family was excited to see the Timberwolves play last night until.... the game was canceled.. Wait, last time I checked weather shouldn't effect indoor basketball 🤔\n\n<img src=\"https://ericmwalk.blog/uploads/2022/48a640bbd1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n<img src=\"https://ericmwalk.blog/uploads/2022/f38e4e79f3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n<img src=\"https://ericmwalk.blog/uploads/2022/c254bc36d3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n<img src=\"https://ericmwalk.blog/uploads/2022/9e7a1f65cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-03-07T22:32:49-05:00",
 				"url": "https://ericmwalk.blog/2017/03/07/213249.html"
 			},
 			{
-				"id": "http://ericmwalk.micro.blog/2017/03/07/213248.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://ericmwalk.blog/uploads/2022/f38e4e79f3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2017-03-07T22:32:48-05:00",
-				"url": "https://ericmwalk.blog/2017/03/07/213248.html"
-			},
-			{
 				"id": "http://ericmwalk.micro.blog/2017/03/01/wordless-wednesday.html",
 				"title": "Wordless Wednesday 03/01",
-				"content_html": "<p>[caption id=&ldquo;attachment_51121469&rdquo; align=&ldquo;alignnone&rdquo; width=&ldquo;2448&rdquo;]<!-- raw HTML omitted --> <!-- raw HTML omitted -->Fresh snow on my running <!-- raw HTML omitted -->trail..<!-- raw HTML omitted --> Did I ever mention I like running in the snow :) (Eden Prairie, MN, March 2017)<!-- raw HTML omitted -->[/caption]</p>\n",
-				"content_text": "[caption id=\"attachment_51121469\" align=\"alignnone\" width=\"2448\"]<img class=\"alignnone size-full wp-image-51121469\" src=\"http://stillthinking.brebs.net/wp-content/uploads/2017/03/img_0437.png\" alt=\"img_0437\" width=\"2448\" height=\"3264\" /> <em>Fresh snow on my running </em>trail..<em> Did I ever mention I like running in the snow :) (Eden Prairie, MN, March 2017)</em>[/caption]\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"https://ericmwalk.blog/uploads/2022/77ffb77c67.jpg\" alt=\"IMG 0430\" title=\"IMG_0430.JPG\" border=\"0\" width=\"450\" height=\"600\" />  \n*Fresh snow on my running trail.. Did I ever mention I like running in the snow :) (Eden Prairie, MN, March 2017)*\n",
 				"date_published": "2017-03-01T17:05:32-05:00",
 				"url": "https://ericmwalk.blog/2017/03/01/wordless-wednesday.html",
 				"tags": ["Running","Photos","Wordless Wednesday"]
@@ -9004,8 +8826,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/02/22/wordless-wednesday.html",
 				"title": "Wordless Wednesday 02/22",
-				"content_html": "<p>[caption id=&ldquo;attachment_51121462&rdquo; align=&ldquo;alignnone&rdquo; width=&ldquo;2448&rdquo;]<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --> Finally time to catch the sunrises on my early morning runs (February 2017, Eden Prairie, MN)[/caption]</p>\n",
-				"content_text": "[caption id=\"attachment_51121462\" align=\"alignnone\" width=\"2448\"]<a href=\"http://stillthinking.brebs.net/wp-content/uploads/2017/02/img_0328.png\"><img class=\"size-full wp-image-51121462\" title=\"\" src=\"http://stillthinking.brebs.net/wp-content/uploads/2017/02/img_0328.png\" alt=\"\" width=\"2448\" height=\"2448\" /></a> Finally time to catch the sunrises on my early morning runs (February 2017, Eden Prairie, MN)[/caption]\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"https://ericmwalk.blog/uploads/2022/f6962661ce.jpg\" alt=\"IMG 0327\" title=\"IMG_0327.JPG\" border=\"0\" width=\"600\" height=\"600\" />  \n*Finally time to catch the sunrises on my early morning runs (February 2017, Eden Prairie, MN)*\n",
 				"date_published": "2017-02-22T19:43:45-05:00",
 				"url": "https://ericmwalk.blog/2017/02/22/wordless-wednesday.html",
 				"tags": ["Running","Wordless Wednesday"]
@@ -9064,8 +8886,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/02/08/wordless-wednesday.html",
 				"title": "Wordless Wednesday 02/08",
-				"content_html": "<p>[caption id=&ldquo;attachment_51121385&rdquo; align=&ldquo;alignnone&rdquo; width=&ldquo;2448&rdquo;]<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --> Traveling again above the clouds (Flying from Minneapolis, MN to Cincinnati, OH, February 2017)[/caption]</p>\n",
-				"content_text": "[caption id=\"attachment_51121385\" align=\"alignnone\" width=\"2448\"]<a href=\"http://stillthinking.brebs.net/wp-content/uploads/2017/02/img_0165.jpg\"><img class=\"size-full wp-image-51121385\" title=\"\" src=\"http://stillthinking.brebs.net/wp-content/uploads/2017/02/img_0165.jpg\" alt=\"\" width=\"2448\" height=\"3264\" /></a> Traveling again above the clouds (Flying from Minneapolis, MN to Cincinnati, OH, February 2017)[/caption]\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"https://ericmwalk.blog/uploads/2022/5d07fe3e79.jpg\" alt=\"Img 0165\" title=\"img_0165.jpeg\" border=\"0\" width=\"450\" height=\"600\" />  \n*Traveling again above the clouds (Flying from Minneapolis, MN to Cincinnati, OH, February 2017)*\n",
 				"date_published": "2017-02-08T19:30:17-05:00",
 				"url": "https://ericmwalk.blog/2017/02/08/wordless-wednesday.html",
 				"tags": ["Travel","Wordless Wednesday"]
@@ -9089,8 +8911,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/02/01/wordless-wednesday.html",
 				"title": "Wordless Wednesday 02/01",
-				"content_html": "<p>[caption id=&ldquo;attachment_51121374&rdquo; align=&ldquo;alignnone&rdquo; width=&ldquo;840&rdquo;]<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --> Above the clouds (Flying from Buffalo, NY to Detroit, MI, January 2017)[/caption]</p>\n",
-				"content_text": "[caption id=\"attachment_51121374\" align=\"alignnone\" width=\"840\"]<a href=\"http://stillthinking.brebs.net/wp-content/uploads/2017/02/img_0091.png\"><img class=\"size-large wp-image-51121374\" src=\"http://stillthinking.brebs.net/wp-content/uploads/2017/02/img_0091.png?w=840\" alt=\"Above the clouds (Flying from Buffalo, NY to Detroit, MI,  January 2017)\" width=\"840\" height=\"840\" /></a> Above the clouds (Flying from Buffalo, NY to Detroit, MI, January 2017)[/caption]\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"https://ericmwalk.blog/uploads/2022/dacc8a5b25.jpg\" alt=\"IMG 0090\" title=\"IMG_0090.JPG\" border=\"0\" width=\"600\" height=\"600\" />  \n*Above the clouds (Flying from Buffalo, NY to Detroit, MI, January 2017)*\n",
 				"date_published": "2017-02-02T00:27:07-05:00",
 				"url": "https://ericmwalk.blog/2017/02/01/wordless-wednesday.html"
 			},
