@@ -7,10 +7,71 @@
 	"items": [
 		
 			{
+				"id": "http://ericmwalk.micro.blog/2022/09/10/glad-to-get.html",
+				
+				"content_html": "<p>Glad to get this one in the books and feeling as good as I could. On the other hand random <a href=\"http://www.strava.com/activities/7785493405\">running</a> routes lead to more hills than planned. At least this was done in the morning before the day got crazy!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Glad to get this one in the books and feeling as good as I could. On the other hand random [running](http://www.strava.com/activities/7785493405) routes lead to more hills than planned. At least this was done in the morning before the day got crazy!\n\n\n<img src=\"uploads/2022/91ed8fa525.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/77dd7331b3.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-09-10T17:01:26-05:00",
+				"url": "https://ericmwalk.blog/2022/09/10/glad-to-get.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2022/09/09/closing-the-door.html",
+				
+				"content_html": "<p>Closing the door on another chapter in my career. I will miss everyone I worked with over the past 3 years but I am also excited for what is next.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Closing the door on another chapter in my career. I will miss everyone I worked with over the past 3 years but I am also excited for what is next.\n\n<img src=\"uploads/2022/7cb7bb2a37.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-09-09T22:30:38-05:00",
+				"url": "https://ericmwalk.blog/2022/09/09/closing-the-door.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2022/09/08/had-to-get.html",
+				
+				"content_html": "<p>Had to get a late <a href=\"http://www.strava.com/activities/7777812496\">run</a> in tonight as I had a full day in the actual office today.  The moon has a yellow glow tonight and the picture doesn’t do it justice. It was still pretty warm out but nicer than yesterday with the sun out and no breeze.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Had to get a late [run](http://www.strava.com/activities/7777812496) in tonight as I had a full day in the actual office today.  The moon has a yellow glow tonight and the picture doesn’t do it justice. It was still pretty warm out but nicer than yesterday with the sun out and no breeze. \n\n<img src=\"uploads/2022/127fb0af9e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-09-08T23:21:12-05:00",
+				"url": "https://ericmwalk.blog/2022/09/08/had-to-get.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2022/09/07/another-brutal-day.html",
+				
+				"content_html": "<p>Another brutal day out there today but kept telling myself it was all about getting out there. My <a href=\"http://www.strava.com/activities/7770432067\">route</a> and no rhyme or reason but trying to find some shade. Looking forward to cooler temps this weekend.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2022/59d429a97a.jpg\" alt=\"\"></p>\n",
+				"content_text": "Another brutal day out there today but kept telling myself it was all about getting out there. My [route](http://www.strava.com/activities/7770432067) and no rhyme or reason but trying to find some shade. Looking forward to cooler temps this weekend.\n\n![](https://ericmwalk.blog/uploads/2022/59d429a97a.jpg)\n\n",
+				"date_published": "2022-09-07T22:15:00-05:00",
+				"url": "https://ericmwalk.blog/2022/09/07/another-brutal-day.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2022/09/06/i-see-my.html",
+				
+				"content_html": "<p>I see my friend the heat came back today to make me regret taking yesterday off.  At least this <a href=\"http://www.strava.com/activities/7765935565\">path</a> was somewhat shade covered.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I see my friend the heat came back today to make me regret taking yesterday off.  At least this [path](http://www.strava.com/activities/7765935565) was somewhat shade covered.\n\n<img src=\"uploads/2022/0c624475d3.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-09-06T23:02:43-05:00",
+				"url": "https://ericmwalk.blog/2022/09/06/i-see-my.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2022/09/06/it-is-that.html",
+				
+				"content_html": "<p>It is that time again for another year of school and wow how the kids have changed… 🚌</p>\n<p>Now that everyone is off to school there is a sad doodle again who is waiting for next summer 🐶</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "It is that time again for another year of school and wow how the kids have changed… 🚌\n\nNow that everyone is off to school there is a sad doodle again who is waiting for next summer 🐶\n\n\n<img src=\"https://ericmwalk.blog/uploads/2022/e035caa207.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericmwalk.blog/uploads/2022/377045591f.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericmwalk.blog/uploads/2022/1c72706361.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericmwalk.blog/uploads/2022/622cd565d8.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://ericmwalk.blog/uploads/2022/bf48b3a63b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-09-06T08:58:43-05:00",
+				"url": "https://ericmwalk.blog/2022/09/06/it-is-that.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2022/09/04/wasnt-even-sure.html",
+				
+				"content_html": "<p>Wasn’t even sure I was going to get this <a href=\"http://www.strava.com/activities/7756038904\">run</a> in but glad to get double digits to keep some momentum going forward. Really couldn’t have asked for better weather it was so nice out and hope this weather stays around for a while.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Wasn’t even sure I was going to get this [run](http://www.strava.com/activities/7756038904) in but glad to get double digits to keep some momentum going forward. Really couldn’t have asked for better weather it was so nice out and hope this weather stays around for a while.\n\n<img src=\"https://ericmwalk.blog/uploads/2022/a807a9410f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-09-04T22:34:40-05:00",
+				"url": "https://ericmwalk.blog/2022/09/04/wasnt-even-sure.html",
+				"tags": ["Running"]
+			},
+			{
 				"id": "http://ericmwalk.micro.blog/2022/09/04/perfect-way-to.html",
 				
 				"content_html": "<p>Perfect way to start a cool Sunday morning… Coffee, bacon and pancakes ☕️🥞🥓</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Perfect way to start a cool Sunday morning… Coffee, bacon and pancakes ☕️🥞🥓\n\n\n<img src=\"uploads/2022/83b5472d17.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Perfect way to start a cool Sunday morning… Coffee, bacon and pancakes ☕️🥞🥓\n\n\n<img src=\"https://ericmwalk.blog/uploads/2022/83b5472d17.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-09-04T10:19:08-05:00",
 				"url": "https://ericmwalk.blog/2022/09/04/perfect-way-to.html"
 			},
@@ -18,7 +79,7 @@
 				"id": "http://ericmwalk.micro.blog/2022/09/02/finally-cooled-off.html",
 				
 				"content_html": "<p>Finally cooled off tonight so we are sitting by the fire and watching some heat lightening.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Finally cooled off tonight so we are sitting by the fire and watching some heat lightening.\n\n\n<img src=\"uploads/2022/06bc8a0e95.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/defa6fe226.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Finally cooled off tonight so we are sitting by the fire and watching some heat lightening.\n\n\n<img src=\"https://ericmwalk.blog/uploads/2022/06bc8a0e95.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://ericmwalk.blog/uploads/2022/defa6fe226.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-09-02T22:31:51-05:00",
 				"url": "https://ericmwalk.blog/2022/09/02/finally-cooled-off.html"
 			},
@@ -26,7 +87,7 @@
 				"id": "http://ericmwalk.micro.blog/2022/09/02/did-i-mention.html",
 				
 				"content_html": "<p>Did I mention I like finding <a href=\"http://www.strava.com/activities/7741831776\">trails</a>? 😉 Had to get this one done early today as going to watch my son run his Cross Country meet was next. Felt good after a day of rest but it was still so humid out.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Did I mention I like finding [trails](http://www.strava.com/activities/7741831776)? 😉 Had to get this one done early today as going to watch my son run his Cross Country meet was next. Felt good after a day of rest but it was still so humid out. \n\n<img src=\"uploads/2022/93265e59c6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Did I mention I like finding [trails](http://www.strava.com/activities/7741831776)? 😉 Had to get this one done early today as going to watch my son run his Cross Country meet was next. Felt good after a day of rest but it was still so humid out. \n\n<img src=\"https://ericmwalk.blog/uploads/2022/93265e59c6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-09-02T16:53:13-05:00",
 				"url": "https://ericmwalk.blog/2022/09/02/did-i-mention.html",
 				"tags": ["Running"]
@@ -35,7 +96,7 @@
 				"id": "http://ericmwalk.micro.blog/2022/09/01/well-the-design.html",
 				
 				"content_html": "<p>Well the design crew <a href=\"https://micro.blog/hemisphericviews\">@hemisphericviews</a>   have out done themselves for the 2022 Arcadia June awards.🏆</p>\n<!-- raw HTML omitted -->\n<p>Such a fun event again this year and I had fun participating. Now that another is added to the collection I need to find a great spot for both of them in my office.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Well the design crew [@hemisphericviews](https://micro.blog/hemisphericviews)   have out done themselves for the 2022 Arcadia June awards.🏆\n\n<img src=\"uploads/2022/05017eee77.jpg\" />\n\nSuch a fun event again this year and I had fun participating. Now that another is added to the collection I need to find a great spot for both of them in my office.\n\n<img src=\"uploads/2022/47171c1976.jpg\" />\n\n",
+				"content_text": "Well the design crew [@hemisphericviews](https://micro.blog/hemisphericviews)   have out done themselves for the 2022 Arcadia June awards.🏆\n\n<img src=\"https://ericmwalk.blog/uploads/2022/05017eee77.jpg\" />\n\nSuch a fun event again this year and I had fun participating. Now that another is added to the collection I need to find a great spot for both of them in my office.\n\n<img src=\"https://ericmwalk.blog/uploads/2022/47171c1976.jpg\" />\n\n",
 				"date_published": "2022-09-01T22:44:45-05:00",
 				"url": "https://ericmwalk.blog/2022/09/01/well-the-design.html"
 			},
@@ -43,7 +104,7 @@
 				"id": "http://ericmwalk.micro.blog/2022/09/01/me-time-it.html",
 				
 				"content_html": "<p>🎬 <a href=\"https://m.imdb.com/title/tt14309446/\">Me Time</a> - It had some really funny moments in the movie but glad the kids were not watching this one. Maybe in a couple more years for the younger ones but not yet.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🎬 [Me Time](https://m.imdb.com/title/tt14309446/) - It had some really funny moments in the movie but glad the kids were not watching this one. Maybe in a couple more years for the younger ones but not yet.\n\n\n<img src=\"uploads/2022/5c62531798.jpg\" width=\"399\" height=\"600\" alt=\"\" />\n",
+				"content_text": "🎬 [Me Time](https://m.imdb.com/title/tt14309446/) - It had some really funny moments in the movie but glad the kids were not watching this one. Maybe in a couple more years for the younger ones but not yet.\n\n\n<img src=\"https://ericmwalk.blog/uploads/2022/5c62531798.jpg\" width=\"399\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-09-01T22:27:48-05:00",
 				"url": "https://ericmwalk.blog/2022/09/01/me-time-it.html"
 			},
