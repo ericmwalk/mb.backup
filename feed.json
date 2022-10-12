@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://ericmwalk.micro.blog/2022/10/07/still-loving-these.html",
+				
+				"content_html": "<p>Still loving these fall <a href=\"http://www.strava.com/activities/7926614176\">runs</a> and colors 🍂. Decided to take to the trails today.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Still loving these fall [runs](http://www.strava.com/activities/7926614176) and colors 🍂. Decided to take to the trails today.\n\n\n<img src=\"uploads/2022/e318762c61.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2022-10-07T19:26:50-05:00",
+				"url": "https://ericmwalk.blog/2022/10/07/still-loving-these.html",
+				"tags": ["Running"]
+			},
+			{
 				"id": "http://ericmwalk.micro.blog/2022/10/06/these-fall-days.html",
 				
 				"content_html": "<p>These Fall days&hellip; I just wish this picture turned out like how I actually saw it with all the colors. However, this is what gets me out <a href=\"http://www.strava.com/activities/7921172704\">there</a>.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2022/63bc4fd700.jpg\" alt=\"\"></p>\n",
