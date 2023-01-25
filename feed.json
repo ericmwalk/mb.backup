@@ -7,10 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://ericmwalk.micro.blog/2023/01/25/as-i-am.html",
+				
+				"content_html": "<p>As I am looking around the house for my AirPod Pro&rsquo;s before jumping on a meeting, I can&rsquo;t help but wonder why they don&rsquo;t have the same technology as the AirTags&hellip; Am I missing something here 🤷‍♂️</p>\n",
+				"content_text": "As I am looking around the house for my AirPod Pro's before jumping on a meeting, I can't help but wonder why they don't have the same technology as the AirTags... Am I missing something here 🤷‍♂️\n",
+				"date_published": "2023-01-25T08:25:17-06:00",
+				"url": "https://ericmwalk.blog/2023/01/25/as-i-am.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2023/01/22/thanks-to-modern.html",
+				
+				"content_html": "<p>Thanks to modern technology I was able to sit at home and watch my daughter score for the first time this year… 🏒🎉</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/48d1b827fd.jpg\" alt=\"\"></p>\n",
+				"content_text": "Thanks to modern technology I was able to sit at home and watch my daughter score for the first time this year… 🏒🎉\n\n![](https://ericmwalk.blog/uploads/2023/48d1b827fd.jpg)\n",
+				"date_published": "2023-01-22T20:51:03-06:00",
+				"url": "https://ericmwalk.blog/2023/01/22/thanks-to-modern.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2023/01/22/hello-darkness-my.html",
+				
+				"content_html": "<p>Hello darkness, my old friend… I guess it has been a <a href=\"https://ericmwalk.blog/2022/01/18/well-that-escalated.html\">year</a> since we last met but this is not exactly what I had planned for the day 😔</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Hello darkness, my old friend… I guess it has been a [year](https://ericmwalk.blog/2022/01/18/well-that-escalated.html) since we last met but this is not exactly what I had planned for the day 😔\n\n\n<img src=\"uploads/2023/fbf08a7c1a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-01-22T15:14:18-06:00",
+				"url": "https://ericmwalk.blog/2023/01/22/hello-darkness-my.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2023/01/21/i-see-your.html",
+				
+				"content_html": "<p>I see your sign and I will take it under advertisement… 😁</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/73500ac87a.jpg\" alt=\"\"></p>\n<p>My view to record the game from the track😁\n<img src=\"https://ericmwalk.blog/uploads/2023/612058216d.jpg\" alt=\"\"></p>\n",
+				"content_text": "I see your sign and I will take it under advertisement… 😁\n\n![](https://ericmwalk.blog/uploads/2023/73500ac87a.jpg)\n\nMy view to record the game from the track😁\n![](https://ericmwalk.blog/uploads/2023/612058216d.jpg)\n",
+				"date_published": "2023-01-21T18:35:06-06:00",
+				"url": "https://ericmwalk.blog/2023/01/21/i-see-your.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2023/01/20/might-have-felt.html",
+				
+				"content_html": "<p>Might have felt a little more sore <a href=\"http://www.strava.com/activities/8423259390\">running</a> today than I thought after <a href=\"https://ericmwalk.blog/2023/01/19/i-do-like.html\">yesterday’s</a> spill. However, I stumbled upon this fun pond hockey rink.. Well done 👏🏒</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Might have felt a little more sore [running](http://www.strava.com/activities/8423259390) today than I thought after [yesterday’s](https://ericmwalk.blog/2023/01/19/i-do-like.html) spill. However, I stumbled upon this fun pond hockey rink.. Well done 👏🏒\n\n<img src=\"uploads/2023/44d30c9fff.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2023-01-20T23:42:57-06:00",
+				"url": "https://ericmwalk.blog/2023/01/20/might-have-felt.html",
+				"tags": ["Running"]
+			},
+			{
 				"id": "http://ericmwalk.micro.blog/2023/01/19/tired-pup.html",
 				
 				"content_html": "<p>Tired Pup… 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tired Pup… 🐶\n\n\n<img src=\"uploads/2023/a060a703a2.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Tired Pup… 🐶\n\n\n<img src=\"https://ericmwalk.blog/uploads/2023/a060a703a2.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-19T20:05:14-06:00",
 				"url": "https://ericmwalk.blog/2023/01/19/tired-pup.html",
 				"tags": ["Dogs"]
@@ -19,7 +60,7 @@
 				"id": "http://ericmwalk.micro.blog/2023/01/19/i-do-like.html",
 				
 				"content_html": "<p>I do like <a href=\"http://www.strava.com/activities/8418348264\">running</a> in a light snow fall and seeing the snow stick to that trees. However, that was quickly changed in my mind when I was reminded the hard way of the ice under this snow I couldn’t see 🤦‍♂️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I do like [running](http://www.strava.com/activities/8418348264) in a light snow fall and seeing the snow stick to that trees. However, that was quickly changed in my mind when I was reminded the hard way of the ice under this snow I couldn’t see 🤦‍♂️\n\n\n<img src=\"uploads/2023/565e6970f6.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "I do like [running](http://www.strava.com/activities/8418348264) in a light snow fall and seeing the snow stick to that trees. However, that was quickly changed in my mind when I was reminded the hard way of the ice under this snow I couldn’t see 🤦‍♂️\n\n\n<img src=\"https://ericmwalk.blog/uploads/2023/565e6970f6.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2023-01-19T18:53:04-06:00",
 				"url": "https://ericmwalk.blog/2023/01/19/i-do-like.html"
 			},
@@ -35,7 +76,7 @@
 				"id": "http://ericmwalk.micro.blog/2023/01/18/the-temperature-is.html",
 				
 				"content_html": "<p>The temperature is at that fun point of slush in some areas and very slick in others. Ended up with just wet socks and shoes while what felt like skating my <a href=\"http://www.strava.com/activities/8415576027\">miles</a> tonight.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The temperature is at that fun point of slush in some areas and very slick in others. Ended up with just wet socks and shoes while what felt like skating my [miles](http://www.strava.com/activities/8415576027) tonight. \n\n\n<img src=\"uploads/2023/508fc7aab7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "The temperature is at that fun point of slush in some areas and very slick in others. Ended up with just wet socks and shoes while what felt like skating my [miles](http://www.strava.com/activities/8415576027) tonight. \n\n\n<img src=\"https://ericmwalk.blog/uploads/2023/508fc7aab7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-18T23:03:36-06:00",
 				"url": "https://ericmwalk.blog/2023/01/18/the-temperature-is.html",
 				"tags": ["Running"]
