@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://ericmwalk.micro.blog/2023/02/07/it-is-good.html",
+				
+				"content_html": "<p>It is good to be working out in the shed office again today with my now two companions. 🐶</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/37e434e7a0.jpg\" alt=\"\"></p>\n",
+				"content_text": "It is good to be working out in the shed office again today with my now two companions. 🐶\n\n![](https://ericmwalk.blog/uploads/2023/37e434e7a0.jpg)\n",
+				"date_published": "2023-02-07T10:15:43-06:00",
+				"url": "https://ericmwalk.blog/2023/02/07/it-is-good.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2023/02/06/with-the-warmer.html",
+				
+				"content_html": "<p>With the warmer weather yesterday I had to try to keep to the streets as much as possible as sidewalks were sheets of uneven ice. Longest <a href=\"http://www.strava.com/activities/8515918833\">run</a> of the year which seems like a shock to say as it is already February.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "With the warmer weather yesterday I had to try to keep to the streets as much as possible as sidewalks were sheets of uneven ice. Longest [run](http://www.strava.com/activities/8515918833) of the year which seems like a shock to say as it is already February.\n\n\n<img src=\"uploads/2023/5c829d9744.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-02-06T12:56:55-06:00",
+				"url": "https://ericmwalk.blog/2023/02/06/with-the-warmer.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2023/02/05/family-movie-puss.html",
+				
+				"content_html": "<p>🎬 Family Movie: <a href=\"https://m.imdb.com/title/tt3915174/\">Puss in Boots: The last wish</a> - After a busy day we made homemade pizza and watched a movie. This was entertaining enough to keep everyone together 😁</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🎬 Family Movie: [Puss in Boots: The last wish](https://m.imdb.com/title/tt3915174/) - After a busy day we made homemade pizza and watched a movie. This was entertaining enough to keep everyone together 😁\n\n\n<img src=\"uploads/2023/ae08415d0a.jpg\" width=\"395\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-05T20:46:08-06:00",
+				"url": "https://ericmwalk.blog/2023/02/05/family-movie-puss.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2023/02/04/family-movie-night.html",
+				
+				"content_html": "<p>🎬 Family Movie Night… <a href=\"https://m.imdb.com/title/tt14668630/\">Lyle, Lyle, Crocodile</a> - Overall funny family musical.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🎬 Family Movie Night… [Lyle, Lyle, Crocodile](https://m.imdb.com/title/tt14668630/) - Overall funny family musical.\n\n\n<img src=\"uploads/2023/55c0b1e4e7.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-04T23:01:03-06:00",
+				"url": "https://ericmwalk.blog/2023/02/04/family-movie-night.html"
+			},
+			{
 				"id": "http://ericmwalk.micro.blog/2023/02/04/it-has-been.html",
 				
 				"content_html": "<p>It has been a long time since I have stepped into a gym. My intention was to just use the weights but out of habit I jumped on the treadmill and put in some miles. I eventually realized but then I had to hit a number of miles that made sense before I stopped 🫣</p>\n",
@@ -18,7 +51,7 @@
 				"id": "http://ericmwalk.micro.blog/2023/02/03/had-a-little.html",
 				
 				"content_html": "<p>Had a little game night tonight… I did well in <a href=\"https://www.explodingkittens.com/products/happy-salmon\">Happy Salmon</a> and Mancala. However, I didn’t do so well again against the oldest in Chess later in the evening 🤦‍♂️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Had a little game night tonight… I did well in [Happy Salmon](https://www.explodingkittens.com/products/happy-salmon) and Mancala. However, I didn’t do so well again against the oldest in Chess later in the evening 🤦‍♂️\n\n\n<img src=\"uploads/2023/b68dec4c9a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Had a little game night tonight… I did well in [Happy Salmon](https://www.explodingkittens.com/products/happy-salmon) and Mancala. However, I didn’t do so well again against the oldest in Chess later in the evening 🤦‍♂️\n\n\n<img src=\"https://ericmwalk.blog/uploads/2023/b68dec4c9a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-02-03T23:27:04-06:00",
 				"url": "https://ericmwalk.blog/2023/02/03/had-a-little.html"
 			},
@@ -26,7 +59,7 @@
 				"id": "http://ericmwalk.micro.blog/2023/02/03/where-else-would.html",
 				
 				"content_html": "<p>Where else would I want to be on a Friday night… Go Eagles 🦅🏒</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Where else would I want to be on a Friday night… Go Eagles 🦅🏒\n\n\n<img src=\"uploads/2023/24320b7d74.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Where else would I want to be on a Friday night… Go Eagles 🦅🏒\n\n\n<img src=\"https://ericmwalk.blog/uploads/2023/24320b7d74.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-02-03T17:35:37-06:00",
 				"url": "https://ericmwalk.blog/2023/02/03/where-else-would.html"
 			},
@@ -34,7 +67,7 @@
 				"id": "http://ericmwalk.micro.blog/2023/02/03/looks-like-it.html",
 				
 				"content_html": "<p>Looks like it is going to be a great day outside today 🥶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Looks like it is going to be a great day outside today 🥶\n\n\n<img src=\"uploads/2023/83584d90ea.jpg\" width=\"432\" height=\"600\" alt=\"\">\n",
+				"content_text": "Looks like it is going to be a great day outside today 🥶\n\n\n<img src=\"https://ericmwalk.blog/uploads/2023/83584d90ea.jpg\" width=\"432\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-03T08:13:03-06:00",
 				"url": "https://ericmwalk.blog/2023/02/03/looks-like-it.html"
 			},
@@ -42,7 +75,7 @@
 				"id": "http://ericmwalk.micro.blog/2023/02/02/maybe-i-shouldnt.html",
 				
 				"content_html": "<p>Maybe I shouldn’t have tried to do two days in a row as I was feeling this <a href=\"http://www.strava.com/activities/8493746192\">run</a> in my legs today. However, the sun was out again and I had some time to kill so I figured it would be good to get out again.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Maybe I shouldn’t have tried to do two days in a row as I was feeling this [run](http://www.strava.com/activities/8493746192) in my legs today. However, the sun was out again and I had some time to kill so I figured it would be good to get out again.\n\n\n<img src=\"uploads/2023/a605e50588.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "Maybe I shouldn’t have tried to do two days in a row as I was feeling this [run](http://www.strava.com/activities/8493746192) in my legs today. However, the sun was out again and I had some time to kill so I figured it would be good to get out again.\n\n\n<img src=\"https://ericmwalk.blog/uploads/2023/a605e50588.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2023-02-02T20:39:36-06:00",
 				"url": "https://ericmwalk.blog/2023/02/02/maybe-i-shouldnt.html",
 				"tags": ["Running"]
@@ -225,7 +258,7 @@
 				"id": "http://ericmwalk.micro.blog/2023/01/16/well-what-was.html",
 				
 				"content_html": "<p>Well what was rain today turned into a snow <a href=\"http://www.strava.com/activities/8404456179\">run</a> tonight with no lights. Sidewalks started to get a little slick but not to bad and I was able to look up and capture this. 🌨️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Well what was rain today turned into a snow [run](http://www.strava.com/activities/8404456179) tonight with no lights. Sidewalks started to get a little slick but not to bad and I was able to look up and capture this. 🌨️\n\n\n\n<img src=\"uploads/2023/fd7db19ae5.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Well what was rain today turned into a snow [run](http://www.strava.com/activities/8404456179) tonight with no lights. Sidewalks started to get a little slick but not to bad and I was able to look up and capture this. 🌨️\n\n\n\n<img src=\"https://ericmwalk.blog/uploads/2023/fd7db19ae5.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-16T21:35:23-06:00",
 				"url": "https://ericmwalk.blog/2023/01/16/well-what-was.html",
 				"tags": ["Running"]
@@ -325,6 +358,14 @@
 				"date_published": "2023-01-07T22:12:35-06:00",
 				"url": "https://ericmwalk.blog/2023/01/07/junk-miles-today.html",
 				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2023/01/07/family-movie-matilda.html",
+				
+				"content_html": "<p>🎬 Family Movie: <a href=\"https://www.imdb.com/title/tt3447590/\">Matilda the Musical</a> -</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🎬 Family Movie: [Matilda the Musical](https://www.imdb.com/title/tt3447590/) - \n\n<img src=\"uploads/2023/2c50da2800.jpg\" width=\"600\" height=\"900\" alt=\"\" />\n\n",
+				"date_published": "2023-01-07T20:21:00-06:00",
+				"url": "https://ericmwalk.blog/2023/01/07/family-movie-matilda.html"
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2023/01/06/for-what-started.html",
