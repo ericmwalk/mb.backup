@@ -7,6 +7,48 @@
 	"items": [
 		
 			{
+				"id": "http://ericmwalk.micro.blog/2023/02/25/this-was-an.html",
+				
+				"content_html": "<p>This was an overly filing lunch of Sweet Asian Zing Chicken and Waffles from <a href=\"https://workshopfoodhall.com\">Birdies at the Workshop Food Hall</a>.. However so good 😋</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This was an overly filing lunch of Sweet Asian Zing Chicken and Waffles from [Birdies at the Workshop Food Hall](https://workshopfoodhall.com).. However so good 😋\n\n<img src=\"uploads/2023/a75e3c6fb9.jpg\" />\n",
+				"date_published": "2023-02-25T22:55:39-06:00",
+				"url": "https://ericmwalk.blog/2023/02/25/this-was-an.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2023/02/24/found-some-plowed.html",
+				
+				"content_html": "<p>Found some plowed sidewalks and some not so plowed like this one today on my <a href=\"http://www.strava.com/activities/8616212139\">run</a>. Since I was pressed for time today it just added to the work out trudging through this deep snow. 🏃‍♂️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Found some plowed sidewalks and some not so plowed like this one today on my [run](http://www.strava.com/activities/8616212139). Since I was pressed for time today it just added to the work out trudging through this deep snow. 🏃‍♂️\r\n\n\n<img src=\"uploads/2023/6de066e1a4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-02-24T22:24:41-06:00",
+				"url": "https://ericmwalk.blog/2023/02/24/found-some-plowed.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2023/02/23/still-tinkering-with.html",
+				
+				"content_html": "<p>Still tinkering with Obsidian and I got to thinking of searching for a plugin that can post to Micro.blog directy and well&hellip; Here is a <a href=\"https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/microblog-publish-plugin\">plugin</a> that does that. Even though this is my first post from it lets see how it handles a picture link as well.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/b5c0999649.jpg\" alt=\"\">\n<em>Do I hike to the shed or not? 🤷‍♂️</em></p>\n",
+				"content_text": "Still tinkering with Obsidian and I got to thinking of searching for a plugin that can post to Micro.blog directy and well... Here is a [plugin](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/microblog-publish-plugin) that does that. Even though this is my first post from it lets see how it handles a picture link as well.\n\n![](https://ericmwalk.blog/uploads/2023/b5c0999649.jpg)\n*Do I hike to the shed or not? 🤷‍♂️*\n",
+				"date_published": "2023-02-23T08:44:03-06:00",
+				"url": "https://ericmwalk.blog/2023/02/23/still-tinkering-with.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2023/02/22/the-snow-might.html",
+				
+				"content_html": "<p>The snow might not be as bad as people thought but <a href=\"http://www.strava.com/activities/8607370877\">running</a> through it was a fun little challenge tonight. Also, probably shouldn’t have done it 20 min after eating dinner 🤷🏻‍♂️ 🌨️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The snow might not be as bad as people thought but [running](http://www.strava.com/activities/8607370877) through it was a fun little challenge tonight. Also, probably shouldn’t have done it 20 min after eating dinner 🤷🏻‍♂️ 🌨️\n\n\n<img src=\"uploads/2023/a1896b5762.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-02-22T22:49:29-06:00",
+				"url": "https://ericmwalk.blog/2023/02/22/the-snow-might.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2023/02/21/well-this-is.html",
+				
+				"content_html": "<p>Well this is going to get interesting real quick… For context our surrounding schools have already moved to eLearning for the next two days 😳😱😑</p>\n<!-- raw HTML omitted -->\n<p><em>Currently not snowing</em></p>\n",
+				"content_text": "Well this is going to get interesting real quick… For context our surrounding schools have already moved to eLearning for the next two days 😳😱😑\n\n<img src=\"uploads/2023/70d06d1e4b.jpg\" width=\"553\" height=\"600\" alt=\"\">\n\n*Currently not snowing*\n",
+				"date_published": "2023-02-21T14:10:29-06:00",
+				"url": "https://ericmwalk.blog/2023/02/21/well-this-is.html"
+			},
+			{
 				"id": "http://ericmwalk.micro.blog/2023/02/20/watching-the-kids.html",
 				
 				"content_html": "<p>Watching the kids bake cookies while one was blindfolded, one was deaf (noise canceling headphones in with music cranked) and one couldn’t talk was slightly entertaining. They completed the task but I think the team building skills need improved.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/e91dcbf2fe.jpg\" alt=\"\"></p>\n",
@@ -26,7 +68,7 @@
 				"id": "http://ericmwalk.micro.blog/2023/02/19/family-movie-dog.html",
 				
 				"content_html": "<p>🎬Family Movie: <a href=\"https://m.imdb.com/title/tt15334430/\">Dog Gone</a> - Really good family movie about well.. a dog!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🎬Family Movie: [Dog Gone](https://m.imdb.com/title/tt15334430/) - Really good family movie about well.. a dog! \n\n\n\n<img src=\"uploads/2023/4a627904d8.jpg\" width=\"405\" height=\"600\" alt=\"\">\n",
+				"content_text": "🎬Family Movie: [Dog Gone](https://m.imdb.com/title/tt15334430/) - Really good family movie about well.. a dog! \n\n\n\n<img src=\"https://ericmwalk.blog/uploads/2023/4a627904d8.jpg\" width=\"405\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-19T22:39:07-06:00",
 				"url": "https://ericmwalk.blog/2023/02/19/family-movie-dog.html"
 			},
@@ -34,7 +76,7 @@
 				"id": "http://ericmwalk.micro.blog/2023/02/19/so-fun-that.html",
 				
 				"content_html": "<p>So fun that a lot of extended family were in town this past weekend and we could meet up together. Not to mention watch our now kids play hockey a lot of hockey (25 games out of the family)! 🏒</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "So fun that a lot of extended family were in town this past weekend and we could meet up together. Not to mention watch our now kids play hockey a lot of hockey (25 games out of the family)! 🏒\n\n\n<img src=\"uploads/2023/2f3e294c94.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "So fun that a lot of extended family were in town this past weekend and we could meet up together. Not to mention watch our now kids play hockey a lot of hockey (25 games out of the family)! 🏒\n\n\n<img src=\"https://ericmwalk.blog/uploads/2023/2f3e294c94.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-02-19T21:54:16-06:00",
 				"url": "https://ericmwalk.blog/2023/02/19/so-fun-that.html"
 			},
@@ -42,7 +84,7 @@
 				"id": "http://ericmwalk.micro.blog/2023/02/19/busy-middle-of.html",
 				
 				"content_html": "<p>Busy middle of the day today with hockey so I had to force myself to get up early today or this <a href=\"http://www.strava.com/activities/8587577942\">run</a> would most likely have never happened. Weather was good and I was feeling good but still worried about icy patches out there.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Busy middle of the day today with hockey so I had to force myself to get up early today or this [run](http://www.strava.com/activities/8587577942) would most likely have never happened. Weather was good and I was feeling good but still worried about icy patches out there.\n\n\n\n<img src=\"uploads/2023/4a857839e0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Busy middle of the day today with hockey so I had to force myself to get up early today or this [run](http://www.strava.com/activities/8587577942) would most likely have never happened. Weather was good and I was feeling good but still worried about icy patches out there.\n\n\n\n<img src=\"https://ericmwalk.blog/uploads/2023/4a857839e0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-02-19T11:56:27-06:00",
 				"url": "https://ericmwalk.blog/2023/02/19/busy-middle-of.html",
 				"tags": ["Running"]
@@ -375,7 +417,7 @@
 				"id": "http://ericmwalk.micro.blog/2023/01/17/sometimes-when-running.html",
 				
 				"content_html": "<p>Sometimes when <a href=\"http://www.strava.com/activities/8409977714\">running</a>, I find myself purposely or unintentionally at a dead end or cul-de-sac, I am interested to see the signs they put up. This is from a cul-de-sac and I am not sure why someone would think they could drive or dump here with all the houses around 🤷🏻‍♂️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sometimes when [running](http://www.strava.com/activities/8409977714), I find myself purposely or unintentionally at a dead end or cul-de-sac, I am interested to see the signs they put up. This is from a cul-de-sac and I am not sure why someone would think they could drive or dump here with all the houses around 🤷🏻‍♂️\n\n\n<img src=\"uploads/2023/adb588116e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Sometimes when [running](http://www.strava.com/activities/8409977714), I find myself purposely or unintentionally at a dead end or cul-de-sac, I am interested to see the signs they put up. This is from a cul-de-sac and I am not sure why someone would think they could drive or dump here with all the houses around 🤷🏻‍♂️\n\n\n<img src=\"https://ericmwalk.blog/uploads/2023/adb588116e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-17T23:31:02-06:00",
 				"url": "https://ericmwalk.blog/2023/01/17/sometimes-when-running.html",
 				"tags": ["Running"]
@@ -505,7 +547,7 @@
 				"id": "http://ericmwalk.micro.blog/2023/01/07/family-movie-matilda.html",
 				
 				"content_html": "<p>🎬 Family Movie: <a href=\"https://www.imdb.com/title/tt3447590/\">Matilda the Musical</a> -</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🎬 Family Movie: [Matilda the Musical](https://www.imdb.com/title/tt3447590/) - \n\n<img src=\"uploads/2023/2c50da2800.jpg\" width=\"600\" height=\"900\" alt=\"\" />\n\n",
+				"content_text": "🎬 Family Movie: [Matilda the Musical](https://www.imdb.com/title/tt3447590/) - \n\n<img src=\"https://ericmwalk.blog/uploads/2023/2c50da2800.jpg\" width=\"600\" height=\"900\" alt=\"\" />\n\n",
 				"date_published": "2023-01-07T20:21:00-06:00",
 				"url": "https://ericmwalk.blog/2023/01/07/family-movie-matilda.html"
 			},
@@ -2424,8 +2466,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2022/08/14/a-tail-of.html",
 				
-				"content_html": "<p>A tail of two rivers over the Minnesota River Valley and old brewery remains that ended in the dark. Glad to get this <a href=\"http://www.strava.com/activities/7639836720\">run</a> done with out feeling too horrible  as normally this one millage is bad luck.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "A tail of two rivers over the Minnesota River Valley and old brewery remains that ended in the dark. Glad to get this [run](http://www.strava.com/activities/7639836720) done with out feeling too horrible  as normally this one millage is bad luck.\n\n\n<img src=\"https://ericmwalk.blog/uploads/2022/300e8e8a99.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n\n<img src=\"https://ericmwalk.blog/uploads/2022/f245c4e8ab.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"content_html": "<p>A tail of two bridges over the Minnesota River Valley and old brewery remains that ended in the dark. Glad to get this <a href=\"http://www.strava.com/activities/7639836720\">run</a> done with out feeling too horrible  as normally this one millage is bad luck.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "A tail of two bridges over the Minnesota River Valley and old brewery remains that ended in the dark. Glad to get this [run](http://www.strava.com/activities/7639836720) done with out feeling too horrible  as normally this one millage is bad luck.\n\n\n<img src=\"uploads/2022/300e8e8a99.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n\n<img src=\"uploads/2022/f245c4e8ab.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
 				"date_published": "2022-08-14T22:49:22-06:00",
 				"url": "https://ericmwalk.blog/2022/08/14/a-tail-of.html",
 				"tags": ["Running"]
@@ -5734,7 +5776,7 @@
 				"id": "http://ericmwalk.micro.blog/2021/11/07/weekend-shed-trenching.html",
 				
 				"content_html": "<p>Weekend shed trenching project was a success but I underestimated the amount the workers left for me today 🤦‍♂️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Weekend shed trenching project was a success but I underestimated the amount the workers left for me today 🤦‍♂️\n\n\n<img src=\"uploads/2023/e144292a54.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Weekend shed trenching project was a success but I underestimated the amount the workers left for me today 🤦‍♂️\n\n\n<img src=\"https://ericmwalk.blog/uploads/2023/e144292a54.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-11-07T20:52:52-06:00",
 				"url": "https://ericmwalk.blog/2021/11/07/weekend-shed-trenching.html",
 				"tags": ["Project Shed"]
