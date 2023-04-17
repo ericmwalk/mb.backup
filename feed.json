@@ -7,10 +7,77 @@
 	"items": [
 		
 			{
+				"id": "http://ericmwalk.micro.blog/2023/04/16/happy-birthday-to.html",
+				
+				"content_html": "<p>Happy Birthday to my amazing wife who keeps us all organized! 🥳🎂 Probably not exactly how she picture the day with snow and being at a dance competition but hopefully we still were able to make it special for her!</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/9709651b22.jpg\" alt=\"\"></p>\n",
+				"content_text": "Happy Birthday to my amazing wife who keeps us all organized! 🥳🎂 Probably not exactly how she picture the day with snow and being at a dance competition but hopefully we still were able to make it special for her!\n\n![](https://ericmwalk.blog/uploads/2023/9709651b22.jpg)\n",
+				"date_published": "2023-04-16T21:50:02-05:00",
+				"url": "https://ericmwalk.blog/2023/04/16/happy-birthday-to.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2023/04/16/no-matter-how.html",
+				
+				"content_html": "<p>No matter how many dance competitions I go to I still do not understand dance facials. Some of these dancers look like they are trying to catch bugs in their mouth with it wide open the whole time. Not to mention most don’t do the same facials either… 🤷🏻‍♂️</p>\n",
+				"content_text": "No matter how many dance competitions I go to I still do not understand dance facials. Some of these dancers look like they are trying to catch bugs in their mouth with it wide open the whole time. Not to mention most don’t do the same facials either… 🤷🏻‍♂️\n",
+				"date_published": "2023-04-16T18:32:31-05:00",
+				"url": "https://ericmwalk.blog/2023/04/16/no-matter-how.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2023/04/16/guess-spring-summer.html",
+				
+				"content_html": "<p>Guess spring, summer, and fall have passed us again… 🌨️\n<img src=\"https://ericmwalk.blog/uploads/2023/312ab4ad0c.jpg\" alt=\"\"></p>\n",
+				"content_text": "Guess spring, summer, and fall have passed us again… 🌨️\n![](https://ericmwalk.blog/uploads/2023/312ab4ad0c.jpg)\n",
+				"date_published": "2023-04-16T10:02:09-05:00",
+				"url": "https://ericmwalk.blog/2023/04/16/guess-spring-summer.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2023/04/15/doing-a-little.html",
+				
+				"content_html": "<p>Doing a little electrical work in the shed tonight…</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/defc23b170.jpg\" alt=\"\"></p>\n",
+				"content_text": "Doing a little electrical work in the shed tonight… \n\n![](https://ericmwalk.blog/uploads/2023/defc23b170.jpg)\n",
+				"date_published": "2023-04-15T20:15:17-05:00",
+				"url": "https://ericmwalk.blog/2023/04/15/doing-a-little.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2023/04/15/quicker-than-my.html",
+				
+				"content_html": "<p>Quicker than my normal <a href=\"http://www.strava.com/activities/8894530597\">run</a> speed this morning because it was raining and I only had a 30 minutes to spare.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/0694faa8bf.jpg\" alt=\"\"></p>\n",
+				"content_text": "Quicker than my normal [run](http://www.strava.com/activities/8894530597) speed this morning because it was raining and I only had a 30 minutes to spare.\n\n![](https://ericmwalk.blog/uploads/2023/0694faa8bf.jpg)\n",
+				"date_published": "2023-04-15T16:40:46-05:00",
+				"url": "https://ericmwalk.blog/2023/04/15/quicker-than-my.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2023/04/13/wasnt-planning-on.html",
+				
+				"content_html": "<p>Wasn’t planning on going for a <a href=\"http://www.strava.com/activities/8885699379\">run</a> to today and took it easy since I needed to somehow get my car as it was in the shop getting the AC fixed 🤦‍♂️. I hadn’t run on this little trail in a while as they have had it closed and I am sad to see they cut out a lot of trees but I am sure they had their reasons but I liked how this trail had tons of tree coverage.\n<img src=\"https://cdn.uploads.micro.blog/30906/2023/e3d824d085.jpg\" alt=\"\"></p>\n",
+				"content_text": "Wasn’t planning on going for a [run](http://www.strava.com/activities/8885699379) to today and took it easy since I needed to somehow get my car as it was in the shop getting the AC fixed 🤦‍♂️. I hadn’t run on this little trail in a while as they have had it closed and I am sad to see they cut out a lot of trees but I am sure they had their reasons but I liked how this trail had tons of tree coverage.\n![](https://cdn.uploads.micro.blog/30906/2023/e3d824d085.jpg)\n",
+				"date_published": "2023-04-13T22:04:16-05:00",
+				"url": "https://ericmwalk.blog/2023/04/13/wasnt-planning-on.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2023/04/12/found-myself-back.html",
+				
+				"content_html": "<p>Found myself back in the Edenbrook Conservation area tonight <a href=\"http://www.strava.com/activities/8881186771\">running</a> with my friend as our kids were at basketball practice.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2023/aae4d4b5e1.jpg\" alt=\"\"></p>\n",
+				"content_text": "Found myself back in the Edenbrook Conservation area tonight [running](http://www.strava.com/activities/8881186771) with my friend as our kids were at basketball practice. \n\n![](https://cdn.uploads.micro.blog/30906/2023/aae4d4b5e1.jpg)\n",
+				"date_published": "2023-04-12T23:11:15-05:00",
+				"url": "https://ericmwalk.blog/2023/04/12/found-myself-back.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2023/04/12/added-another-item.html",
+				
+				"content_html": "<p>Added another item to the collection 🧡</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Added another item to the collection 🧡\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/30906/2023/bebd311ce6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-04-12T10:47:15-05:00",
+				"url": "https://ericmwalk.blog/2023/04/12/added-another-item.html"
+			},
+			{
 				"id": "http://ericmwalk.micro.blog/2023/04/11/wow-it-was.html",
 				
-				"content_html": "<p>Wow it was actually hot out there at around 80°F so I made sure not to push it as my body is unsure what to do at that heat. However, with the snow mostly gone I could go find some new <a href=\"http://www.strava.com/activities/8875696591\">paths</a> and bridges.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/de495b1ab0.jpg\" alt=\"\"></p>\n",
-				"content_text": "Wow it was actually hot out there at around 80°F so I made sure not to push it as my body is unsure what to do at that heat. However, with the snow mostly gone I could go find some new [paths](http://www.strava.com/activities/8875696591) and bridges.\n\n![](https://ericmwalk.blog/uploads/2023/de495b1ab0.jpg)\n",
+				"content_html": "<p>Wow it was actually hot out there at around 80°F so I made sure not to push it as my body is unsure what to do at that heat. However, with the snow mostly gone I could go find some new <a href=\"http://www.strava.com/activities/8875696591\">paths</a> and bridges.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2023/de495b1ab0.jpg\" alt=\"\"></p>\n",
+				"content_text": "Wow it was actually hot out there at around 80°F so I made sure not to push it as my body is unsure what to do at that heat. However, with the snow mostly gone I could go find some new [paths](http://www.strava.com/activities/8875696591) and bridges.\n\n![](https://cdn.uploads.micro.blog/30906/2023/de495b1ab0.jpg)\n",
 				"date_published": "2023-04-11T23:16:52-05:00",
 				"url": "https://ericmwalk.blog/2023/04/11/wow-it-was.html",
 				"tags": ["Running"]
@@ -18,8 +85,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2023/04/10/kids-didnt-have.html",
 				
-				"content_html": "<p>Kids didn’t have school today so I woke up early to get ahead of todays meetings only to find out a bunch of them got moved and I had some hours available. I figured I would capitalize on that and since the kids were still sleeping to put some <a href=\"http://www.strava.com/activities/8866134452\">miles</a> in on this beautiful day.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/6a070ade66.jpg\" alt=\"\"></p>\n",
-				"content_text": "Kids didn’t have school today so I woke up early to get ahead of todays meetings only to find out a bunch of them got moved and I had some hours available. I figured I would capitalize on that and since the kids were still sleeping to put some [miles](http://www.strava.com/activities/8866134452) in on this beautiful day.\n\n![](https://ericmwalk.blog/uploads/2023/6a070ade66.jpg)\n",
+				"content_html": "<p>Kids didn’t have school today so I woke up early to get ahead of todays meetings only to find out a bunch of them got moved and I had some hours available. I figured I would capitalize on that and since the kids were still sleeping to put some <a href=\"http://www.strava.com/activities/8866134452\">miles</a> in on this beautiful day.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2023/6a070ade66.jpg\" alt=\"\"></p>\n",
+				"content_text": "Kids didn’t have school today so I woke up early to get ahead of todays meetings only to find out a bunch of them got moved and I had some hours available. I figured I would capitalize on that and since the kids were still sleeping to put some [miles](http://www.strava.com/activities/8866134452) in on this beautiful day.\n\n![](https://cdn.uploads.micro.blog/30906/2023/6a070ade66.jpg)\n",
 				"date_published": "2023-04-10T10:28:43-05:00",
 				"url": "https://ericmwalk.blog/2023/04/10/kids-didnt-have.html",
 				"tags": ["Running"]
@@ -27,16 +94,16 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2023/04/09/good-luck-finding.html",
 				
-				"content_html": "<p>Good luck finding the Gold Egg kids 🐣🐰\n<img src=\"https://ericmwalk.blog/uploads/2023/48cf883b62.jpg\" alt=\"\"></p>\n<p><em>Look very close it is just showing enough to be found.</em></p>\n",
-				"content_text": "Good luck finding the Gold Egg kids 🐣🐰\n![](https://ericmwalk.blog/uploads/2023/48cf883b62.jpg)\n\n*Look very close it is just showing enough to be found.*\n",
+				"content_html": "<p>Good luck finding the Gold Egg kids 🐣🐰\n<img src=\"https://cdn.uploads.micro.blog/30906/2023/48cf883b62.jpg\" alt=\"\"></p>\n<p><em>Look very close it is just showing enough to be found.</em></p>\n",
+				"content_text": "Good luck finding the Gold Egg kids 🐣🐰\n![](https://cdn.uploads.micro.blog/30906/2023/48cf883b62.jpg)\n\n*Look very close it is just showing enough to be found.*\n",
 				"date_published": "2023-04-09T12:23:05-05:00",
 				"url": "https://ericmwalk.blog/2023/04/09/good-luck-finding.html"
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2023/04/08/couldnt-avoid-the.html",
 				
-				"content_html": "<p>Couldn’t avoid the pull of the nice weather today and I thought I would check out the marsh <a href=\"http://www.strava.com/activities/8856255993\">trails</a>. I will say there is still a good amount of snow and water under the bridges.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/f24f1794d2.jpg\" alt=\"\"></p>\n",
-				"content_text": "Couldn’t avoid the pull of the nice weather today and I thought I would check out the marsh [trails](http://www.strava.com/activities/8856255993). I will say there is still a good amount of snow and water under the bridges.\n\n![](https://ericmwalk.blog/uploads/2023/f24f1794d2.jpg)\n",
+				"content_html": "<p>Couldn’t avoid the pull of the nice weather today and I thought I would check out the marsh <a href=\"http://www.strava.com/activities/8856255993\">trails</a>. I will say there is still a good amount of snow and water under the bridges.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2023/f24f1794d2.jpg\" alt=\"\"></p>\n",
+				"content_text": "Couldn’t avoid the pull of the nice weather today and I thought I would check out the marsh [trails](http://www.strava.com/activities/8856255993). I will say there is still a good amount of snow and water under the bridges.\n\n![](https://cdn.uploads.micro.blog/30906/2023/f24f1794d2.jpg)\n",
 				"date_published": "2023-04-08T20:53:13-05:00",
 				"url": "https://ericmwalk.blog/2023/04/08/couldnt-avoid-the.html",
 				"tags": ["Running"]
@@ -44,8 +111,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2023/04/08/the-deconstruction-starts.html",
 				
-				"content_html": "<p>The deconstruction starts… See you next year Backyard Rink 👋</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/51fe2bc22f.jpg\" alt=\"\"></p>\n",
-				"content_text": "The deconstruction starts… See you next year Backyard Rink 👋\n\n![](https://ericmwalk.blog/uploads/2023/51fe2bc22f.jpg)\n",
+				"content_html": "<p>The deconstruction starts… See you next year Backyard Rink 👋</p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2023/51fe2bc22f.jpg\" alt=\"\"></p>\n",
+				"content_text": "The deconstruction starts… See you next year Backyard Rink 👋\n\n![](https://cdn.uploads.micro.blog/30906/2023/51fe2bc22f.jpg)\n",
 				"date_published": "2023-04-08T18:55:12-05:00",
 				"url": "https://ericmwalk.blog/2023/04/08/the-deconstruction-starts.html",
 				"tags": ["Backyard Rink"]
