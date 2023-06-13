@@ -7,13 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://ericmwalk.micro.blog/2023/06/11/really-couldnt-beat.html",
+				
+				"content_html": "<p>Really couldn’t beat this weather this morning at 50°F. So the lack of effect was not due to weather but I got these <a href=\"https://strava.com/activities/9245493536\">miles</a> in before going to sit at a dance recital all day.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/cdbd1c3b12.jpg\" alt=\"\"></p>\n",
+				"content_text": "Really couldn’t beat this weather this morning at 50°F. So the lack of effect was not due to weather but I got these [miles](https://strava.com/activities/9245493536) in before going to sit at a dance recital all day.\n\n![](https://ericmwalk.blog/uploads/2023/cdbd1c3b12.jpg)\n",
+				"date_published": "2023-06-11T10:40:05-05:00",
+				"url": "https://ericmwalk.blog/2023/06/11/really-couldnt-beat.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2023/06/10/ready-to-call.html",
+				
+				"content_html": "<p>Ready to call it a day already. Weeded the flower / rock beds, sprayed the yard for bugs, vacuumed out my car, gave a dog a bath, and yelled at Best Buy Geek squad for the 3rd day in a row as no one knows anything 😖.</p>\n",
+				"content_text": "Ready to call it a day already. Weeded the flower / rock beds, sprayed the yard for bugs, vacuumed out my car, gave a dog a bath, and yelled at Best Buy Geek squad for the 3rd day in a row as no one knows anything 😖.\n",
+				"date_published": "2023-06-10T11:30:53-05:00",
+				"url": "https://ericmwalk.blog/2023/06/10/ready-to-call.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2023/06/09/little-bit-of.html",
+				
+				"content_html": "<p>Little bit of a covered <a href=\"https://strava.com/activities/9232386357\">trail</a> here. Not to mention the morning dew on this grass had me getting soaked as well as scraped up and full of seeds on my arms.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/7e5c89ec74.jpg\" alt=\"\"></p>\n",
+				"content_text": "Little bit of a covered [trail](https://strava.com/activities/9232386357) here. Not to mention the morning dew on this grass had me getting soaked as well as scraped up and full of seeds on my arms.\n\n![](https://ericmwalk.blog/uploads/2023/7e5c89ec74.jpg)\n",
+				"date_published": "2023-06-09T15:12:08-05:00",
+				"url": "https://ericmwalk.blog/2023/06/09/little-bit-of.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2023/06/09/this-happens-too.html",
+				
+				"content_html": "<p>This happens too many times but never gets old when I wake up in the morning to go for a run, put my AirPods in only to find 1 of the 2 has battery 🪫😖</p>\n",
+				"content_text": "This happens too many times but never gets old when I wake up in the morning to go for a run, put my AirPods in only to find 1 of the 2 has battery 🪫😖\n",
+				"date_published": "2023-06-09T08:32:53-05:00",
+				"url": "https://ericmwalk.blog/2023/06/09/this-happens-too.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2023/06/08/more-trails-tonight.html",
+				
+				"content_html": "<p>More trails tonight but this time around Braemar Golf Course in Edina again. I do enjoy the <a href=\"https://strava.com/activities/9229958878\">hidden</a> trails that are less traveled but I am sure someday they will finish it off with this nice bridge sitting here in the weeds and overgrowth.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/433f34f994.jpg\" alt=\"\"></p>\n",
+				"content_text": "More trails tonight but this time around Braemar Golf Course in Edina again. I do enjoy the [hidden](https://strava.com/activities/9229958878) trails that are less traveled but I am sure someday they will finish it off with this nice bridge sitting here in the weeds and overgrowth.\n\n![](https://ericmwalk.blog/uploads/2023/433f34f994.jpg)\n",
+				"date_published": "2023-06-08T23:51:02-05:00",
+				"url": "https://ericmwalk.blog/2023/06/08/more-trails-tonight.html",
+				"tags": ["Running"]
+			},
+			{
 				"id": "http://ericmwalk.micro.blog/2023/06/07/trails-so-many.html",
 				
-				"content_html": "<p>Trails! So many fun trails that the miles just kept flipping by tonight. I am definitely going to go exploring this way again. Also, was great to get a run in with my friend again.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/c95dbde85d.jpg\" alt=\"\"></p>\n",
-				"content_text": "Trails! So many fun trails that the miles just kept flipping by tonight. I am definitely going to go exploring this way again. Also, was great to get a run in with my friend again.\n\n![](https://ericmwalk.blog/uploads/2023/c95dbde85d.jpg)\n",
+				"content_html": "<p>Trails! So many fun <a href=\"https://strava.com/activities/9223723182\">trails</a> that the miles just kept flipping by tonight. I am definitely going to go exploring this way again. Also, was great to get a run in with my friend again.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2023/c95dbde85d.jpg\" alt=\"\"></p>\n",
+				"content_text": "Trails! So many fun [trails](https://strava.com/activities/9223723182) that the miles just kept flipping by tonight. I am definitely going to go exploring this way again. Also, was great to get a run in with my friend again.\n\n![](https://cdn.uploads.micro.blog/30906/2023/c95dbde85d.jpg)\n",
 				"date_published": "2023-06-07T23:10:02-05:00",
-				"url": "https://ericmwalk.blog/2023/06/07/trails-so-many.html",
-				"tags": ["Running"]
+				"url": "https://ericmwalk.blog/2023/06/07/trails-so-many.html"
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2023/06/06/guess-my-shed.html",
@@ -26,8 +68,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2023/06/05/this-time-of.html",
 				
-				"content_html": "<p>This time of seasons is always depressing when you wake up at 5:30am to <a href=\"https://strava.com/activities/9206598265\">run</a> and it feels like you are swimming. Also, looks that way after too.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/0a5517d3ae.jpg\" alt=\"\"></p>\n",
-				"content_text": "This time of seasons is always depressing when you wake up at 5:30am to [run](https://strava.com/activities/9206598265) and it feels like you are swimming. Also, looks that way after too.\n\n![](https://ericmwalk.blog/uploads/2023/0a5517d3ae.jpg)\n",
+				"content_html": "<p>This time of seasons is always depressing when you wake up at 5:30am to <a href=\"https://strava.com/activities/9206598265\">run</a> and it feels like you are swimming. Also, looks that way after too.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2023/0a5517d3ae.jpg\" alt=\"\"></p>\n",
+				"content_text": "This time of seasons is always depressing when you wake up at 5:30am to [run](https://strava.com/activities/9206598265) and it feels like you are swimming. Also, looks that way after too.\n\n![](https://cdn.uploads.micro.blog/30906/2023/0a5517d3ae.jpg)\n",
 				"date_published": "2023-06-05T23:49:52-05:00",
 				"url": "https://ericmwalk.blog/2023/06/05/this-time-of.html",
 				"tags": ["Running"]
@@ -35,8 +77,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2023/06/02/tracks-and-trails.html",
 				
-				"content_html": "<p>Tracks and Trails&hellip; <a href=\"https://strava.com/activities/9187497488\">Run</a> started with rain and then the morning sun came out and got steamy even at this early morning hour.  I chose my starting and ending point strategically so I could get some <a href=\"https://ericmwalk.blog/2023/06/02/i-was-told.html\">donuts</a> 🍩😉.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/c242d4a954.jpg\" alt=\"\"></p>\n",
-				"content_text": "Tracks and Trails... [Run](https://strava.com/activities/9187497488) started with rain and then the morning sun came out and got steamy even at this early morning hour.  I chose my starting and ending point strategically so I could get some [donuts](https://ericmwalk.blog/2023/06/02/i-was-told.html) 🍩😉.\n\n![](https://ericmwalk.blog/uploads/2023/c242d4a954.jpg)\n\n",
+				"content_html": "<p>Tracks and Trails&hellip; <a href=\"https://strava.com/activities/9187497488\">Run</a> started with rain and then the morning sun came out and got steamy even at this early morning hour.  I chose my starting and ending point strategically so I could get some <a href=\"https://ericmwalk.blog/2023/06/02/i-was-told.html\">donuts</a> 🍩😉.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2023/c242d4a954.jpg\" alt=\"\"></p>\n",
+				"content_text": "Tracks and Trails... [Run](https://strava.com/activities/9187497488) started with rain and then the morning sun came out and got steamy even at this early morning hour.  I chose my starting and ending point strategically so I could get some [donuts](https://ericmwalk.blog/2023/06/02/i-was-told.html) 🍩😉.\n\n![](https://cdn.uploads.micro.blog/30906/2023/c242d4a954.jpg)\n\n",
 				"date_published": "2023-06-02T11:45:00-05:00",
 				"url": "https://ericmwalk.blog/2023/06/02/tracks-and-trails.html",
 				"tags": ["Running"]
@@ -44,16 +86,16 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2023/06/02/i-was-told.html",
 				
-				"content_html": "<p>I was told it was National Donut Day today… Not that I really needed an excuse to go buy donuts but it is also my son’s Birthday so… I got a couple donuts 😁🍩</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/3408da775e.jpg\" alt=\"\"></p>\n",
-				"content_text": "I was told it was National Donut Day today… Not that I really needed an excuse to go buy donuts but it is also my son’s Birthday so… I got a couple donuts 😁🍩\n\n![](https://ericmwalk.blog/uploads/2023/3408da775e.jpg)\n",
+				"content_html": "<p>I was told it was National Donut Day today… Not that I really needed an excuse to go buy donuts but it is also my son’s Birthday so… I got a couple donuts 😁🍩</p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2023/3408da775e.jpg\" alt=\"\"></p>\n",
+				"content_text": "I was told it was National Donut Day today… Not that I really needed an excuse to go buy donuts but it is also my son’s Birthday so… I got a couple donuts 😁🍩\n\n![](https://cdn.uploads.micro.blog/30906/2023/3408da775e.jpg)\n",
 				"date_published": "2023-06-02T07:01:00-05:00",
 				"url": "https://ericmwalk.blog/2023/06/02/i-was-told.html"
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2023/05/31/warm-quicker-than.html",
 				
-				"content_html": "<p>Warm quicker than I should have <a href=\"https://strava.com/activities/9176596624\">miles </a>so I cut it short. However, I got to circle and see the setup of <a href=\"https://www.epschoonerdays.com/\">Schooner Days</a>. <em>I have lived here now for 14 years and have never gone to one.</em> 🤨</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/cd4bdf0d22.jpg\" alt=\"\"></p>\n",
-				"content_text": "Warm quicker than I should have [miles ](https://strava.com/activities/9176596624)so I cut it short. However, I got to circle and see the setup of [Schooner Days](https://www.epschoonerdays.com/). *I have lived here now for 14 years and have never gone to one.* 🤨\n\n![](https://ericmwalk.blog/uploads/2023/cd4bdf0d22.jpg)\n",
+				"content_html": "<p>Warm quicker than I should have <a href=\"https://strava.com/activities/9176596624\">miles </a>so I cut it short. However, I got to circle and see the setup of <a href=\"https://www.epschoonerdays.com/\">Schooner Days</a>. <em>I have lived here now for 14 years and have never gone to one.</em> 🤨</p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2023/cd4bdf0d22.jpg\" alt=\"\"></p>\n",
+				"content_text": "Warm quicker than I should have [miles ](https://strava.com/activities/9176596624)so I cut it short. However, I got to circle and see the setup of [Schooner Days](https://www.epschoonerdays.com/). *I have lived here now for 14 years and have never gone to one.* 🤨\n\n![](https://cdn.uploads.micro.blog/30906/2023/cd4bdf0d22.jpg)\n",
 				"date_published": "2023-05-31T15:42:00-05:00",
 				"url": "https://ericmwalk.blog/2023/05/31/warm-quicker-than.html",
 				"tags": ["Running"]
@@ -79,8 +121,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2023/05/28/decided-to-make.html",
 				
-				"content_html": "<p>Decided to make a quick <a href=\"https://strava.com/activities/9158882167\">run</a> around Clear Lake today. Probably the first of many this year but wow was it warmer than anticipated today.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2023/1e062913ba.jpg\" alt=\"\"></p>\n",
-				"content_text": "Decided to make a quick [run](https://strava.com/activities/9158882167) around Clear Lake today. Probably the first of many this year but wow was it warmer than anticipated today.\n\n![](https://cdn.uploads.micro.blog/30906/2023/1e062913ba.jpg)\n",
+				"content_html": "<p>Decided to make a quick <a href=\"https://strava.com/activities/9158882167\">run</a> around Clear Lake today. Probably the first of many this year but wow was it warmer than anticipated today.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/1e062913ba.jpg\" alt=\"\"></p>\n",
+				"content_text": "Decided to make a quick [run](https://strava.com/activities/9158882167) around Clear Lake today. Probably the first of many this year but wow was it warmer than anticipated today.\n\n![](https://ericmwalk.blog/uploads/2023/1e062913ba.jpg)\n",
 				"date_published": "2023-05-28T22:06:03-05:00",
 				"url": "https://ericmwalk.blog/2023/05/28/decided-to-make.html",
 				"tags": ["Running"]
@@ -88,8 +130,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2023/05/26/camper-yard-mowed.html",
 				
-				"content_html": "<p>Camper yard mowed, fire going, chairs out, lights on and drink in hand (not pictured). Here is to the start of our 2023 Camping season with our new rig in it’s new spot (not as great as last year but lots of positives with the new rig).</p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2023/4ea571cc6d.jpg\" alt=\"\"></p>\n",
-				"content_text": "Camper yard mowed, fire going, chairs out, lights on and drink in hand (not pictured). Here is to the start of our 2023 Camping season with our new rig in it’s new spot (not as great as last year but lots of positives with the new rig).\n\n![](https://cdn.uploads.micro.blog/30906/2023/4ea571cc6d.jpg)\n",
+				"content_html": "<p>Camper yard mowed, fire going, chairs out, lights on and drink in hand (not pictured). Here is to the start of our 2023 Camping season with our new rig in it’s new spot (not as great as last year but lots of positives with the new rig).</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/4ea571cc6d.jpg\" alt=\"\"></p>\n",
+				"content_text": "Camper yard mowed, fire going, chairs out, lights on and drink in hand (not pictured). Here is to the start of our 2023 Camping season with our new rig in it’s new spot (not as great as last year but lots of positives with the new rig).\n\n![](https://ericmwalk.blog/uploads/2023/4ea571cc6d.jpg)\n",
 				"date_published": "2023-05-26T21:25:04-05:00",
 				"url": "https://ericmwalk.blog/2023/05/26/camper-yard-mowed.html"
 			},
@@ -183,8 +225,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2023/05/15/fun-giving-a.html",
 				
-				"content_html": "<p>Fun giving a <a href=\"http://www.strava.com/activities/9077168424\">run</a> on these newer trails around Lake Ann and Lake Lucy. To bad there is an abrupt stop at one end but hopefully that will change in the future.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2023/41f2433aa1.jpg\" alt=\"\"></p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2023/53550d29f4.jpg\" alt=\"\"></p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2023/50de08ad55.jpg\" alt=\"\"></p>\n",
-				"content_text": "Fun giving a [run](http://www.strava.com/activities/9077168424) on these newer trails around Lake Ann and Lake Lucy. To bad there is an abrupt stop at one end but hopefully that will change in the future.\n\n![](https://cdn.uploads.micro.blog/30906/2023/41f2433aa1.jpg)\n\n![](https://cdn.uploads.micro.blog/30906/2023/53550d29f4.jpg)\n\n![](https://cdn.uploads.micro.blog/30906/2023/50de08ad55.jpg)\n",
+				"content_html": "<p>Fun giving a <a href=\"http://www.strava.com/activities/9077168424\">run</a> on these newer trails around Lake Ann and Lake Lucy. To bad there is an abrupt stop at one end but hopefully that will change in the future.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/41f2433aa1.jpg\" alt=\"\"></p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/53550d29f4.jpg\" alt=\"\"></p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/50de08ad55.jpg\" alt=\"\"></p>\n",
+				"content_text": "Fun giving a [run](http://www.strava.com/activities/9077168424) on these newer trails around Lake Ann and Lake Lucy. To bad there is an abrupt stop at one end but hopefully that will change in the future.\n\n![](https://ericmwalk.blog/uploads/2023/41f2433aa1.jpg)\n\n![](https://ericmwalk.blog/uploads/2023/53550d29f4.jpg)\n\n![](https://ericmwalk.blog/uploads/2023/50de08ad55.jpg)\n",
 				"date_published": "2023-05-15T23:51:09-05:00",
 				"url": "https://ericmwalk.blog/2023/05/15/fun-giving-a.html",
 				"tags": ["Running"]
