@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://ericmwalk.micro.blog/2023/11/05/it-was-a.html",
+				
+				"content_html": "<p>It was a nice morning to get miles in <a href=\"https://strava.com/activities/10166286133\">running</a> along the Lake Minnetonka Regional Trail. Found a nice overlook spot in Excelsior to turn around and got a little speed on the way back.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/bc42a903-f798-4ccb-9272-849e7d09795a.jpg\" alt=\"\"></p>\n",
+				"content_text": "It was a nice morning to get miles in [running](https://strava.com/activities/10166286133) along the Lake Minnetonka Regional Trail. Found a nice overlook spot in Excelsior to turn around and got a little speed on the way back.\n\n![](https://ericmwalk.blog/uploads/2023/bc42a903-f798-4ccb-9272-849e7d09795a.jpg)\n",
+				"date_published": "2023-11-05T15:19:42-05:00",
+				"url": "https://ericmwalk.blog/2023/11/05/it-was-a.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2023/11/02/after-today-this.html",
+				
+				"content_html": "<p>After today this <a href=\"https://strava.com/activities/10150474994\">run</a> was needed! The weather was great and I can’t complain about the sunset while meandering around. Glad to make a loop around the current <a href=\"https://www.bettertogetheredina.org/braemar-park-implementation/news_feed/comments-collected\">Braemar trail</a> as it looks what was a fun hiking trail might get overtaken for mountain bikers 😑.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/ae3c6df3-ef20-43f4-a43b-ce1c206c5ea8.jpg\" alt=\"\"></p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/080b9392-35d1-4cd5-b8d5-972d1c7e9c97.jpg\" alt=\"\"></p>\n",
+				"content_text": "After today this [run](https://strava.com/activities/10150474994) was needed! The weather was great and I can’t complain about the sunset while meandering around. Glad to make a loop around the current [Braemar trail](https://www.bettertogetheredina.org/braemar-park-implementation/news_feed/comments-collected) as it looks what was a fun hiking trail might get overtaken for mountain bikers 😑.\n\n![](https://ericmwalk.blog/uploads/2023/ae3c6df3-ef20-43f4-a43b-ce1c206c5ea8.jpg)\n\n![](https://ericmwalk.blog/uploads/2023/080b9392-35d1-4cd5-b8d5-972d1c7e9c97.jpg)\n",
+				"date_published": "2023-11-02T19:23:18-05:00",
+				"url": "https://ericmwalk.blog/2023/11/02/after-today-this.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2023/11/01/squeezed-in-a.html",
+				
+				"content_html": "<p>Squeezed in a quick <a href=\"https://strava.com/activities/10144527564\">run</a> today before the Ice Draw tonight. Wasn’t too bad out and might have overdressed as the sun wasn’t really out and felt colder before I started.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/b77a4fa4-d8a2-4c91-96ca-f8749c68bc68.jpg\" alt=\"\"></p>\n",
+				"content_text": "Squeezed in a quick [run](https://strava.com/activities/10144527564) today before the Ice Draw tonight. Wasn’t too bad out and might have overdressed as the sun wasn’t really out and felt colder before I started.\n\n![](https://ericmwalk.blog/uploads/2023/b77a4fa4-d8a2-4c91-96ca-f8749c68bc68.jpg)\n",
+				"date_published": "2023-11-01T23:49:20-05:00",
+				"url": "https://ericmwalk.blog/2023/11/01/squeezed-in-a.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2023/10/31/wasnt-the-plan.html",
+				
+				"content_html": "<p>Wasn&rsquo;t the plan but since there was snow out I felt obligated to get out and <a href=\"https://strava.com/activities/10136727811\">run</a> today. ☃️ There was a little ice out there so had to take to the streets in places vs the sidewalks.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/1ca1ffee-0194-4bd8-b4b8-1b2f7f5edd0c.jpg\" alt=\"\"></p>\n",
+				"content_text": "Wasn't the plan but since there was snow out I felt obligated to get out and [run](https://strava.com/activities/10136727811) today. ☃️ There was a little ice out there so had to take to the streets in places vs the sidewalks.\n\n![](https://ericmwalk.blog/uploads/2023/1ca1ffee-0194-4bd8-b4b8-1b2f7f5edd0c.jpg)\n",
+				"date_published": "2023-10-31T16:37:45-05:00",
+				"url": "https://ericmwalk.blog/2023/10/31/wasnt-the-plan.html",
+				"tags": ["Running"]
+			},
+			{
 				"id": "http://ericmwalk.micro.blog/2023/10/30/guess-we-couldnt.html",
 				
 				"content_html": "<p>Guess we couldn’t escape it any longer… Hello snow I won’t lie you and your colder weather could go away for a couple more weeks… Thanks. 🌨️</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/45c9f56d-efd9-4049-8a23-9a24d919f2b2.jpg\" alt=\"\"></p>\n",
