@@ -7,10 +7,85 @@
 	"items": [
 		
 			{
+				"id": "http://ericmwalk.micro.blog/2024/04/18/glad-to-have.html",
+				
+				"content_html": "<p>Glad to have found some time to get out there for a <a href=\"https://strava.com/activities/11211104627\">run</a> on this sunny but cool day. Felt pretty good so just rambled around the neighborhood with no direction or goals.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2024/img-8665.jpeg\" alt=\"A dirt path winds through a forest with leafless trees under a clear blue sky.\"></p>\n",
+				"content_text": "Glad to have found some time to get out there for a [run](https://strava.com/activities/11211104627) on this sunny but cool day. Felt pretty good so just rambled around the neighborhood with no direction or goals.\n\n![A dirt path winds through a forest with leafless trees under a clear blue sky.](https://ericmwalk.blog/uploads/2024/img-8665.jpeg)\n",
+				"date_published": "2024-04-18T20:20:27-05:00",
+				"url": "https://ericmwalk.blog/2024/04/18/glad-to-have.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2024/04/17/gmail-overload-because.html",
+				"title": "Gmail Overload - Because of Calendar Invites and Document Shares",
+				"content_html": "<p>For any of you working somewhere that uses G-Suite products you might be able to relate to my issues. To preface, working in all sorts of time zones are great to keep things moving in a smaller team. However, the days you wake up with 60+ unread emails in your inbox of which 95% are probably just calendar invitations (and corrections to times) and document shares you might become slightly frustrated. Today was that day for me and it broke the camel’s back as you would say. I was done with having those types of items cluttering all of the other normal emails that are mostly more time critical things to address or action in the morning for me. So I decided to do some digging tonight to see how best I could filter out these offending emails so I could get to what I wanted.</p>\n<p>I was actually shocked that I found fairly quickly a filter I could create using the following:</p>\n<p><code>subject:(&quot;invitation&quot; OR &quot;accepted&quot; OR &quot;rejected&quot; OR &quot;updated&quot; OR &quot;canceled event&quot; OR &quot;declined&quot; OR &quot;proposed&quot;) when where calendar who organizer</code></p>\n<p>So I use that and dump them in a folder (still marked as unread but skipping the inbox) titled Meetings.</p>\n<p>After that was accomplished rather quickly I turned to the Google Documents (Sheets, Slides, Docs) share issue. It isn&rsquo;t that I don&rsquo;t want to go though them but sometimes they clutter my inbox before I am ready to deal with them on a quick pass. So I took to searching again but this was not as fruitful as I couldn&rsquo;t find exactly what I wanted so I pieced this filter together by using common terms I kept noticing in the From field. The results are as follows:</p>\n<p><code>From: &quot;(via Google Drive)&quot; OR &quot;(via Google Slides)&quot; OR &quot;(via Google Docs)&quot; OR &quot;(via Google Sheets)&quot;</code></p>\n<p>Again, it isn&rsquo;t that I wanted them deleted or all marked unread for no reason so I just dump them into a Documents folder and I can dive into them later in my day.</p>\n<p>In my search for the second example, I did find an easier way to do the first filtering method for calendar invites that was burried in the <a href=\"https://support.google.com/a/users/answer/11387073?sjid=7810924241319776005-NC&amp;visit_id=638489925966315276-713929201&amp;rd=1#filter_calendar&amp;zippy=%2Clearn-how\">Google Workspace Learning Center</a> . I have pulled the relevant example below. I ended up changing mine to this as it seems a little cleaner and should address outside calendar items too.</p>\n<blockquote>\n<ol>\n<li>Open <a href=\"https://mail.google.com/\">Gmail</a>.</li>\n<li>In the search box at the top, click Show search options</li>\n<li>In the <strong>To</strong> field, enter your email address.</li>\n<li>Next to <strong>Has the words</strong>, enter <strong>invite.ics OR invite.vcs</strong>.</li>\n<li>Check the <strong>Has attachment</strong> box.</li>\n<li>Click <strong>Create filter</strong>.</li>\n<li>Check the <strong>Apply the label</strong> box and choose a label to automatically sort incoming event response messages.</li>\n<li>Check the <strong>Skip the Inbox (Archive it)</strong> box to move response messages out of your inbox. Don’t worry, you can still view them later if needed.</li>\n<li>Click <strong>Create filter</strong>.</li>\n</ol>\n</blockquote>\n",
+				"content_text": "\nFor any of you working somewhere that uses G-Suite products you might be able to relate to my issues. To preface, working in all sorts of time zones are great to keep things moving in a smaller team. However, the days you wake up with 60+ unread emails in your inbox of which 95% are probably just calendar invitations (and corrections to times) and document shares you might become slightly frustrated. Today was that day for me and it broke the camel’s back as you would say. I was done with having those types of items cluttering all of the other normal emails that are mostly more time critical things to address or action in the morning for me. So I decided to do some digging tonight to see how best I could filter out these offending emails so I could get to what I wanted.\n\nI was actually shocked that I found fairly quickly a filter I could create using the following:\n\n`subject:(\"invitation\" OR \"accepted\" OR \"rejected\" OR \"updated\" OR \"canceled event\" OR \"declined\" OR \"proposed\") when where calendar who organizer`\n\nSo I use that and dump them in a folder (still marked as unread but skipping the inbox) titled Meetings.\n\nAfter that was accomplished rather quickly I turned to the Google Documents (Sheets, Slides, Docs) share issue. It isn't that I don't want to go though them but sometimes they clutter my inbox before I am ready to deal with them on a quick pass. So I took to searching again but this was not as fruitful as I couldn't find exactly what I wanted so I pieced this filter together by using common terms I kept noticing in the From field. The results are as follows:\n\n`From: \"(via Google Drive)\" OR \"(via Google Slides)\" OR \"(via Google Docs)\" OR \"(via Google Sheets)\"`\n\nAgain, it isn't that I wanted them deleted or all marked unread for no reason so I just dump them into a Documents folder and I can dive into them later in my day.\n\nIn my search for the second example, I did find an easier way to do the first filtering method for calendar invites that was burried in the [Google Workspace Learning Center](https://support.google.com/a/users/answer/11387073?sjid=7810924241319776005-NC&visit_id=638489925966315276-713929201&rd=1#filter_calendar&zippy=%2Clearn-how) . I have pulled the relevant example below. I ended up changing mine to this as it seems a little cleaner and should address outside calendar items too.\n\n>1. Open [Gmail](https://mail.google.com/).\n>2. In the search box at the top, click Show search options\n>3. In the **To** field, enter your email address.\n>4. Next to **Has the words**, enter **invite.ics OR invite.vcs**.\n>5. Check the **Has attachment** box.\n>6. Click **Create filter**.\n>7. Check the **Apply the label** box and choose a label to automatically sort incoming event response messages.\n>8. Check the **Skip the Inbox (Archive it)** box to move response messages out of your inbox. Don’t worry, you can still view them later if needed.\n>9. Click **Create filter**.\n\n",
+				"date_published": "2024-04-17T21:46:06-05:00",
+				"url": "https://ericmwalk.blog/2024/04/17/gmail-overload-because.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2024/04/16/utilized-my-time.html",
+				
+				"content_html": "<p>Utilized my time <a href=\"https://strava.com/activities/11199500457\">running </a>tonight while waiting for my son to finish basketball practice. Thankfully, I found a break in the rain that lasted all day to actually get this done, but I had to follow the street lights as it got dark because I forgot my running lights. 🤷‍♂️</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2024/img-8656.jpeg\" alt=\"Dark clouds loom over a tranquil water body at dusk, reflecting the waning light, amidst a landscape of contrastingly tranquil fields and trees.\"></p>\n",
+				"content_text": "Utilized my time [running ](https://strava.com/activities/11199500457)tonight while waiting for my son to finish basketball practice. Thankfully, I found a break in the rain that lasted all day to actually get this done, but I had to follow the street lights as it got dark because I forgot my running lights. 🤷‍♂️\n\n![Dark clouds loom over a tranquil water body at dusk, reflecting the waning light, amidst a landscape of contrastingly tranquil fields and trees.](https://ericmwalk.blog/uploads/2024/img-8656.jpeg)\n",
+				"date_published": "2024-04-16T23:03:12-05:00",
+				"url": "https://ericmwalk.blog/2024/04/16/utilized-my-time.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2024/04/16/it-is-tough.html",
+				
+				"content_html": "<p>It is tough some nights to find time for the whole family to be together when each kid has a different activity from 5 to 9 PM. However, thankfully, we were all together at that point and took time to celebrate April&rsquo;s birthday! 🥳🎂</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2024/img-8658.jpeg\" alt=\"A family celebrates a birthday at home, surrounding a cake with presents and handmade cards reading &ldquo;Happy 43rd Birthday April&rdquo; and &ldquo;Happy Birthday Mommy&hellip; Love You.&rdquo;\"></p>\n",
+				"content_text": "It is tough some nights to find time for the whole family to be together when each kid has a different activity from 5 to 9 PM. However, thankfully, we were all together at that point and took time to celebrate April's birthday! 🥳🎂\n\n![A family celebrates a birthday at home, surrounding a cake with presents and handmade cards reading \"Happy 43rd Birthday April\" and \"Happy Birthday Mommy... Love You.\"\n](https://ericmwalk.blog/uploads/2024/img-8658.jpeg)\n",
+				"date_published": "2024-04-16T22:18:41-05:00",
+				"url": "https://ericmwalk.blog/2024/04/16/it-is-tough.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2024/04/15/this-zike-card.html",
+				
+				"content_html": "<p>This ZIKE card is nice and fits perfectly in my thin wallet that I shouldn’t misplace anymore..</p>\n<p>Shout out to <a href=\"https://micro.blog/burk\">@burk</a> from <a href=\"https://listen.hemisphericviews.com/108\">Episode 108</a> of <a href=\"https://micro.blog/HemisphericViews\">@HemisphericViews</a> where he mentioned it and obviously can be found in the show notes! Wait a minute, was this just a cleverly inserted ad in the podcast. 😏 😆</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2024/img-8643.jpeg\" alt=\"A hand holds a black card with icons and text that reads &ldquo;ZIKE, Locate with Apple Find My&rdquo; against a wood-grain background.\"></p>\n",
+				"content_text": "This ZIKE card is nice and fits perfectly in my thin wallet that I shouldn’t misplace anymore.. \n\nShout out to [@burk](https://micro.blog/burk) from [Episode 108](https://listen.hemisphericviews.com/108) of [@HemisphericViews](https://micro.blog/HemisphericViews) where he mentioned it and obviously can be found in the show notes! Wait a minute, was this just a cleverly inserted ad in the podcast. 😏 😆\n\n![A hand holds a black card with icons and text that reads \"ZIKE, Locate with Apple Find My\" against a wood-grain background.](https://ericmwalk.blog/uploads/2024/img-8643.jpeg)\n",
+				"date_published": "2024-04-15T22:37:18-05:00",
+				"url": "https://ericmwalk.blog/2024/04/15/this-zike-card.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2024/04/15/wasnt-sure-how.html",
+				
+				"content_html": "<p>Wasn’t sure how this <a href=\"https://strava.com/activities/11189527537\">run</a> was going to go after the weekend but I felt really good. I need to do better at pivoting my route so when I want to do a little speed I don’t have the climbs. Sad to see all these areas get chopped out but I guess the invasive species need to get removed sometime.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2024/img-8635.jpeg\" alt=\"Leafless trees stand in a dry forest with a carpet of fallen leaves, under a cloudy sky.\"></p>\n",
+				"content_text": "Wasn’t sure how this [run](https://strava.com/activities/11189527537) was going to go after the weekend but I felt really good. I need to do better at pivoting my route so when I want to do a little speed I don’t have the climbs. Sad to see all these areas get chopped out but I guess the invasive species need to get removed sometime.\n\n![Leafless trees stand in a dry forest with a carpet of fallen leaves, under a cloudy sky.](https://cdn.uploads.micro.blog/30906/2024/img-8635.jpeg)\n",
+				"date_published": "2024-04-15T22:10:22-05:00",
+				"url": "https://ericmwalk.blog/2024/04/15/wasnt-sure-how.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2024/04/14/i-am-again.html",
+				
+				"content_html": "<p>I am again starting to see a <a href=\"https://ericmwalk.blog/2023/04/17/i-was-kind.html\">trend</a> in my Tax filling promptness&hellip; I get I again had all day tomorrow but still feels down to the wire when I have had a good couple of months to get it done. 💸</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2023/f423e297ec.png\" alt=\"\">\n<em>Decided to just use the same picture from last year as it hasn&rsquo;t changed from Turbo Taxes side</em></p>\n",
+				"content_text": "I am again starting to see a [trend](https://ericmwalk.blog/2023/04/17/i-was-kind.html) in my Tax filling promptness... I get I again had all day tomorrow but still feels down to the wire when I have had a good couple of months to get it done. 💸\n\n![](https://ericmwalk.blog/uploads/2023/f423e297ec.png)\n*Decided to just use the same picture from last year as it hasn't changed from Turbo Taxes side*\n",
+				"date_published": "2024-04-14T22:25:00-05:00",
+				"url": "https://ericmwalk.blog/2024/04/14/i-am-again.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2024/04/14/guess-it-is.html",
+				
+				"content_html": "<p>Guess it is a <a href=\"https://super73.com\">Super 73</a> biker gang that went into Target 🏍️🚲</p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2024/img-8614.jpeg\" alt=\"\"></p>\n",
+				"content_text": "Guess it is a [Super 73](https://super73.com) biker gang that went into Target 🏍️🚲\n\n![](https://cdn.uploads.micro.blog/30906/2024/img-8614.jpeg)\n",
+				"date_published": "2024-04-14T15:57:34-05:00",
+				"url": "https://ericmwalk.blog/2024/04/14/guess-it-is.html"
+			},
+			{
+				"id": "http://ericmwalk.micro.blog/2024/04/14/had-a-good.html",
+				
+				"content_html": "<p>Had a good longer walk with Big Darbs this morning who now is passed out on the floor in front of his water bowl. We saw two swans this morning but no idea what kind I am thinking it is a Trumpeter but not 100% sure. 🤷‍♂️🦢</p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2024/img-8621.jpeg\" alt=\"Two swans are swimming on a reflective pond surrounded by trees and reeds with buildings in the background.\"></p>\n",
+				"content_text": "Had a good longer walk with Big Darbs this morning who now is passed out on the floor in front of his water bowl. We saw two swans this morning but no idea what kind I am thinking it is a Trumpeter but not 100% sure. 🤷‍♂️🦢\n\n![Two swans are swimming on a reflective pond surrounded by trees and reeds with buildings in the background.](https://cdn.uploads.micro.blog/30906/2024/img-8621.jpeg)\n",
+				"date_published": "2024-04-14T10:02:17-05:00",
+				"url": "https://ericmwalk.blog/2024/04/14/had-a-good.html"
+			},
+			{
 				"id": "http://ericmwalk.micro.blog/2024/04/13/sometimes-you-make.html",
 				
-				"content_html": "<p>Sometimes you make mistakes in planning but you push through the training <a href=\"https://strava.com/activities/11175246463\">run</a>. Even though I knew it was going to be warm I misjudged the amount of water I should have taken after last weeks cooler run when I used none of it and with about 4 miles left I was making 1/4 of one of these last 🫣.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2024/img-8616.jpeg\" alt=\"A hand holding an empty, translucent plastic bottle over a paved surface. The wrist is adorned with an orange watch strap.\"></p>\n<p><img src=\"https://ericmwalk.blog/uploads/2024/cd0d364e6f.jpeg\" alt=\"A barren hilly landscape with leafless trees leading down to the river bottoms under a partly cloudy sky.\"></p>\n",
-				"content_text": "Sometimes you make mistakes in planning but you push through the training [run](https://strava.com/activities/11175246463). Even though I knew it was going to be warm I misjudged the amount of water I should have taken after last weeks cooler run when I used none of it and with about 4 miles left I was making 1/4 of one of these last 🫣. \r\n\r\n![A hand holding an empty, translucent plastic bottle over a paved surface. The wrist is adorned with an orange watch strap.](https://ericmwalk.blog/uploads/2024/img-8616.jpeg)\r\n\r\n![A barren hilly landscape with leafless trees leading down to the river bottoms under a partly cloudy sky.](https://ericmwalk.blog/uploads/2024/cd0d364e6f.jpeg)\n",
+				"content_html": "<p>Sometimes you make mistakes in planning but you push through the training <a href=\"https://strava.com/activities/11175246463\">run</a>. Even though I knew it was going to be warm I misjudged the amount of water I should have taken after last weeks cooler run when I used none of it and with about 4 miles left I was making 1/4 of one of these last 🫣.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2024/img-8616.jpeg\" alt=\"A hand holding an empty, translucent plastic bottle over a paved surface. The wrist is adorned with an orange watch strap.\"></p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2024/cd0d364e6f.jpeg\" alt=\"A barren hilly landscape with leafless trees leading down to the river bottoms under a partly cloudy sky.\"></p>\n",
+				"content_text": "Sometimes you make mistakes in planning but you push through the training [run](https://strava.com/activities/11175246463). Even though I knew it was going to be warm I misjudged the amount of water I should have taken after last weeks cooler run when I used none of it and with about 4 miles left I was making 1/4 of one of these last 🫣. \r\n\r\n![A hand holding an empty, translucent plastic bottle over a paved surface. The wrist is adorned with an orange watch strap.](https://cdn.uploads.micro.blog/30906/2024/img-8616.jpeg)\r\n\r\n![A barren hilly landscape with leafless trees leading down to the river bottoms under a partly cloudy sky.](https://cdn.uploads.micro.blog/30906/2024/cd0d364e6f.jpeg)\n",
 				"date_published": "2024-04-13T20:03:29-05:00",
 				"url": "https://ericmwalk.blog/2024/04/13/sometimes-you-make.html",
 				"tags": ["Running"]
@@ -18,16 +93,16 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2024/04/11/photoblogging-day-luckily.html",
 				
-				"content_html": "<p>📷 Photoblogging: Day 11 - \nLuckily I missed those dark clouds in the sky when I was outside. However, I also missed snapping a picture of a rainbow 15 min before I took this photo. Can’t win them all.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2024/img-8586.jpeg\" alt=\"Overcast sky looms above a calm lake with bare trees and distant buildings lining the shore, suggesting an impending storm in a serene natural setting.\"></p>\n",
-				"content_text": "📷 Photoblogging: Day 11 - \r\nLuckily I missed those dark clouds in the sky when I was outside. However, I also missed snapping a picture of a rainbow 15 min before I took this photo. Can’t win them all.\r\n\r\n![Overcast sky looms above a calm lake with bare trees and distant buildings lining the shore, suggesting an impending storm in a serene natural setting.](https://ericmwalk.blog/uploads/2024/img-8586.jpeg)\n",
+				"content_html": "<p>📷 Photoblogging: Day 11 - \nLuckily I missed those dark clouds in the sky when I was outside. However, I also missed snapping a picture of a rainbow 15 min before I took this photo. Can’t win them all.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2024/img-8586.jpeg\" alt=\"Overcast sky looms above a calm lake with bare trees and distant buildings lining the shore, suggesting an impending storm in a serene natural setting.\"></p>\n",
+				"content_text": "📷 Photoblogging: Day 11 - \r\nLuckily I missed those dark clouds in the sky when I was outside. However, I also missed snapping a picture of a rainbow 15 min before I took this photo. Can’t win them all.\r\n\r\n![Overcast sky looms above a calm lake with bare trees and distant buildings lining the shore, suggesting an impending storm in a serene natural setting.](https://cdn.uploads.micro.blog/30906/2024/img-8586.jpeg)\n",
 				"date_published": "2024-04-11T22:44:18-05:00",
 				"url": "https://ericmwalk.blog/2024/04/11/photoblogging-day-luckily.html"
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2024/04/11/found-some-time.html",
 				
-				"content_html": "<p>Found some time tonight before I had to pick the youngest up from dance to squeeze this <a href=\"https://strava.com/activities/11160965276\">run</a> in. The rain stopped right before I started which gave the air that after rain smell and kept it cool out. Saw a rainbow but since I was mostly on trails there was too much tree cover to make it worth while.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2024/img-8585.jpeg\" alt=\"A plastic box boardwalk meanders through dry grassland with leafless trees under a partly cloudy sky.\"></p>\n",
-				"content_text": "Found some time tonight before I had to pick the youngest up from dance to squeeze this [run](https://strava.com/activities/11160965276) in. The rain stopped right before I started which gave the air that after rain smell and kept it cool out. Saw a rainbow but since I was mostly on trails there was too much tree cover to make it worth while.\n\n![A plastic box boardwalk meanders through dry grassland with leafless trees under a partly cloudy sky.](https://ericmwalk.blog/uploads/2024/img-8585.jpeg)\n",
+				"content_html": "<p>Found some time tonight before I had to pick the youngest up from dance to squeeze this <a href=\"https://strava.com/activities/11160965276\">run</a> in. The rain stopped right before I started which gave the air that after rain smell and kept it cool out. Saw a rainbow but since I was mostly on trails there was too much tree cover to make it worth while.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2024/img-8585.jpeg\" alt=\"A plastic box boardwalk meanders through dry grassland with leafless trees under a partly cloudy sky.\"></p>\n",
+				"content_text": "Found some time tonight before I had to pick the youngest up from dance to squeeze this [run](https://strava.com/activities/11160965276) in. The rain stopped right before I started which gave the air that after rain smell and kept it cool out. Saw a rainbow but since I was mostly on trails there was too much tree cover to make it worth while.\n\n![A plastic box boardwalk meanders through dry grassland with leafless trees under a partly cloudy sky.](https://cdn.uploads.micro.blog/30906/2024/img-8585.jpeg)\n",
 				"date_published": "2024-04-11T22:19:43-05:00",
 				"url": "https://ericmwalk.blog/2024/04/11/found-some-time.html",
 				"tags": ["Running"]
@@ -35,8 +110,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2024/04/10/photoblogging-day-as.html",
 				
-				"content_html": "<p>📷 Photoblogging: Day 10 -  As we have been doing some organizing over the last couple of months I keep holding onto all of my old model Trains even though I have never really used them even when my kids were little. Might be time to consider letting them go but for now they got moved to the shed.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2021/11aab6df29.jpg\" alt=\"\"></p>\n",
-				"content_text": "📷 Photoblogging: Day 10 -  As we have been doing some organizing over the last couple of months I keep holding onto all of my old model Trains even though I have never really used them even when my kids were little. Might be time to consider letting them go but for now they got moved to the shed.\r\n\r\n![](https://ericmwalk.blog/uploads/2021/11aab6df29.jpg)\n",
+				"content_html": "<p>📷 Photoblogging: Day 10 -  As we have been doing some organizing over the last couple of months I keep holding onto all of my old model Trains even though I have never really used them even when my kids were little. Might be time to consider letting them go but for now they got moved to the shed.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2021/11aab6df29.jpg\" alt=\"\"></p>\n",
+				"content_text": "📷 Photoblogging: Day 10 -  As we have been doing some organizing over the last couple of months I keep holding onto all of my old model Trains even though I have never really used them even when my kids were little. Might be time to consider letting them go but for now they got moved to the shed.\r\n\r\n![](https://cdn.uploads.micro.blog/30906/2021/11aab6df29.jpg)\n",
 				"date_published": "2024-04-10T23:37:08-05:00",
 				"url": "https://ericmwalk.blog/2024/04/10/photoblogging-day-as.html"
 			},
@@ -7919,6 +7994,14 @@
 				"tags": ["Running"]
 			},
 			{
+				"id": "http://ericmwalk.micro.blog/2022/04/16/happy-birthday-april.html",
+				"title": "Happy Birthday April",
+				"content_html": "<p>Happy Birthday to the wonderful April!</p>\n<!-- raw HTML omitted -->\n<p>The kids and I tried our best to make it a special day by movie and then dinner that wasn’t entirely planned but kind of came together.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>The night before the girls wanted to decorate the house like we do for their birthdays so I agreed to this but needed the help to get it all done! The girls dug though all of the items in the birthday box and brought out things from the past kid’s birthdays 😆. I believe we had basketball stuff, horse party favors, and 40th birthday decorations that were modified for this year.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Happy Birthday to the wonderful April!\n\n<img src=\"uploads/2022/0bb632615d.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nThe kids and I tried our best to make it a special day by movie and then dinner that wasn’t entirely planned but kind of came together.\n\n<a href=\"https://ericmwalk.blog/uploads/2022/42c8695c24.jpg\"><img src=\"https://micro.blog/photos/200/https://ericmwalk.blog/uploads/2022/42c8695c24.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://ericmwalk.blog/uploads/2022/6418eeb6a7.jpg\"><img src=\"https://micro.blog/photos/200/https://ericmwalk.blog/uploads/2022/6418eeb6a7.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\nThe night before the girls wanted to decorate the house like we do for their birthdays so I agreed to this but needed the help to get it all done! The girls dug though all of the items in the birthday box and brought out things from the past kid’s birthdays 😆. I believe we had basketball stuff, horse party favors, and 40th birthday decorations that were modified for this year. \n\n<a href=\"https://ericmwalk.blog/uploads/2022/32aadee878.jpg\"><img src=\"https://micro.blog/photos/200/https://ericmwalk.blog/uploads/2022/32aadee878.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://ericmwalk.blog/uploads/2022/0c98b2c8dd.jpg\"><img src=\"https://micro.blog/photos/200/https://ericmwalk.blog/uploads/2022/0c98b2c8dd.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
+				"date_published": "2022-04-16T21:19:00-05:00",
+				"url": "https://ericmwalk.blog/2022/04/16/happy-birthday-april.html"
+			},
+			{
 				"id": "http://ericmwalk.micro.blog/2022/04/15/come-on-door.html",
 				
 				"content_html": "<p>Come on door to door salespeople…. Stopping by at 5:30pm on a Friday night… really come on…</p>\n",
@@ -11539,6 +11622,15 @@
 				"tags": ["Running"]
 			},
 			{
+				"id": "http://ericmwalk.micro.blog/2021/04/15/meet-stella.html",
+				"title": "Meet Stella...",
+				"content_html": "<p>Meet Stella&hellip; I found her out on my <a href=\"https://www.strava.com/activities/5133407222\">run</a> today and nowhere near my house. Between myself and another lady, that saw her at the same time while driving by, we were able to reunite this pup with her family. Added a half-mile of walking for me while carrying the pup until I could continue my run and in the end made me getting home later than planned&hellip; but well worth it. 🏃🐶\n<!-- raw HTML omitted --></p>\n<p>After returning Stella, I still managed to finish the run as planned with some great views and a fun little trail.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "Meet Stella... I found her out on my [run](https://www.strava.com/activities/5133407222) today and nowhere near my house. Between myself and another lady, that saw her at the same time while driving by, we were able to reunite this pup with her family. Added a half-mile of walking for me while carrying the pup until I could continue my run and in the end made me getting home later than planned... but well worth it. 🏃🐶\n<img src=\"uploads/2021/3d61fd8e30.jpg\" width=\"600\" height=\"594\" alt=\"\" />\n\nAfter returning Stella, I still managed to finish the run as planned with some great views and a fun little trail.\n\n<img src=\"uploads/2021/7e5dd7d986.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n\n<img src=\"uploads/2021/f8c83d92de.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-04-15T08:27:00-05:00",
+				"url": "https://ericmwalk.blog/2021/04/15/meet-stella.html",
+				"tags": ["Running"]
+			},
+			{
 				"id": "http://ericmwalk.micro.blog/2021/04/15/early-morning-global.html",
 				
 				"content_html": "<p>Early morning global meetings today&hellip;<br>\n✅ Coffee<br>\n✅ Amazingly comfortable and stylishly shirt from <a href=\"https://micro.blog/HemisphericViews\">@HemisphericViews</a> 😁 <br>\n✅ Second, third and more cups of coffee ☕☕☕</p>\n<!-- raw HTML omitted -->\n",
@@ -14893,8 +14985,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2018/09/15/early-morning-coffee.html",
 				
-				"content_html": "<p>Early morning coffee with the pup while the rest of the house sleeps&hellip; #LaineyLouTheDoodle #coffee .\n.\n.\n.\n.\n#morning #minigoldendoodle #goldendoodle</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Early morning coffee with the pup while the rest of the house sleeps... #LaineyLouTheDoodle #coffee .\n.\n.\n.\n.\n#morning #minigoldendoodle #goldendoodle\n\n<img src=\"https://cdn.uploads.micro.blog/30906/2022/1eda1797a5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Early morning coffee with the pup while the rest of the house sleeps&hellip;</p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2022/1eda1797a5.jpg\" alt=\"\"></p>\n",
+				"content_text": "Early morning coffee with the pup while the rest of the house sleeps...\n\n![](https://cdn.uploads.micro.blog/30906/2022/1eda1797a5.jpg)\n",
 				"date_published": "2018-09-15T08:00:17-05:00",
 				"url": "https://ericmwalk.blog/2018/09/15/early-morning-coffee.html"
 			},
@@ -16892,10 +16984,11 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2017/01/02/on-the-ice.html",
 				
-				"content_html": "<p>On the ice with these two is not s bad way to spend the afternoon&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "On the ice with these two is not s bad way to spend the afternoon...\n\n<img src=\"https://cdn.uploads.micro.blog/30906/2022/4f3d4cdd10.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>On the ice with these two is not s bad way to spend the afternoon&hellip;</p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2022/4f3d4cdd10.jpg\" alt=\"\"></p>\n",
+				"content_text": "On the ice with these two is not s bad way to spend the afternoon...\n\n![](https://cdn.uploads.micro.blog/30906/2022/4f3d4cdd10.jpg)\n",
 				"date_published": "2017-01-02T22:55:24-05:00",
-				"url": "https://ericmwalk.blog/2017/01/02/on-the-ice.html"
+				"url": "https://ericmwalk.blog/2017/01/02/on-the-ice.html",
+				"tags": ["Backyard Rink"]
 			},
 			{
 				"id": "http://ericmwalk.micro.blog/2017/01/01/had-a-great.html",
@@ -17431,8 +17524,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2016/09/04/not-a-bad.html",
 				
-				"content_html": "<p>Not a bad way to spend a Sunday afternoon&hellip; Reading books to this one in the hammock #lazysunday</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Not a bad way to spend a Sunday afternoon... Reading books to this one in the hammock #lazysunday\n\n<img src=\"https://cdn.uploads.micro.blog/30906/2022/00d40bc2e3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Not a bad way to spend a Sunday afternoon&hellip; Reading books to this one in the hammock with Boo&hellip;</p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2022/00d40bc2e3.jpg\" alt=\"\"></p>\n",
+				"content_text": "Not a bad way to spend a Sunday afternoon... Reading books to this one in the hammock with Boo...\n\n![](https://cdn.uploads.micro.blog/30906/2022/00d40bc2e3.jpg)\n",
 				"date_published": "2016-09-04T17:03:16-05:00",
 				"url": "https://ericmwalk.blog/2016/09/04/not-a-bad.html"
 			},
@@ -18240,8 +18333,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2016/02/13/not-a-bad.html",
 				
-				"content_html": "<p>Not a bad way to spend the afternoon. Go Wild! #mnwild</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Not a bad way to spend the afternoon. Go Wild! #mnwild\n\n<img src=\"https://cdn.uploads.micro.blog/30906/2022/62c3d9ab48.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Not a bad way to spend the afternoon. Go Wild!</p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2022/62c3d9ab48.jpg\" alt=\"\"></p>\n",
+				"content_text": "Not a bad way to spend the afternoon. Go Wild!\n\n![](https://cdn.uploads.micro.blog/30906/2022/62c3d9ab48.jpg)\n",
 				"date_published": "2016-02-13T14:29:04-05:00",
 				"url": "https://ericmwalk.blog/2016/02/13/not-a-bad.html"
 			},
