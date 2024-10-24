@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://ericmwalk.micro.blog/2024/10/22/was-a-nice.html",
+				
+				"content_html": "<p>Was a nice day out and I found myself with some time to get some <a href=\"https://strava.com/activities/12719427138\">miles</a> in on my favorite boardwalks.  This really helped me get through the rest of the day.</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2024/img-0554.jpeg\" alt=\"A wooden boardwalk extends through a grassy field under a clear blue sky, leading toward a cluster of trees with golden autumn leaves. Sparse trees line the horizon.\"></p>\n",
+				"content_text": "Was a nice day out and I found myself with some time to get some [miles](https://strava.com/activities/12719427138) in on my favorite boardwalks.  This really helped me get through the rest of the day.\n\n![A wooden boardwalk extends through a grassy field under a clear blue sky, leading toward a cluster of trees with golden autumn leaves. Sparse trees line the horizon.](https://ericmwalk.blog/uploads/2024/img-0554.jpeg)\n",
+				"date_published": "2024-10-22T21:36:14-05:00",
+				"url": "https://ericmwalk.blog/2024/10/22/was-a-nice.html",
+				"tags": ["Running"]
+			},
+			{
 				"id": "http://ericmwalk.micro.blog/2024/10/21/monday-miles-to.html",
 				
 				"content_html": "<p>Monday miles to start the week off. One meeting got done early so thankfully I could get this <a href=\"https://strava.com/activities/12709721588\">run</a> in the cooler morning hours. These two friends didn’t think anything of me and just kept walking towards me when I stopped to take this picture. 🦌📸</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2024/img-0536.jpeg\" alt=\"Two deer stand alert beside a leaf-covered path, surrounded by dense foliage and tall grasses, in a wooded area during autumn.\"></p>\n",
@@ -43,8 +52,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2024/10/17/at-my-sons.html",
 				
-				"content_html": "<p>At my son’s request my wife made Chicken Noodle soup with very minimal broth. It thought it was delicious tonight and glad there is leftovers!</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2024/img-0460.jpeg\" alt=\"A blue pot on a stovetop contains cooked noodles, sliced carrots, and other vegetables. It sits on a kitchen counter beside a bright orange utensil holder and a digital clock.\"></p>\n",
-				"content_text": "At my son’s request my wife made Chicken Noodle soup with very minimal broth. It thought it was delicious tonight and glad there is leftovers!\n\n![A blue pot on a stovetop contains cooked noodles, sliced carrots, and other vegetables. It sits on a kitchen counter beside a bright orange utensil holder and a digital clock.](https://ericmwalk.blog/uploads/2024/img-0460.jpeg)\n",
+				"content_html": "<p>At my son’s request my wife made Chicken Noodle soup with very minimal broth. It thought it was delicious tonight and glad there is leftovers!</p>\n<p><img src=\"https://cdn.uploads.micro.blog/30906/2024/img-0460.jpeg\" alt=\"A blue pot on a stovetop contains cooked noodles, sliced carrots, and other vegetables. It sits on a kitchen counter beside a bright orange utensil holder and a digital clock.\"></p>\n",
+				"content_text": "At my son’s request my wife made Chicken Noodle soup with very minimal broth. It thought it was delicious tonight and glad there is leftovers!\n\n![A blue pot on a stovetop contains cooked noodles, sliced carrots, and other vegetables. It sits on a kitchen counter beside a bright orange utensil holder and a digital clock.](https://cdn.uploads.micro.blog/30906/2024/img-0460.jpeg)\n",
 				"date_published": "2024-10-17T21:48:34-05:00",
 				"url": "https://ericmwalk.blog/2024/10/17/at-my-sons.html"
 			},
@@ -14190,8 +14199,8 @@
 			{
 				"id": "http://ericmwalk.micro.blog/2020/10/22/it-was-a.html",
 				
-				"content_html": "<p>It was a rainy one out there today&hellip; 🏃</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It was a rainy one out there today... 🏃\n\n<img src=\"https://cdn.uploads.micro.blog/30906/2020/a0a83f2f41.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>It was a rainy one out <a href=\"https://www.strava.com/activities/4229696879\">there</a> today&hellip; 🏃</p>\n<p><img src=\"https://ericmwalk.blog/uploads/2020/a0a83f2f41.jpg\" alt=\"\"></p>\n",
+				"content_text": "It was a rainy one out [there](https://www.strava.com/activities/4229696879) today... 🏃\n\n![](https://ericmwalk.blog/uploads/2020/a0a83f2f41.jpg)\n",
 				"date_published": "2020-10-22T22:49:09-05:00",
 				"url": "https://ericmwalk.blog/2020/10/22/it-was-a.html",
 				"tags": ["Running"]
