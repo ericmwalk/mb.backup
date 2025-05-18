@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+SUMMARY:Basketball: MN Thunder vs. WOTN Dooney
+DTSTART;TZID=America/Chicago:20250503T140000
+DTEND;TZID=America/Chicago:20250503T150000
+LOCATION:White Bear Lake High School – Court 6
+DESCRIPTION:Bracket Game 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basketball: MN Thunder - Semifinal (if win Game 4)
+DTSTART;TZID=America/Chicago:20250503T170000
+DTEND;TZID=America/Chicago:20250503T180000
+LOCATION:White Bear Lake High School – Court 6
+DESCRIPTION:Bracket Game 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basketball: MN Thunder - Championship (if win Game 8)
+DTSTART;TZID=America/Chicago:20250504T140000
+DTEND;TZID=America/Chicago:20250504T150000
+LOCATION:White Bear Lake High School – Court 6
+DESCRIPTION:Championship Game
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basketball: MN Thunder - 3rd Place or Consolation (if lose semifinal or game 4)
+DTSTART;TZID=America/Chicago:20250504T130000
+DTEND;TZID=America/Chicago:20250504T140000
+LOCATION:White Bear Lake High School – Court 5 or 6
+DESCRIPTION:3rd Place or Consolation Game (Game 11 or 12)
+END:VEVENT
+END:VCALENDAR
